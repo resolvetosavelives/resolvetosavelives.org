@@ -1,16 +1,75 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= current_page.data.title || "Middleman" %></title>
-    <%= stylesheet_link_tag "site" %>
-    <%= javascript_include_tag "site" %>
-  </head>
-  <body>
-    <%= yield %>
-  </body>
+<head>
+  <!-- Google Analytics
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <!-- Use the title from a page's frontmatter if it has one -->
+  <title>Resolve to Save Lives</title>
+  <meta name="description" content="">
+  <meta name="author" content="Resolve to Save Lives">
+
+  <!-- Browser/Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Open Graph Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta property="og:url"                content="http://www.resolvetosavelives.org/" />
+  <meta property="og:type"               content="article" />
+  <meta property="og:title"              content="Resolve to Save Lives" />
+  <meta property="og:description"        content="" />
+  <meta property="og:image"              content="" />
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <%= stylesheet_link_tag "site" %>
+    
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <!-- JS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <!-- <%= javascript_include_tag "site" %> -->
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+    
+    <nav>
+    	<h1>Resolve to Save Lives</h1>
+    	<ul>
+    		<li><span>Project</span> <a href="#" class="nav-project nav-primary">Cardiovascular health</a>
+				<ul>
+					<li class="selected"><a href="#">Hypertension control</a></li>
+					<li><a href="#">Sodium reduction</a></li>
+					<li><a href="#">Trans-fats elimination</a></li>
+					<li><a href="#">Grants program</a></li>
+				</ul>
+			</li>
+    		<li><span>Project</span> <a href="#" class="nav-project nav-primary">Preventing epidemics</a>
+				<ul>
+					<li><a href="#">Overview</a></li>
+					<li><a href="#">Resources</a></li>
+					<li><a href="#">PreventEpidemics.org</a></li>
+				</ul>
+    		</li>
+    		<li><a href="#" class="nav-primary">About</a></li>
+            <li><a href="#" class="nav-primary">Partners</a></li>
+    		<li><a href="#" class="nav-primary">Get involved</a></li>
+    		<li><a href="#" class="nav-primary">Contact</a></li>
+    	</ul>
+    </nav>
+    <div class="main">
+        <%= yield %>
+    </div>
+
+</body>
 </html>

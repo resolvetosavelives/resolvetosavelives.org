@@ -1,24 +1,215 @@
+@font-face {
+    font-family: Metropolis;
+    src: url(/fonts/Metropolis-Thin.otf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(/fonts/Metropolis-Light.otf);
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(/fonts/Metropolis-Regular.otf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(/fonts/Metropolis-Medium.otf);
+    font-weight: 400;
+}
+
 body {
-  background-color: #fbc547;
-  color: #333;
-  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
-    "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
-    "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
-    "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
-  padding: 18vh 1rem;
-  text-align: center;
+    font-size: 16px;
+    font-family: Metropolis, sans-serif;
+    font-weight: 100;
+    background: #f6f6f6;
+    padding: 0;
+    margin: 0;
 }
 
-a {
-  color: rgba(#000, 0.7);
-
-  &:focus,
-  &:hover {
-    color: rgba(#000, 0.6);
-  }
+h1 {
+	font-weight: 100;
+	font-size: 64px;
+	letter-spacing: -0.02em;
 }
 
-.middleman-logo {
-  margin-bottom: 1rem;
-  width: 10rem;
+h2 {
+    font-weight: 200;
+    font-size: 24px;
+    letter-spacing: -0.02em;
+    margin: 1.5em 0 0.5em 0;
+}
+
+a,
+a:visited {
+    color: #3A4BC2;
+    text-decoration: none;
+    font-weight: 200;
+}
+
+a:hover,
+a:active {
+    text-decoration: underline;
+    color: #000;
+}
+
+p {
+	line-height: 1.4;
+}
+
+.graph {
+	border: 10px solid #fff;
+	box-shadow: 2px 2px 15px rgba(0,0,0,0.05);
+	margin: 2em 0;
+}
+
+.graph img {
+	width: 100%;
+}
+
+nav, .main {
+	padding: 16px;
+}
+
+nav {
+	background: #fff;
+}
+
+nav h1 {
+	font-size: 16px;
+}
+
+nav ul {
+    display: none;
+}
+
+.main h1 {
+	font-size: 36px;
+}
+
+/* For devices larger than 880px */
+@media (min-width: 880px) {
+    
+    body {
+        font-size: 18px;
+    }
+    
+    .main {
+    	margin: 60px 60px 60px 320px;
+    }
+    
+    h1 {
+		max-width: 10em;
+		margin: 0 0 20px 0;
+	}
+    
+    h2 {
+        font-size: 36px;
+    }
+	
+	.main h1 {
+		margin-top: 100px;
+		font-size: 64px;
+	}
+	
+	p.intro {
+		font-size: 140%;
+		max-width: 30em;
+	}
+    
+    nav {
+		background: #fff;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 240px;
+		height: 100%;
+		padding: 20px 0 0 20px;
+		overflow: scroll;
+	}
+	
+	nav ul {
+		display: block;
+        width: auto;
+	}
+	
+	nav .nav-mobile {
+		display: none;
+	}
+	
+	nav h1 {
+		white-space: nowrap;
+		text-indent: -2000em;
+		background: #f6f6f6;
+		width: 180px;
+		height: 60px;
+	}
+    
+    nav ul {
+    	list-style: none;
+    	margin: 0;
+    	padding: 0;
+    }
+    
+    nav li {
+    	border-top: 1px solid #e9e9e9;
+    	padding: 0;
+    	margin: 0;
+    	display: block;
+    }
+    
+    nav li a {
+    	display: block;
+    	padding: 10px 0;
+    	font-size: 80%;
+        font-weight: 300;
+        letter-spacing: -0.03em;
+        transition: border 0.5s;
+    }
+    
+    nav li a:hover {
+        border-right: 1px solid #999;
+        text-decoration: none;
+    }
+    
+    nav li.selected a {
+        background: rgba(247,140,109,0.1);
+        border-right: 1px solid rgba(247,140,109,1);
+        color: rgba(247,140,109,1);
+    }
+    
+    a.nav-project {
+    	font-size: 100%;
+    }
+    
+    nav li span {
+    	display: block;
+    	padding-top: 16px;
+    	font-size: 70%;
+    }
+    
+    nav ul ul {
+    	padding-bottom: 20px;
+    }
+    
+    nav ul ul li {
+    	border-top: none;
+    	padding: 0;
+    	margin: 0;
+    }
+    
+    nav ul ul li a {
+    	padding: 7px 0 7px 16px;
+        font-weight: 200;
+    }
+    
+    .graph {
+        border: 10px solid #fff;
+        margin: 2em 0 2em -20px;
+    }
+    
 }
