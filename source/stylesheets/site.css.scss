@@ -141,8 +141,9 @@ nav ul {
 		display: none;
 	}
 	
-	nav h1 {
-		white-space: nowrap;
+	nav h1 a {
+		display: inline-block;
+        white-space: nowrap;
 		text-indent: -2000em;
 		background: #f6f6f6;
 		width: 180px;
