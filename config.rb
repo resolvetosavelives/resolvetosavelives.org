@@ -5,6 +5,8 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
+activate :directory_indexes
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
@@ -12,6 +14,10 @@ end
 page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
+
+# Use relative URLs for assets (to support GitHub Pages)
+activate :relative_assets
+set :relative_links, true
 
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
