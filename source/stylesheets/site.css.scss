@@ -122,10 +122,20 @@ nav {
 	background: #fff;
 }
 
+.main {
+    min-height: 300px;
+}
+
 nav h1 {
 	font-size: 24px;
     font-weight: 400;
     margin: 16px 0 8px 0;
+}
+
+nav h1 a,
+nav h1 a:visited {
+    color: #000;
+    font-weight: 300;
 }
 
 nav ul {
@@ -212,6 +222,7 @@ footer p {
 .submenu.active {
     opacity: 1;
     height: 320px;
+    overflow: visible;
 }
 
 .mobile-nav {
@@ -225,6 +236,11 @@ footer p {
     list-style: none;
     padding: 0;
     margin: 0;
+}
+
+.mobile-nav a,
+.mobile-nav a:hover {
+    text-decoration: none;
 }
 
 .menu li {
@@ -245,8 +261,8 @@ footer p {
 .submenu li span {
     border-top: 1px solid $light-grey;
     display: block;
-    padding: 8px 16px 4px 16px;
-    margin: 0 -16px;
+    padding: 16px 32px 4px 32px;
+    margin: 0 -32px;
     font-size: 85%;
     letter-spacing: 0.05em;
     font-family: 'Caveat', 'Marker Felt', cursive;
