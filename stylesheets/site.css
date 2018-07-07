@@ -358,8 +358,26 @@ a.document-link:before {
     border-right: 1px solid #f78c6d;
     color: #f78c6d; }
 
+  nav li.selected li a {
+    background: none;
+    border: none;
+    color: #3A4BC2; }
+
   a.nav-project {
     font-size: 100%; }
+
+  .columns {
+    position: relative; }
+
+  .column {
+    float: left; }
+
+  .columns-3 .column {
+    width: 31%;
+    margin-right: 3.5%; }
+
+  .columns-3 .column:nth-child(3) {
+    margin: 0; }
 
   nav li span {
     display: block;
