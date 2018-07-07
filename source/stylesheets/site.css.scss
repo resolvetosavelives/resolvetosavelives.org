@@ -3,6 +3,7 @@ $large-text: 18px;
 $orange: rgba(247,140,109,1);
 $light-grey: #f6f6f6;
 $dark-grey: #999;
+$link-color: #3A4BC2;
 
 $shadow: 2px 2px 15px rgba(0,0,0,0.05);
 
@@ -66,7 +67,7 @@ h3 {
 
 a,
 a:visited {
-    color: #3A4BC2;
+    color: $link-color;
     text-decoration: none;
     font-weight: 200;
 }
@@ -437,8 +438,31 @@ a.document-link:before {
         color: $orange;
     }
     
+    nav li.selected li a {
+        background: none;
+        border: none;
+        color: $link-color;
+    }
+    
     a.nav-project {
     	font-size: 100%;
+    }
+    
+    .columns {
+        position: relative;
+    }
+    
+    .column {
+        float: left;
+    }
+    
+    .columns-3 .column {
+        width: 31%;
+        margin-right: 3.5%;
+    }
+    
+    .columns-3 .column:nth-child(3) {
+        margin: 0;
     }
     
     nav li span {
