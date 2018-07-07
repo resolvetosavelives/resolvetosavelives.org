@@ -2,6 +2,7 @@ $large-text: 18px;
 
 $orange: rgba(247,140,109,1);
 $light-grey: #f6f6f6;
+$dark-grey: #999;
 
 
 @font-face {
@@ -145,6 +146,7 @@ nav ul {
 .vs {
     display: block;
     font-size: 11px;
+    color: $dark-grey;
 }
 
 .main h1 {
