@@ -438,7 +438,7 @@ a.document-link:before {
         color: $orange;
     }
     
-    nav li.selected li a {
+    /* TEMP */ nav li.selected li a {
         background: none;
         border: none;
         color: $link-color;
