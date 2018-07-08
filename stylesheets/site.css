@@ -358,6 +358,7 @@ a.document-link:before {
     border-right: 1px solid #f78c6d;
     color: #f78c6d; }
 
+  /* TEMP */
   nav li.selected li a {
     background: none;
     border: none;
