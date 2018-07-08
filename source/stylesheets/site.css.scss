@@ -63,6 +63,15 @@ h3 {
     font-weight: 200;
     font-size: 18px;
     letter-spacing: -0.02em;
+    line-height: 1.2;
+}
+
+h4 {
+    font-weight: 200;
+    font-size: 14px;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    margin: 0;
 }
 
 a,
@@ -102,6 +111,11 @@ p {
 .graph img,
 .photo img {
 	width: 95%;
+    border: 4px solid #fff;
+	box-shadow: $shadow;
+}
+
+.image img {
     border: 4px solid #fff;
 	box-shadow: $shadow;
 }
@@ -352,6 +366,11 @@ a.document-link:before {
         font-size: 20px;
         margin: 2em 0 0 0;
     }
+    
+    h2 span,
+    h3 span {
+        display: block;
+    }
 	
 	.main h1 {
 		margin-top: 100px;
@@ -454,6 +473,7 @@ a.document-link:before {
     
     .column {
         float: left;
+        position: relative;
     }
     
     .columns-3 .column {
@@ -463,6 +483,22 @@ a.document-link:before {
     
     .columns-3 .column:nth-child(3) {
         margin: 0;
+    }
+    
+    .columns .image img {
+        width: 95%;
+        height: auto;
+        margin: 1em 0 -16px 0;
+    }
+    
+    .columns h3 {
+        font-size: 100%;
+        min-height: 2.5em;
+        margin-bottom: 0.2em;
+    }
+    
+    .columns p {
+        font-size: 85%;
     }
     
     nav li span {
@@ -584,7 +620,8 @@ a.document-link:before {
     }
     
     .graph img,
-    .photo img {
+    .photo img,
+    .image img {
         border-width: 10px;
     }
     
@@ -635,6 +672,46 @@ a.document-link:before {
     }
     .resources .document-bibliography:before {
         content: 'Biblio';
+    }
+    
+    body.preventing-epidemics-resources .main, 
+    body.preventing-epidemics-resources footer {
+        margin-left: 520px;
+        max-width: 35em;
+    }
+    
+    body.preventing-epidemics-resources .main h1 {
+		margin-top: 0;
+		font-size: 42px;
+        max-width: 100%;
+    }
+    
+    .second-nav {
+        position: fixed;
+        top: 0;
+        left: 260px;
+        height: 100%;
+        width: 188px;
+        border-right: 1px solid rgba(0,0,0,0.1);
+        padding: 80px 16px 16px 16px;
+        overflow: scroll;
+    }
+    
+    .second-nav a {
+        display: block;
+        padding: 6px 0;
+        font-size: 85%;
+    }
+    
+    .second-nav ol {
+        margin: 0.5em 0 1em 0;
+        padding-left: 32px;
+        font-size: 85%;
+        color: #999;
+    }
+    
+    .second-nav .clear {
+        height: 100px;
     }
     
 }
