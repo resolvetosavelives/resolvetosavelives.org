@@ -161,7 +161,7 @@ nav, .main {
 
 nav {
 	background: #fff;
-    padding: 32px 16px;
+    padding: 16px;
 }
 
 .main {
@@ -171,13 +171,20 @@ nav {
 nav h1 {
 	font-size: 24px;
     font-weight: 400;
-    margin: 0 0 8px 0;
+    margin: 0;
 }
 
 nav h1 a,
 nav h1 a:visited {
     color: #000;
     font-weight: 300;
+    display: inline-block;
+    white-space: nowrap;
+    text-indent: -2000em;
+    background: $light-grey;
+    width: 150px;
+    height: 45px;
+    margin: 0 0 8px 0;
 }
 
 nav ul {
@@ -378,8 +385,7 @@ a.document-link:before {
 	}
     
     .vs {
-        padding: 0 0 32px 10px;
-        margin-top: -10px;
+        padding: 8px 0 16px 10px;
     }
 	
 	p.intro {
@@ -398,6 +404,12 @@ a.document-link:before {
 		overflow: scroll;
         box-sizing: border-box;
 	}
+    
+    nav h1 a {
+        margin: 0 0 0 10px;
+        width: 200px;
+        height: 60px;
+    }
 	
 	nav ul {
 		display: block;
@@ -406,16 +418,6 @@ a.document-link:before {
 	
 	nav .nav-mobile {
 		display: none;
-	}
-	
-	nav h1 a {
-		display: inline-block;
-        white-space: nowrap;
-		text-indent: -2000em;
-		background: $light-grey;
-		width: 200px;
-		height: 60px;
-        margin: 0 0 8px 10px;
 	}
     
     nav ul {
@@ -677,12 +679,12 @@ a.document-link:before {
     
     body.preventing-epidemics-resources .main, 
     body.preventing-epidemics-resources footer {
-        margin-left: 520px;
-        max-width: 35em;
+        margin-left: 500px;
+        max-width: 45em;
     }
     
     body.preventing-epidemics-resources .main h1 {
-		margin-top: 0;
+		margin-top: -40px;
 		font-size: 42px;
         max-width: 100%;
     }
@@ -694,7 +696,7 @@ a.document-link:before {
         height: 100%;
         width: 220px;
         border-right: 1px solid rgba(0,0,0,0.1);
-        padding: 80px 16px 16px 16px;
+        padding: 40px 16px 16px 16px;
         overflow: scroll;
         box-sizing: border-box;
     }
@@ -723,7 +725,6 @@ a.document-link:before {
         content: counter(step-counter);
         margin-right: 5px;
         font-size: 80%;
-        //background-color: #fff;
         padding: 3px 0;
         border-radius: 100px;
         position: absolute;
