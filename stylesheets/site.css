@@ -592,17 +592,17 @@ a.document-link:before {
   .resources .document-bibliography:before {
     content: 'Biblio'; }
 
-  body.preventing-epidemics-resources .main,
-  body.preventing-epidemics-resources footer {
+  body.secondary-nav .main,
+  body.secondary-nav footer {
     margin-left: 500px;
     max-width: 45em; }
 
-  body.preventing-epidemics-resources footer {
+  body.secondary-nav footer {
     padding-left: 32px;
     margin-left: 480px; }
 
-  body.preventing-epidemics-resources .main h1 {
-    margin-top: -40px;
+  body.secondary-nav .main h1 {
+    margin-top: -20px;
     font-size: 42px;
     max-width: 100%; }
 
