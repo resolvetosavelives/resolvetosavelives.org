@@ -159,6 +159,9 @@ nav ul {
 .main h1 {
   font-size: 36px; }
 
+.columns .image img {
+  width: 95%; }
+
 .member {
   margin: 1em 0; }
 
