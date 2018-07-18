@@ -352,7 +352,7 @@ a.document-link:before {
     
     .main {
     	margin: 40px 60px 60px 320px;
-        min-height: 500px;
+        min-height: 900px;
         position: relative;
         max-width: 45em;
     }
@@ -654,7 +654,7 @@ a.document-link:before {
     }
     
     body.home {
-        background: $light-grey url(/images/home-feature.jpg) 0 0;
+        background: $light-grey url(/images/home-feature.jpg) 0 0 no-repeat;
         background-size: 100% auto;
     }
     
