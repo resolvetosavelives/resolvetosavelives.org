@@ -487,6 +487,8 @@ a.document-link:before {
     
     a.nav-project {
     	font-size: 100%;
+        padding-top: 6px;
+        padding-bottom: 6px;
     }
     
     .columns {
@@ -525,7 +527,7 @@ a.document-link:before {
     
     nav li span {
     	display: block;
-    	padding: 16px 0 0 10px;
+    	padding: 16px 0 2px 10px;
     	font-size: 85%;
         letter-spacing: 0.05em;
         font-family: 'Caveat', 'Marker Felt', cursive;
