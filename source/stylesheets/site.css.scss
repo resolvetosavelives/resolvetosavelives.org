@@ -33,11 +33,6 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
     font-weight: 400;
 }
 
-@font-face {
-    font-family: Caveat;
-    src: url(/fonts/caveat-bold-webfont.ttf);
-}
-
 body {
     font-size: 16px;
     font-family: Metropolis, sans-serif;
@@ -128,17 +123,16 @@ p {
     text-align: center;
     line-height: 1.3;
     margin: 0.5em 0 0 0;
-    color: $orange;
-    font-family: 'Caveat', 'Marker Felt', cursive;
-    font-style: italic;
+    color: $dark-grey;
+    font-size: 80%;
 }
 
 .image-float {
     float: right;
     margin: 0 8px 16px 32px;
     text-align: center;
-    font-family: 'Caveat';
-    color: rgba(247,140,109,1);
+    color: $dark-grey;
+    font-size: 80%;
     line-height: 1.3;
     width: 110px;
 }
@@ -196,6 +190,10 @@ nav ul {
     display: block;
     font-size: 11px;
     color: $dark-grey;
+}
+
+.vs-logo {
+    width: 160px;
 }
 
 .main h1 {
@@ -259,11 +257,6 @@ footer a.footer-link {
     padding: 0 0 16px 0;
 }
 
-.footer-contents div.col {
-    margin-bottom: 1em;
-    line-height: 1.3;
-}
-
 .submenu {
     height: 1px;
     overflow: hidden;
@@ -318,7 +311,6 @@ footer a.footer-link {
     margin: 0 -32px;
     font-size: 85%;
     letter-spacing: 0.05em;
-    font-family: 'Caveat', 'Marker Felt', cursive;
     font-style: italic;
     color: $orange;
 }
@@ -356,114 +348,25 @@ a.document-link:before {
         padding: 20px 0 0 100px;
         min-height: 900px;
         position: relative;
-        max-width: 50em;
-    }
-    
-    body.home .main {
-        margin: 0 0 0 260px;
-        padding-left: 0;
-        padding-top: 0;
-        max-width: none;
-        text-align: center;
-    }
-    
-    body.home h1 {
-        max-width: none;
-        color: #fff;
-    }
-    
-    .home-feature-wrapper {
-        background: url(/images/angle.svg) 0 100% no-repeat;
-        background-size: 100% auto;
-        padding: 100px 0 300px 0;
-    }
-    
-    .home-feature {
-        max-width: 700px;
-        margin: 0 auto;
-    }
-    
-    .home-feature p {
-        font-size: 24px;
-        color: rgba(0,0,0,0.6);
-        max-width: 700px;
-        margin-bottom: 4em;
-    }
-    
-    .time {
-        min-height: 2000px;
-        margin-top: -300px;
-        position: relative;
-    }
-    
-    .time .line {
-        width: 4px;
-        background: #fff;
-        border-radius: 4px;
-        position: absolute;
-        top: 40px;
-        left: 50%;
-        margin-left: -2px;
-        height: 100%;
-    }
-    
-    .time-item {
-        width: 40%;
-        text-align: left;
-        position: relative;
-        margin-top: 60px;
-    }
-    
-    .time-right .time-content {
-        padding: 20px 0 20px 40px;
-    }
-    
-    .time-left .time-content {
-        padding: 20px 40px 20px 0;
-        position: relative;
-    }
-    
-    .time-content .image img {
-        width: 100%;
-        box-sizing: border-box;
-        margin: 0 0 20px 0;
-    }
-    
-    .time-content p {
-        margin: 0;
-    }
-    
-    .time-date {
-        text-transform: uppercase;
-        font-size: 12px;
-        font-weight: 200;
-        color: rgba(0,0,0,0.5);
-        border-bottom: 1px solid rgba(0,0,0,0.2);
-        mix-blend-mode: multiply;
-        padding-bottom: 0.5em;
-    }
-    
-    .time-left {
-        float: left;
-        margin-left: 10%;
-    }
-    
-    .time-right {
-        float: right;
-        margin-right: 10%;
-    }
-    
-    .time-right .time-date {
-        text-align: right;
+        max-width: 750px;
     }
     
     footer {
-        margin: 100px 0 0 260px;
-        padding: 40px 0 100px 76px;
+        margin: 0 0 0 260px;
+        padding: 200px 60px 100px 0;
+        background: url(/images/footer.svg);
+        background-size: 100% auto;
+        border: none;
+        text-align: right;
+    }
+    
+    .footer-section {
+        float: right;
+        margin-left: 64px;
     }
     
     h1 {
-		max-width: 10em;
+		max-width: 650px;
 		margin: 0 0 20px 0;
 	}
     
@@ -503,13 +406,6 @@ a.document-link:before {
     .image-float img {
         width: 200px;
         border: 10px solid #fff;
-    }
-    
-    .footer-contents div.col {
-        float: left;
-        width: 20%;
-        margin-right: 32px;
-        font-size: 85%;
     }
     
     nav {
@@ -628,11 +524,9 @@ a.document-link:before {
     nav li span {
     	display: block;
     	padding: 16px 0 2px 10px;
-    	font-size: 85%;
+    	font-size: 70%;
         letter-spacing: 0.05em;
-        font-family: 'Caveat', 'Marker Felt', cursive;
-        font-style: italic;
-        color: $orange;
+        color: $dark-grey;
     }
     
     nav ul ul {
@@ -656,7 +550,7 @@ a.document-link:before {
     }
     
     .team {
-        margin: 0 -16px;
+        margin: 0 0 0 -16px;
     }
     
     .member {
@@ -803,7 +697,7 @@ a.document-link:before {
     body.secondary-nav .main, 
     body.secondary-nav footer {
         margin-left: 500px;
-        max-width: 45em;
+        max-width: 750px;
     }
     
     body.secondary-nav footer {

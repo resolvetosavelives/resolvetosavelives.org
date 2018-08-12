@@ -1,0 +1,130 @@
+/* For devices larger than 880px */
+@media (min-width: 880px) {
+    body.home .main {
+        margin: 0 0 0 260px;
+        padding-left: 0;
+        padding-top: 0;
+        max-width: none;
+        text-align: center;
+    }
+    
+    .home-feature h1 {
+        max-width: none;
+        color: #fff;
+    }
+    
+    .home-feature h2 {
+        color: #fff;
+        font-weight: 100;
+    }
+    
+    .home-feature-wrapper {
+        background: url(/images/angle.svg) 0 100% no-repeat;
+        background-size: 100% auto;
+        padding: 100px 0 300px 0;
+    }
+    
+    .home-feature {
+        max-width: 800px;
+        padding: 0 40px;
+        margin: 0 auto;
+    }
+    
+    .home-feature p {
+        color: rgba(0,0,0,0.6);
+        margin-bottom: 4em;
+        font-size: 140%;
+    }
+    
+    .time {
+        min-height: 2000px;
+        margin-top: -300px;
+        position: relative;
+    }
+    
+    .time .line {
+        width: 5px;
+        background: #fff;
+        border-radius: 5px;
+        position: absolute;
+        top: 40px;
+        left: 50%;
+        margin-left: -2px;
+        height: 100%;
+        display: block;
+    }
+    
+    .time-item {
+        width: 40%;
+        text-align: left;
+        position: relative;
+        margin-top: 60px;
+    }
+    
+    .time-right .time-content {
+        padding: 20px 0 20px 40px;
+    }
+    
+    .time-left .time-content {
+        padding: 20px 40px 20px 0;
+        position: relative;
+    }
+    
+    .time-content .image img {
+        width: 100%;
+        box-sizing: border-box;
+        margin: 0 0 16px 0;
+    }
+    
+    .time-content p {
+        margin: 0;
+    }
+    
+    .time-date {
+        text-transform: uppercase;
+        font-size: 12px;
+        font-weight: 200;
+        color: rgba(0,0,0,0.4);
+        border-bottom: 1px solid rgba(0,0,0,0.15);
+        mix-blend-mode: multiply;
+        padding-bottom: 0.5em;
+        position: relative;
+    }
+    
+    .time-date:after {
+        content: ".";
+        color: rgba(255,255,255,0);
+        position: absolute;
+        bottom: -9px;
+        right: -9px;
+        width: 17px;
+        height: 17px;
+        border-radius: 20px;
+        background: #ff8565;
+    }
+    
+    .time-right .time-date:after {
+        right: auto;
+        left: -8px;
+    }
+    
+    .time-left {
+        display: inline-block;
+        float: left;
+        margin-left: 10%;
+    }
+    
+    .time-right {
+        display: inline-block;
+        float: right;
+        margin-right: 10%;
+    }
+    
+    .time-right .time-date {
+        text-align: right;
+    }
+    
+    .time .time-item:nth-child(3) {
+        margin-top: 200px;
+    }
+}
