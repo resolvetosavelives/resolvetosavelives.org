@@ -1,6 +1,6 @@
 $large-text: 18px;
 
-$orange: rgba(247,140,109,1);
+$orange: #ff8565;
 $light-grey: #f6f6f6;
 $dark-grey: #999;
 $link-color: #3A4BC2;
@@ -352,10 +352,42 @@ a.document-link:before {
     }
     
     .main {
-    	margin: 40px 60px 60px 320px;
+    	margin: 0 60px 60px 260px;
+        padding: 20px 0 0 100px;
         min-height: 900px;
         position: relative;
-        max-width: 45em;
+        max-width: 50em;
+    }
+    
+    body.home .main {
+        margin: 0 0 0 260px;
+        padding-left: 0;
+        max-width: none;
+        background: $orange;
+        text-align: center;
+    }
+    
+    body.home h1 {
+        max-width: none;
+        color: #fff;
+    }
+    
+    .home-feature {
+        max-width: 700px;
+        margin: 0 auto;
+    }
+    
+    .home-feature p {
+        font-size: 24px;
+        color: rgba(0,0,0,0.6);
+        max-width: 700px;
+        margin-bottom: 4em;
+    }
+    
+    .time {
+        background: url(/images/angle.svg) 0 0 no-repeat;
+        background-size: cover;
+        min-height: 500px;
     }
     
     footer {
@@ -648,17 +680,6 @@ a.document-link:before {
     .photo img,
     .image img {
         border-width: 10px;
-    }
-    
-    .home-feature {
-        max-width: 18em;
-        font-size: 130%;
-        font-weight: 100;
-    }
-    
-    body.home {
-        background: $light-grey url(/images/home-feature.jpg) 0 0 no-repeat;
-        background-size: 100% auto;
     }
     
     .mobile-nav {
