@@ -245,11 +245,11 @@ nav ul {
 
 footer {
     margin-top: 60px;
-    padding: 16px 16px 60px 16px;
-    background: $light-grey;
-    border-top: 1px solid rgba(0,0,0,0.1);
+    padding: 100px 16px 60px 16px;
+    background: url(/images/footer.svg) 100% 0;
     clear: both;
     font-size: 85%;
+    text-align: center;
 }
 
 footer a.footer-link {
@@ -353,10 +353,8 @@ a.document-link:before {
     
     footer {
         margin: 0 0 0 260px;
-        padding: 200px 60px 100px 0;
-        background: url(/images/footer.svg);
+        padding: 260px 60px 100px 0;
         background-size: 100% auto;
-        border: none;
         text-align: right;
     }
     
