@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1423px" height="2981px" viewBox="0 0 1423 2981" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Timeline</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.8375205%" y1="119.585886%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#364BC9" offset="0%"></stop>
+            <stop stop-color="#FE8B6D" offset="68.5400108%"></stop>
+            <stop stop-color="#FF8565" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Timeline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FF8565" x="0" y="0" width="1423" height="2107"></rect>
+        <polygon id="Rectangle-2" fill="url(#linearGradient-1)" points="-34 1876 1452 1876 1452 2688.92952 -34 2981"></polygon>
+    </g>
+</svg>
