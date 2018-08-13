@@ -66,7 +66,7 @@ a:active {
 .clear {
   clear: both; }
 
-p {
+p, .main li {
   line-height: 1.4; }
 
 .graph,
@@ -430,7 +430,6 @@ a.document-link:before {
 
   .columns h3 {
     font-size: 100%;
-    min-height: 2.5em;
     margin-bottom: 0.2em; }
 
   .columns p {
