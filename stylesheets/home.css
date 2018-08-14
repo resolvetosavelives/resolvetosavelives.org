@@ -172,12 +172,14 @@
   .time-left {
     display: inline-block;
     float: left;
-    margin-left: 10%; }
+    margin-left: 10%;
+    clear: left; }
 
   .time-right {
     display: inline-block;
     float: right;
-    margin-right: 10%; }
+    margin-right: 10%;
+    clear: right; }
 
   .time-right .time-date {
     text-align: right; }
