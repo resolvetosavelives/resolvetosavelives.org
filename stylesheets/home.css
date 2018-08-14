@@ -1,13 +1,17 @@
 .partners {
-  line-height: 3em;
   max-width: 50em;
   text-align: center;
   margin: 0 auto; }
 
-.partners a {
-  padding: 0 0.5em;
-  color: #000;
-  white-space: nowrap; }
+.partners img {
+  width: 200px;
+  margin: 20px;
+  opacity: 0.4;
+  -webkit-transition: opacity 0.5s;
+  transition: opacity 0.5s; }
+
+.partners a:hover img {
+  opacity: 1; }
 
 /* For devices smaller than 880px */
 @media (max-width: 880px) {
