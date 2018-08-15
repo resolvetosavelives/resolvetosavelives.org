@@ -161,7 +161,6 @@
     
     .time-left .time-content {
         padding: 20px 40px 20px 0;
-        position: relative;
     }
     
     .time-content .image img {
@@ -201,11 +200,20 @@
         left: -8px;
     }
     
-    .time-left {
+    .time-left, .time-full {
         display: inline-block;
         float: left;
         margin-left: 10%;
         clear: left;
+    }
+    
+    .time-full {
+        clear: both;
+    }
+    
+    .time-full .image img {
+        width: 200%;
+        margin-top: 20px;
     }
     
     .time-right {
