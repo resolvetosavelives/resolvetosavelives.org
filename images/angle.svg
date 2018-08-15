@@ -4,14 +4,14 @@
     <title>Timeline</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="74.1104475%" y1="154.000283%" x2="50%" y2="0%" id="linearGradient-1">
-            <stop stop-color="#364BC9" offset="0%"></stop>
-            <stop stop-color="#FE8B6D" offset="65.7439839%"></stop>
-            <stop stop-color="#FF8565" offset="100%"></stop>
-        </linearGradient>
+        <polygon id="path-1" points="0 0.984375 1425 0.984375 1425 2695.21586 0 2982"></polygon>
     </defs>
     <g id="Timeline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#FF8565" x="0" y="0" width="1423" height="2107"></rect>
-        <polygon id="Rectangle-2" fill="url(#linearGradient-1)" points="-34 1876 1452 1876 1452 2688.92952 -34 2981"></polygon>
+        <g id="Group-3" transform="translate(0.000000, -1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#101E8D" xlink:href="#path-1"></use>
+        </g>
     </g>
 </svg>
