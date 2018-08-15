@@ -121,7 +121,7 @@
     }
     
     .home-feature p {
-        color: rgba(0,0,0,0.6);
+        color: rgba(255,255,255,0.4);
         margin-bottom: 4em;
         font-size: 140%;
     }
@@ -176,7 +176,6 @@
         font-weight: 200;
         color: rgba(0,0,0,0.4);
         border-bottom: 1px solid rgba(0,0,0,0.15);
-        mix-blend-mode: multiply;
         padding-bottom: 0.5em;
         position: relative;
     }
@@ -214,6 +213,11 @@
     
     .time-right .time-date {
         text-align: right;
+    }
+    
+    .time .time-item:nth-child(2) .time-date {
+        color: rgba(255,255,255,0.5);
+        border-color: rgba(255,255,255,0.2);
     }
     
     .time .time-item:nth-child(3) {
