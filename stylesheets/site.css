@@ -462,6 +462,13 @@ a.document-link:before {
   .photo {
     margin: 2em 0 2em -16px; }
 
+  .graph img,
+  .photo img {
+    width: 100%; }
+
+  .photo-array-3 img {
+    width: 29%; }
+
   .team {
     margin: 0 0 0 -16px; }
 
