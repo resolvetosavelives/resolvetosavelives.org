@@ -341,6 +341,13 @@ a.document-link:before {
     box-shadow: 0 0 5px rgba(0,0,0,0.05);
 }
 
+.references {
+    border-top: 1px solid rgba(0,0,0,0.1);
+    margin-top: 60px;
+    clear: both;
+    font-size: 70%;
+}
+
 /* For devices larger than 880px */
 @media (min-width: 880px) {
     
@@ -751,31 +758,47 @@ a.document-link:before {
     }
     
     .second-nav ol {
-        margin: 0.5em 0 1em -8px;
-        padding-left: 0;
         font-size: 85%;
         color: #999;
+        margin: 0.5em 0 1em -8px;
+    }
+    
+    .second-nav ol li:before {
+        font-size: 80%;
+        margin-right: 5px;
+        top: 4px;
+        background: none;
+    }
+    
+    .second-nav ol li {
+        padding-left: 2em;
+        margin-bottom: 0;
+    }
+    
+    ol {
+        padding-left: 0;
         list-style: none;
     }
     
-    .second-nav li {
+    ol li {
         counter-increment: step-counter;
         position: relative;
-        padding-left: 2em;
+        padding-left: 3em;
+        margin-bottom: 1em;
+        color: #000;
     }
     
-    .second-nav li:before {
+    ol li:before {
         content: counter(step-counter);
-        margin-right: 5px;
-        font-size: 80%;
         padding: 3px 0;
         border-radius: 100px;
         position: absolute;
         left: 0;
-        top: 4px;
+        top: -3px;
         text-align: center;
         min-width: 2.2em;
         display: block;
+        background: #fff;
     }
     
     .second-nav .clear {
