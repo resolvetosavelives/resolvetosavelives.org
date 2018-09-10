@@ -346,11 +346,11 @@ a.document-link:before {
     max-width: 30em; }
 
   .image-float {
-    margin: 0 0 32px 64px;
-    width: 220px; }
+    margin: 0 -16px 32px 64px;
+    width: 260px; }
 
   .image-float img {
-    width: 200px;
+    width: 240px;
     border: 10px solid #fff; }
 
   nav {
