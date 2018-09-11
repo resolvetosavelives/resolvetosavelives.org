@@ -33,9 +33,9 @@ h1 em {
   font-style: normal; }
 
 h2 {
-  font-weight: 200;
+  font-weight: 300;
   font-size: 24px;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.03em;
   margin: 1.5em 0 0.5em 0; }
 
 h3 {
@@ -295,11 +295,10 @@ a.document-link:before {
     font-size: 18px; }
 
   .main {
-    margin: 0 60px 60px 260px;
+    margin: 0 100px 60px 260px;
     padding: 20px 0 0 100px;
     min-height: 900px;
-    position: relative;
-    max-width: 750px; }
+    position: relative; }
 
   footer {
     margin: 0 0 0 260px;
@@ -324,6 +323,7 @@ a.document-link:before {
     margin: 0 0 20px 0; }
 
   h2 {
+    margin-top: 3em;
     font-size: 28px; }
 
   h3 {
@@ -655,7 +655,8 @@ a.document-link:before {
 
   ol {
     padding-left: 0;
-    list-style: none; }
+    list-style: none;
+    margin-bottom: 2em; }
 
   ol li {
     counter-increment: step-counter;
@@ -678,3 +679,10 @@ a.document-link:before {
 
   .second-nav .clear {
     height: 100px; } }
+@media (min-width: 1200px) {
+  .main {
+    max-width: 850px; }
+
+  .main h1 {
+    max-width: 750px;
+    font-size: 72px; } }
