@@ -689,40 +689,19 @@ a.document-link:before {
         width: 220px;
         padding: 0 36px 0 0;
         margin-left: -16px;
-        min-height: 180px;
+        min-height: 240px;
         font-size: 85%;
         line-height: 1.3;
         vertical-align: top;
+        position: relative;
     }
     
     .resources a.document-link:before {
-        display: block;
-        width: 190px;
-        padding: 50px 0;
-        margin: 12px 0;
-        color: #999;
-        margin-left: 15px;
-        text-decoration: none;
-        position: relative;
-        top: 0;
-        left: 0;
+        display: none;
     }
     
-    .resources a.document-link:hover:before {
-        box-shadow: 0 0 5px rgba(0,0,0,0.2);
-    }
-    
-    .resources .document-pdf:before {
-        content: 'PDF';
-    }
-    .resources .document-video:before {
-        content: 'Video';
-    }
-    .resources .document-url:before {
-        content: 'Link';
-    }
-    .resources .document-bibliography:before {
-        content: 'Biblio';
+    .resources .document-link img {
+        width: 100%;
     }
     
     body.secondary-nav .main, 
