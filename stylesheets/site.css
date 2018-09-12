@@ -163,7 +163,8 @@ nav h1 a:visited {
   display: inline-block;
   white-space: nowrap;
   text-indent: -2000em;
-  background: #f6f6f6;
+  background: url(../images/logo.png) no-repeat;
+  background-size: auto 100%;
   width: 150px;
   height: 45px;
   margin: 0 0 8px 0; }
@@ -405,8 +406,8 @@ label {
 
   nav h1 a {
     margin: 0 0 0 10px;
-    width: 200px;
-    height: 60px; }
+    width: 240px;
+    height: 70px; }
 
   nav ul {
     display: block;
