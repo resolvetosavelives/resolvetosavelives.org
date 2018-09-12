@@ -50,6 +50,10 @@ button {
     box-shadow: none;
 }
 
+.light {
+    color: $dark-grey;
+}
+
 h1 {
 	font-weight: 100;
 	font-size: 64px;
@@ -373,6 +377,7 @@ a.document-link:before {
 form {
     display: block;
     margin: 2em 0;
+    width: 100%;
 }
 
 .form-row input,
@@ -380,12 +385,25 @@ form {
     border: none;
     background: #fff;
     border-radius: 3px;
-    width: 70%;
+    width: 90%;
     display: block;
     font-size: 100%;
     padding: 12px;
     margin: 0.5em 0 1em 0;
-    border: 1px solid rgba(0,0,0,0.1);
+    border-top: 1px solid rgba(0,0,0,0.1);
+}
+
+label {
+    font-size: 85%;
+    font-weight: 300;
+}
+
+.form-button button {
+    font-size: 85%;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    cursor: pointer;
 }
 
 /* For devices larger than 880px */
@@ -558,6 +576,10 @@ form {
     .columns-3 .column {
         width: 31%;
         margin-right: 3.5%;
+    }
+    
+    .columns-3 .column p {
+        padding-top: 1em;
     }
     
     .columns-3 .column:nth-child(3) {
