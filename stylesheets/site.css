@@ -79,7 +79,7 @@ button {
   background: #3A4BC2;
   color: #fff;
   padding: 10px 60px;
-  border-radius: 5px; }
+  border-radius: 3px; }
 
 .footnote {
   font-size: 50%;
@@ -281,23 +281,14 @@ footer a.footer-link {
 
 a.document-link {
   display: block;
-  margin: 10px 0;
-  padding-left: 28px;
+  margin: 24px 0;
+  padding-left: 40px;
   position: relative; }
 
-a.document-link:before {
-  content: '.';
-  color: #fff;
-  background: #fff;
-  display: inline-block;
+a.document-link img {
+  width: 32px;
   position: absolute;
-  left: 0;
-  top: 2px;
-  width: 16px;
-  height: 18px;
-  vertical-align: middle;
-  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
-          box-shadow: 0 0 5px rgba(0, 0, 0, 0.05); }
+  left: 0; }
 
 .references {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -613,10 +604,6 @@ label {
   .mobile-nav {
     display: none; }
 
-  a.document-link:before {
-    width: 20px;
-    height: 24px; }
-
   .resources .document-link {
     text-align: center;
     display: inline-block;
@@ -630,11 +617,9 @@ label {
     vertical-align: top;
     position: relative; }
 
-  .resources a.document-link:before {
-    display: none; }
-
   .resources .document-link img {
-    width: 90%; }
+    width: 90%;
+    position: relative; }
 
   body.secondary-nav .main,
   body.secondary-nav footer {
