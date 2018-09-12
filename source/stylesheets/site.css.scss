@@ -206,7 +206,7 @@ nav h1 a:visited {
     background-size: auto 100%;
     width: 150px;
     height: 45px;
-    margin: 0 0 8px 0;
+    margin: 0;
 }
 
 nav ul {
@@ -217,6 +217,7 @@ nav ul {
     display: block;
     font-size: 11px;
     color: $dark-grey;
+    margin-top: -2px;
 }
 
 .vs-logo {
@@ -491,7 +492,7 @@ label {
 	}
     
     nav h1 a {
-        margin: 0 0 0 10px;
+        margin: 0 0 0 6px;
         width: 240px;
         height: 76px;
     }
