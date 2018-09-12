@@ -65,15 +65,16 @@
 				</ul>
     		</li>
     		<li class="<%= current_page.data.section == "about" ? "selected" : "" %>"><a href="/about"><strong>About</strong></a></li>
-    		<li><a href="#"><strong>Contact</strong></a></li>
+            <li class="<%= current_page.data.section == "resources" ? "selected" : "" %>"><a href="/resources"><strong>Resources</strong></a></li>
+    		<li class="<%= current_page.data.section == "contact" ? "selected" : "" %>"><a href="/contact"><strong>Contact us</strong></a></li>
     	</ul>
     </nav>
     
     <div class="mobile-nav">
         <ul class="menu">
             <li class="menu-item"><a href="#">Projects...</a></li>
+            <li class="<%= current_page.data.section == "resources" ? "selected" : "" %>"><a href="/resources"><strong>Resources</strong></a></li>
             <li><a href="/about">About</a></li>
-            <li><a href="/contact">Contact</a></li>
         </ul>
         <ul class="submenu">
             <li class="<%= current_page.data.section == "cardiovascular-health" ? "selected" : "" %>"><span>Project</span> <a href="/cardiovascular-health" class="nav-project nav-primary">Cardiovascular health</a>
@@ -108,6 +109,7 @@
             </div>
             
             <div class="footer-section footer-links"> 
+                <a href="/contact" class="footer-link">Contact us</a>
                 <a href="#" class="footer-link">Conflict of interest statement</a>
                 <a href="#" class="footer-link">Privacy policy</a>
                 <a href="#" class="footer-link">Disclosures</a>
