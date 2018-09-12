@@ -23,6 +23,14 @@ body {
   padding: 0;
   margin: 0; }
 
+input,
+textarea,
+button {
+  font-family: Metropolis, sans-serif;
+  font-weight: 300;
+  -webkit-box-shadow: none;
+          box-shadow: none; }
+
 h1 {
   font-weight: 100;
   font-size: 64px;
@@ -62,7 +70,8 @@ a:active {
   text-decoration: underline;
   color: #000; }
 
-a.button {
+a.button,
+button {
   display: inline-block;
   background: #3A4BC2;
   color: #fff;
@@ -295,6 +304,22 @@ a.document-link:before {
 
 .references h2 {
   margin-bottom: 1em; }
+
+form {
+  display: block;
+  margin: 2em 0; }
+
+.form-row input,
+.form-row textarea {
+  border: none;
+  background: #fff;
+  border-radius: 3px;
+  width: 70%;
+  display: block;
+  font-size: 100%;
+  padding: 12px;
+  margin: 0.5em 0 1em 0;
+  border: 1px solid rgba(0, 0, 0, 0.1); }
 
 /* For devices larger than 880px */
 @media (min-width: 880px) {
