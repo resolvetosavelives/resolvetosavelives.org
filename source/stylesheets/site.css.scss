@@ -221,7 +221,8 @@ nav ul {
 
 .vs {
     display: block;
-    font-size: 11px;
+    margin: 3px 0 0 0;
+    font-size: 70%;
     color: $dark-grey;
 }
 
@@ -604,7 +605,7 @@ label {
     	display: block;
     	padding: 16px 0 2px 10px;
     	font-size: 70%;
-        letter-spacing: 0.05em;
+        letter-spacing: 0;
         color: $dark-grey;
     }
     
