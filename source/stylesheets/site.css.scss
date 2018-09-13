@@ -3,6 +3,8 @@ $large-text: 18px;
 $orange: #ff8565;
 $light-grey: #f6f6f6;
 $dark-grey: #999;
+$darker-grey: #444;
+$title-color: #111;
 $link-color: #3A4BC2;
 
 $shadow: 2px 2px 15px rgba(0,0,0,0.05);
@@ -36,7 +38,8 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
 body {
     font-size: 16px;
     font-family: Metropolis, sans-serif;
-    font-weight: 100;
+    font-weight: 200;
+    color: $darker-grey;
     background: $light-grey;
     padding: 0;
     margin: 0;
@@ -58,6 +61,7 @@ h1 {
 	font-weight: 100;
 	font-size: 64px;
 	letter-spacing: -0.02em;
+    color: $title-color;
 }
 
 h1 em {
@@ -70,6 +74,7 @@ h2 {
     font-size: 24px;
     letter-spacing: -0.03em;
     margin: 1.5em 0 0.5em 0;
+    color: $title-color;
 }
 
 h3 {
@@ -77,6 +82,7 @@ h3 {
     font-size: 18px;
     letter-spacing: -0.02em;
     line-height: 1.2;
+    color: $title-color;
 }
 
 h4 {
@@ -491,7 +497,7 @@ label {
 	}
     
     nav h1 a {
-        margin: 0 0 0 4px;
+        margin: 0 0 0 7px;
         width: 240px;
         height: 60px;
     }
