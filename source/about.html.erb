@@ -29,62 +29,81 @@ secondary_members:
     - name: Daniel Burka
       title: Dir. of Product and Design, Tech Team
       short_name: dburka
+      team: cvd
       
     - name: Tim Cheadle
       title: Dir. of Engineering, Tech Team
       short_name: tcheadle
+      team: cvd
 
     - name: Laura Cobb
       title: Director, Resolve to Save Lives
+      team: cvd
 
     - name: Dr Theresa Cullen
       title: Dir. of Operations, Tech Team
       short_name: tcullen
+      team: cvd
 
     - name: Dr. Lalit Kant
       title: Country director, India
+      team: cvd
 
     - name: Mansi Kapoor
       title: India Team Operations
-    
+      team: cvd
+
     - name: Dr. Gaurav Kumar
       title: India team
-    
+      team: cvd
+
     - name: Chris Lee
       title: Technical Officer, Preventing Epidemics
-    
+      team: pe
+
     - name: Louise Lopez
       title: Operations
+      team: operations
 
     - name: Dr Anupam Pathni
-      title: India Team 
+      title: India Team
+      team: cvd
 
     - name: Leena Ramanan
       title: India Team Operations
+      team: operations
     
     - name: Le Quach
       title: Program Officer, Preventing Epidemics  
+      team: pe
 
     - name: Cyrus Shahpar
       title: Director, Preventing Epidemics      
+      team: pe
 
     - name: Dr Roopa Shivashankar
       title: India team
+      team: cvd
     
     - name: Lindsay Steele
       title: Program Officer, Resolve to Save Lives
+      team: cvd
     
     - name: Erin Sykes
       title: Communications Manager
+      team: operations
     
     - name: Ioanna Trilivas
       title: Senior Talent and Leadership Advisor
+      team: operations
     
     - name: Adoplhine Umukobwa
       title: Operations
+      team: operations
 
     - name: Shumei Yun
       title: Country director, China
+      team: cvd
 
 ---
 
@@ -138,7 +157,7 @@ secondary_members:
 
 <div class="team">
     
-    <div class="members-primary">
+    <!--div class="members-primary">
         
         <% current_page.data.primary_members.each do |member| %>
             <div class="member">
@@ -153,9 +172,10 @@ secondary_members:
         
     </div>
     
-    <div class="clear"></div>
+    <div class="clear"></div-->
     
     <div class="members-secondary">
+    <h3>Prevent epidemics team</h3>
         
         <% current_page.data.secondary_members.each do |member| %>
             <div class="member">
@@ -168,6 +188,37 @@ secondary_members:
         <% end %>
         
     </div>
+    
+    <div class="members-secondary">
+    <h3>Cardiovascular health team</h3>
+        
+        <% current_page.data.secondary_members.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h3><a href="#"><%= member.name %> <span class="img"></span></a></h3>
+                    <div class="title"><%= member.title %></div>
+                    <p><%= member.description %></p>
+                </div>
+            </div>
+        <% end %>
+        
+    </div>
+    
+    <div class="members-secondary">
+    <h3>Operations</h3>
+        
+        <% current_page.data.secondary_members.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h3><a href="#"><%= member.name %> <span class="img"></span></a></h3>
+                    <div class="title"><%= member.title %></div>
+                    <p><%= member.description %></p>
+                </div>
+            </div>
+        <% end %>
+        
+    </div>
+    
     <div class="clear">&nbsp;</div>
 </div>
 
