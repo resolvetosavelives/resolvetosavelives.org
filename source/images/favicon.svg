@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>favicon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="favicon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 2.000000)" fill="#364BC9">
+            <path d="M7,13 L18.051179,13 C20.357916,13 22,11.6 22,9.5 C22,7.4 20.357916,6 18.051179,6 L7,6 L7,0 L19.76,0 C25.8,0 30.2,3.95342067 30.2,9.61863173 C30.2,13.6943231 27.92,16.9141194 24.36,18.3813683 L31,28 L23.24,28 L17.2,19.2372635 L13.84,19.2372635 L13.84,28 L7,28 L7,13 Z" id="Combined-Shape"></path>
+            <rect id="Edge-square" x="0" y="6" width="7" height="7"></rect>
+        </g>
+    </g>
+</svg>
