@@ -2,108 +2,96 @@
 title: "About us"
 section: "about"
 
-primary_members:
+top_members:
 
     - name: Tom Frieden, MD MPH
       title: President &amp; Chief Executive Officer
       short_name: tfrieden
       description: Dr. Tom Frieden is one of the world’s leading public health experts. Prior to founding Resolve to Save Lives, Tom was the director of the US Centers for Disease Control.
 
+cvd_members:
+
     - name: Marc G. Jaffe, MD
       title: Senior Vice President
       short_name: mjaffe
       description: Dr. Jaffe is the SVP of the Cardiovascular Health project. Marc lead the creation of programs at Kaiser Permanente Northern California including their hypertension program “PHASE".
+
+    - name: Daniel Burka
+      title: Dir. of Product and Design, Tech Team
+      short_name: dburka
+      
+    - name: Tim Cheadle
+      title: Dir. of Engineering, Tech Team
+      short_name: tcheadle
+
+    - name: Laura Cobb
+      title: Director, Resolve to Save Lives
+
+    - name: Dr Theresa Cullen
+      title: Dir. of Operations, Tech Team
+      short_name: tcullen
+
+    - name: Dr. Gaurav Kumar
+      title: India team
+
+
+    - name: Dr. Lalit Kant
+      title: Country director, India
+
+    - name: Dr Anupam Pathni
+      title: India Team
+      team: cvd
+
+    - name: Dr Roopa Shivashankar
+      title: India team
+    
+    - name: Lindsay Steele
+      title: Program Officer
+
+    - name: Shumei Yun
+      title: Country director, China
+
+pe_members:
 
     - name: Amanda McClelland RN, MSC
       title: Senior Vice President
       short_name: amcclelland
       description: Amanda spent her career in public health and has done many things. We will write a brief description of her accomplishments here but we will link to more info since he has a lot of info.
 
+    - name: Chris Lee
+      title: Technical Officer, Preventing Epidemics
+
+    - name: Le Quach
+      title: Program Officer, Preventing Epidemics  
+
+    - name: Cyrus Shahpar
+      title: Director, Preventing Epidemics      
+
+
+ops_members:
+
     - name: Jeannie Mantopoulos
       title: Chief Operating Officer
       short_name: jmantopoulos
       description: Jeannie provides leadership and management to promote operational excellence across Resolve to Save Lives' two project areas.
 
-secondary_members:
-
-    - name: Daniel Burka
-      title: Dir. of Product and Design, Tech Team
-      short_name: dburka
-      team: cvd
-      
-    - name: Tim Cheadle
-      title: Dir. of Engineering, Tech Team
-      short_name: tcheadle
-      team: cvd
-
-    - name: Laura Cobb
-      title: Director, Resolve to Save Lives
-      team: cvd
-
-    - name: Dr Theresa Cullen
-      title: Dir. of Operations, Tech Team
-      short_name: tcullen
-      team: cvd
-
-    - name: Dr. Lalit Kant
-      title: Country director, India
-      team: cvd
-
     - name: Mansi Kapoor
       title: India Team Operations
-      team: cvd
-
-    - name: Dr. Gaurav Kumar
-      title: India team
-      team: cvd
-
-    - name: Chris Lee
-      title: Technical Officer, Preventing Epidemics
-      team: pe
 
     - name: Louise Lopez
       title: Operations
-      team: operations
-
-    - name: Dr Anupam Pathni
-      title: India Team
-      team: cvd
 
     - name: Leena Ramanan
       title: India Team Operations
-      team: operations
-    
-    - name: Le Quach
-      title: Program Officer, Preventing Epidemics  
-      team: pe
-
-    - name: Cyrus Shahpar
-      title: Director, Preventing Epidemics      
-      team: pe
-
-    - name: Dr Roopa Shivashankar
-      title: India team
-      team: cvd
-    
-    - name: Lindsay Steele
-      title: Program Officer, Resolve to Save Lives
-      team: cvd
     
     - name: Erin Sykes
       title: Communications Manager
-      team: operations
     
     - name: Ioanna Trilivas
       title: Senior Talent and Leadership Advisor
-      team: operations
     
     - name: Adoplhine Umukobwa
       title: Operations
-      team: operations
-
-    - name: Shumei Yun
-      title: Country director, China
-      team: cvd
 
 ---
 
@@ -157,27 +145,9 @@ secondary_members:
 
 <div class="team">
     
-    <!--div class="members-primary">
-        
-        <% current_page.data.primary_members.each do |member| %>
-            <div class="member">
-                <div class="member-contents">
-                    <h3><a href="#"><%= member.name %> <span class="img"></span></a></h3>
-                    <div class="title"><%= member.title %></div>
-                    <p><%= member.description %></p>
-                    <a href="#" class="more">More...</a>
-                </div>
-            </div>
-        <% end %>
-        
-    </div>
-    
-    <div class="clear"></div-->
-    
     <div class="members-secondary">
-    <h3>Prevent epidemics team</h3>
         
-        <% current_page.data.secondary_members.each do |member| %>
+        <% current_page.data.top_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
                     <h3><a href="#"><%= member.name %> <span class="img"></span></a></h3>
@@ -190,9 +160,9 @@ secondary_members:
     </div>
     
     <div class="members-secondary">
-    <h3>Cardiovascular health team</h3>
+        <h3>Prevent epidemics team</h3>
         
-        <% current_page.data.secondary_members.each do |member| %>
+        <% current_page.data.pe_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
                     <h3><a href="#"><%= member.name %> <span class="img"></span></a></h3>
@@ -205,9 +175,24 @@ secondary_members:
     </div>
     
     <div class="members-secondary">
-    <h3>Operations</h3>
+        <h3>Cardiovascular health team</h3>
         
-        <% current_page.data.secondary_members.each do |member| %>
+        <% current_page.data.cvd_members.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h3><a href="#"><%= member.name %> <span class="img"></span></a></h3>
+                    <div class="title"><%= member.title %></div>
+                    <p><%= member.description %></p>
+                </div>
+            </div>
+        <% end %>
+        
+    </div>
+    
+    <div class="members-secondary">
+        <h3>Operations</h3>
+        
+        <% current_page.data.ops_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
                     <h3><a href="#"><%= member.name %> <span class="img"></span></a></h3>

@@ -57,7 +57,7 @@
         <span class="vs">an initiative of Vital Strategies</span>
         
     	<ul>
-    		<li class="<%= current_page.data.section == "cardiovascular-health" ? "selected" : "" %>"><span>Project:</span> <a href="/cardiovascular-health" class="nav-project"><strong>Cardiovascular health</strong></a>
+    		<li class="<%= current_page.data.section == "cardiovascular-health" ? "selected" : "" %>"><span>Project</span> <a href="/cardiovascular-health" class="nav-project"><strong>Cardiovascular health</strong></a>
 				<ul>
 					<li class="<%= current_page.data.section == "hypertension" ? "selected" : "" %>"><a href="/hypertension"><strong>Hypertension control</strong></a></li>
 					<li class="<%= current_page.data.section == "sodium" ? "selected" : "" %>"><a href="/sodium"><strong>Sodium reduction</strong></a></li>
@@ -65,7 +65,7 @@
 					<li class="<%= current_page.data.section == "links" ? "selected" : "" %>"><a href="/links"><strong>LINKS community</strong></a></li>
 				</ul>
 			</li>
-    		<li><span>Project:</span> <a href="#" class="nav-project"><strong>Prevent epidemics</strong></a>
+    		<li class="<%= current_page.data.section == "prevent-epidemics" ? "selected" : "" %>"><span>Project</span> <a href="/prevent-epidemics" class="nav-project"><strong>Prevent epidemics</strong></a>
 				<ul>
                     <li class="<%= current_page.data.section == "readyscore" ? "selected" : "" %>"><a href="/readyscore"><strong>ReadyScore</strong></a></li>
                     <li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving"><strong>Improving your score</strong></a></li>
@@ -93,10 +93,11 @@
 					<li class="<%= current_page.data.section == "links" ? "selected" : "" %>"><a href="/links">LINKS community</a></li>
 				</ul>
 			</li>
-    		<li><span>Project</span> <a href="#" class="nav-project nav-primary">Prevent epidemics</a>
+    		<li><span>Project</span> <a href="/prevent-epidemics" class="nav-project">Prevent epidemics</a>
 				<ul>
-					<li class="<%= current_page.data.section == "prevent-epidemics-resources" ? "selected" : "" %>"><a href="/prevent-epidemics-resources">Resources</a></li>
-					<li><a href="#">PreventEpidemics.org</a></li>
+					<li class="<%= current_page.data.section == "readyscore" ? "selected" : "" %>"><a href="/readyscore">ReadyScore</a></li>
+                    <li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving">Improving your score</a></li>
+					<li class="<%= current_page.data.section == "prevent-epidemics-resources" ? "selected" : "" %>"><a href="/prevent-epidemics-resources">Toolkit</a></li>
 				</ul>
     		</li>
         </ul>
