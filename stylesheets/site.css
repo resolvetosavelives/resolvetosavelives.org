@@ -171,16 +171,16 @@ nav h1 a:visited {
   text-indent: -2000em;
   background: url(../images/logo-horizontal.svg) no-repeat;
   background-size: 100% auto;
-  width: 100%;
+  width: 280px;
   height: 30px;
-  margin: 0 0 0 -4px; }
+  margin: 0 0 0 -6px; }
 
 nav ul {
   display: none; }
 
 .vs {
   display: block;
-  margin: 8px 0;
+  margin: 2px 0 8px 0;
   font-size: 70%;
   color: #999; }
 
