@@ -58,7 +58,7 @@ button {
 }
 
 h1 {
-	font-weight: 100;
+	font-weight: 200;
 	font-size: 64px;
 	letter-spacing: -0.02em;
     color: $title-color;
@@ -443,7 +443,8 @@ label {
     }
     
     h1 {
-		max-width: 650px;
+		font-weight: 100;
+        max-width: 650px;
 		margin: 0 0 20px 0;
 	}
     
