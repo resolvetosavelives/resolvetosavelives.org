@@ -79,7 +79,7 @@ h2 {
 }
 
 h3 {
-    font-weight: 200;
+    font-weight: 300;
     font-size: 18px;
     letter-spacing: -0.02em;
     line-height: 1.2;
@@ -258,25 +258,28 @@ nav ul {
     font-size: 85%;
 }
 
-.member .img {
-    background: #fff;
-    border-radius: 100px;
-    width: 80px;
-    height: 80px;
-    float: right;
-    margin: 0 0 16px 16px;
-}
-
 .members-secondary p {
     margin: 0.5em 0;
     display: none;
 }
 
-.members-secondary .img {
+.members-secondary img {
+    float: right;
+    margin: 0 0 16px 16px;
     width: 60px;
     height: 60px;
+    display: block;
+    border-radius: 100px;
     margin-bottom: 0;
     margin-top: -6px;
+    overflow: hidden;
+    line-height: 1;
+    border: 2px solid #fff;
+    transition: transform 0.2s;
+}
+
+.members-secondary a:hover img {
+    transform: scale(1.05);
 }
 
 footer {
@@ -449,7 +452,7 @@ label {
 	}
     
     h2 {
-        margin-top: 3em;
+        margin-top: 2em;
         font-size: 28px;
     }
     
@@ -497,6 +500,9 @@ label {
 		padding: 40px 0 0 20px;
 		overflow: scroll;
         box-sizing: border-box;
+        @-ms-viewport{ width: auto !important; }
+        overflow-x: hidden;
+        overflow-y: auto;
 	}
     
     nav h1 a {
@@ -649,10 +655,27 @@ label {
         margin: 0 0 0 -16px;
     }
     
+    .team h2 {
+        margin-left: 16px;
+        clear: both;
+        padding: 16px 0 16px 0;
+        margin-top: 20px;
+        border-top: 1px solid rgba(0,0,0,0.1);
+        font-size: 120%;
+    }
+    
+    .team span {
+        font-size: 60%;
+        color: $dark-grey;
+        text-transform: uppercase;
+        display: block;
+        padding-top: 5px;
+        letter-spacing: 0.1em;
+    }
+    
     .member {
         width: 48%;
         float: left;
-        margin: 32px 0 0 0;
     }
     
     .members-primary .member:nth-child(odd) {
@@ -678,11 +701,10 @@ label {
     
     .member p {
         font-size: 85%;
-        min-height: 7em;
     }
     
-    .member .img {
-        width: 100%;
+    .member img {
+        width: 200px;
         height: 200px;
         background: rgba(0,0,0,0.1);
         position: absolute;
@@ -703,7 +725,8 @@ label {
         height: auto;
         width: 25%;
         text-align: center;
-        min-height: 200px;
+        min-height: 220px;
+        margin-top: 0;
     }
     
     .members-secondary .member-contents {
@@ -713,13 +736,14 @@ label {
         padding-top: 110px;
     }
     
-    .members-secondary .img {
+    .members-secondary img {
         width: 100px;
         height: 100px;
         border-radius: 100px;
         left: 50%;
         margin-left: -50px;
         background: #fff;
+        line-height: 1;
     }
     
     .members-secondary h3 {
