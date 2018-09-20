@@ -501,7 +501,7 @@ label {
 		overflow: scroll;
         box-sizing: border-box;
         @-ms-viewport{ width: auto !important; }
-        @-ms-overflow-style: none;
+        -ms-overflow-style: none;
         overflow-x: hidden;
         overflow-y: auto;
 	}
