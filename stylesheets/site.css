@@ -197,12 +197,22 @@ nav ul {
   margin: 1em 0; }
 
 .member-contents {
-  padding: 0;
-  margin-top: 40px;
-  position: relative; }
+  padding: 16px 0 0 0;
+  margin-top: 20px;
+  position: relative;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  line-height: 1.5; }
 
 .member h3 {
-  margin: 10px 0 10px 0; }
+  margin: 0; }
+
+.member span {
+  font-size: 60%;
+  color: #999;
+  text-transform: uppercase;
+  display: block;
+  padding-top: 5px;
+  letter-spacing: 0.1em; }
 
 .member .title {
   font-size: 85%; }
@@ -549,17 +559,11 @@ label {
   .team h2 {
     margin-left: 16px;
     clear: both;
-    padding: 16px 0 16px 0;
+    padding: 32px 0 32px 0;
     margin-top: 20px;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
-    font-size: 120%; }
-
-  .team span {
-    font-size: 60%;
-    color: #999;
+    font-size: 100%;
     text-transform: uppercase;
-    display: block;
-    padding-top: 5px;
     letter-spacing: 0.1em; }
 
   .member {
@@ -580,6 +584,7 @@ label {
   .member-contents {
     padding: 216px 16px 16px 16px;
     background: #fff;
+    border: none;
     position: relative;
     -webkit-box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.05);
             box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.05);
