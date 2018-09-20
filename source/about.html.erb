@@ -7,90 +7,109 @@ top_members:
     - name: Dr. Tom Frieden
       title: President and CEO
       location: NYC, USA
-      short_name: tfrieden
+      user_name: user
       description: Dr. Tom Frieden is one of the world’s leading public health experts. Prior to founding Resolve to Save Lives, Tom was the director of the US Centers for Disease Control.
 
 cvd_members:
 
   - name: Dr. Marc Jaffe
     title: Senior Vice President
-    short_name: mjaffe
+    user_name: user
     location: California, USA
 
   - name: Adefunke (Funke) Ajenikoko
     title: Program Assistant 
+    user_name: user
     location: New York, USA
 
   - name: Daniel Burka
     title: Director of Design 
+    user_name: user
     location: New York, USA
 
   - name: Tim Cheadle
     title: Director of Engineering 
+    user_name: user
     location: North Carolina, USA
 
   - name: Dr. Laura Cobb
     title: Director
+    user_name: user
     location: New York, USA
 
   - name: Dr. Terry Cullen
     title: Director, Tech Solutions
+    user_name: user
     location: Arizona, USA
 
   - name: Sharmila Das
     title: Finance Manager
+    user_name: user
     location: Delhi, India
 
   - name: Meg Farrell
     title: Senior Program Officer
+    user_name: user
     location: New York, USA
 
   - name: Nicole Ide
     title: Program Officer, Sodium and Surveillance
+    user_name: user
     location: New York, USA
 
   - name: Lalit Kant
     title: India Country Lead
+    user_name: user
     location: Delhi, India 
 
   - name: Mansi Kapoor
     title: Executive Assistant
+    user_name: user
     location: Delhi, India
 
   - name: Gaurav Kumar
     title: Senior Consultant 
+    user_name: user
     location: Delhi, India
 
   - name: Sagri Negi
     title: Private Healthcare Engagement Consultant
+    user_name: user
     location: Delhi, India 
 
   - name: Anupam Pathni
     title: Senior Consultant
+    user_name: user
     location: Delhi, India
 
   - name: Leena Ramanan
     title: Administration Manager
+    user_name: user
     location: Delhi, India
 
   - name: Swagata Sahoo
     title: Consultant, Drug Supply
+    user_name: user
     location: Delhi, India
 
   - name: Roopa Shivashankar
     title: Senior Consultant
+    user_name: user
     location: Delhi, India
 
   - name: Chang Shu
     title: Operations Manager
+    user_name: user
     location: Beijing, China 
 
   - name: Lindsay Steele
     title: Senior Program Officer
+    user_name: user
     location: Geneva, Switzerland  
 
   - name: Shumei Yun
     title: China Country Lead
+    user_name: user
     location: Beijing, China
 
 
@@ -98,26 +117,32 @@ pe_members:
 
   - name: Amanda McClelland
     title: Senior Vice President
+    user_name: user
     location: New York, USA
 
   - name: Marine Buissonnière
     title: Senior Advisor
+    user_name: user
     location: Puerto Rico, USA
 
   - name: Sara Hersey
     title: Senior Technical Advisor at World Bank
+    user_name: user
     location: Washington, DC, USA
 
   - name: Dr. Chris Lee
     title: Senior Technical Officer
+    user_name: user
     location: New York, USA
 
   - name: Dr. Cyrus Shahpar
     title: Director
+    user_name: user
     location: New York, USA
 
   - name: Le Quach
     title: Program Officer
+    user_name: user
     location: New York, USA
   
 
@@ -126,34 +151,42 @@ ops_members:
 
   - name: Dr. Jeannie Mantopoulos
     title: Chief Operating Officer
+    user_name: user
     location: New York, USA
 
   - name: Emma Bradford
     title: Communications Associate
+    user_name: user
     location: New York, USA
 
   - name: Robynn Leidig
     title: Special Assistant to the CEO
+    user_name: user
     location: New York, USA
 
   - name: Dorothy Lohnau
     title: Grant Operations Manager
+    user_name: user
     location: New York, USA
 
   - name: Lu Lopez
     title: Executive Assistant
+    user_name: user
     location: New York, USA
 
   - name: Erin Sykes
     title: Communications Director
+    user_name: user
     location: Georgia, USA
 
   - name: Dr. Ioanna Trilivas
     title: Senior Talent and Leadership Advisor
+    user_name: user
     location: New York, USA
 
   - name: Adolphine Umukobwa
     title: Operations Manager 
+    user_name: user
     location: New York, USA
 
 
@@ -214,7 +247,7 @@ ops_members:
         <% current_page.data.top_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h3><a href="#"><%= member.name %> <img src="/images/team/dburka.jpg" alt=""></span></a></h3>
+                    <h3><a href="#"><%= member.name %> <img src="/images/team/<%= member.user_name %>.jpg" alt=""></a></h3>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
@@ -230,7 +263,7 @@ ops_members:
         <% current_page.data.pe_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h3><a href="#"><%= member.name %> <img src="/images/team/dburka.jpg" alt=""></a></h3>
+                    <h3><a href="#"><%= member.name %> <img src="/images/team/<%= member.user_name %>.jpg" alt=""></a></h3>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
@@ -246,7 +279,7 @@ ops_members:
         <% current_page.data.cvd_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h3><a href="#"><%= member.name %> <img src="/images/team/dburka.jpg" alt=""></a></h3>
+                    <h3><a href="#"><%= member.name %> <img src="/images/team/<%= member.user_name %>.jpg" alt=""></a></h3>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
@@ -262,7 +295,7 @@ ops_members:
         <% current_page.data.ops_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h3><a href="#"><%= member.name %> <img src="/images/team/dburka.jpg" alt=""></a></h3>
+                    <h3><a href="#"><%= member.name %> <img src="/images/team/<%= member.user_name %>.jpg" alt=""></a></h3>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
