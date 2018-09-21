@@ -135,7 +135,8 @@
   .time-right .time-content {
     padding: 20px 0 20px 40px; }
 
-  .time-left .time-content {
+  .time-left .time-content,
+  .time-full .time-content {
     padding: 20px 40px 20px 0; }
 
   .time-content .image img {
