@@ -1,11 +1,12 @@
 $large-text: 18px;
 
 $orange: #ff8565;
+$orange-dark: #E75935;
 $light-grey: #f6f6f6;
 $dark-grey: #999;
 $darker-grey: #444;
 $title-color: #111;
-$link-color: #3A4BC2;
+$link-color: #364BCC;
 
 $shadow: 2px 2px 15px rgba(0,0,0,0.05);
 
@@ -238,6 +239,10 @@ nav ul {
 
 .columns .image img {
     width: 95%;
+}
+
+.columns-regions strong {
+    color: $orange-dark;
 }
 
 .member {
