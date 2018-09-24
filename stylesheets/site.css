@@ -70,7 +70,7 @@ h4 {
 
 a,
 a:visited {
-  color: #3A4BC2;
+  color: #364BCC;
   text-decoration: none;
   font-weight: 200; }
 
@@ -82,7 +82,7 @@ a:active {
 a.button,
 button {
   display: inline-block;
-  background: #3A4BC2;
+  background: #364BCC;
   color: #fff;
   padding: 10px 60px;
   border-radius: 3px; }
@@ -192,6 +192,9 @@ nav ul {
 
 .columns .image img {
   width: 95%; }
+
+.columns-regions strong {
+  color: #E75935; }
 
 .member {
   margin: 1em 0; }
@@ -487,7 +490,7 @@ label {
   nav li.selected li a {
     background: none;
     border: none;
-    color: #3A4BC2; }
+    color: #364BCC; }
 
   a.nav-project {
     font-size: 100%;

@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1423px" height="2981px" viewBox="0 0 1423 2981" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>Timeline</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <polygon id="path-1" points="0 0.984375 1425 0.984375 1425 2695.21586 0 2982"></polygon>
-    </defs>
-    <g id="Timeline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-3" transform="translate(0.000000, -1.000000)">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <use id="Mask" fill="#101E8D" xlink:href="#path-1"></use>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1423 2981" style="enable-background:new 0 0 1423 2981;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#path-1_2_);}
+</style>
+<title>Timeline</title>
+<desc>Created with Sketch.</desc>
+<g id="Timeline">
+	<g id="Group-3" transform="translate(0.000000, -1.000000)">
+		<g id="Mask">
+			<linearGradient id="path-1_2_" gradientUnits="userSpaceOnUse" x1="0" y1="1491.4922" x2="1425" y2="1491.4922">
+				<stop  offset="6.410257e-04" style="stop-color:#2C3083"/>
+				<stop  offset="1" style="stop-color:#673D6B"/>
+			</linearGradient>
+			<polygon id="path-1_1_" class="st0" points="0,1 1425,1 1425,2695.2 0,2982 			"/>
+		</g>
+	</g>
+</g>
 </svg>
