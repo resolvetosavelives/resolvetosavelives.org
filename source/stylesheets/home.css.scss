@@ -15,16 +15,20 @@
     opacity: 1;
 }
 
+.time .time-item:nth-child(2) .time-date {
+    color: rgba(255,255,255,0.5);
+    border-color: rgba(255,255,255,0.2);
+}
+
+.home-feature-wrapper {
+    background: url(/images/angle.svg) 0 100% no-repeat;
+    background-size: 100% auto;
+    margin: -16px -16px -240px -16px;
+    padding: 20px 16px 280px 16px;
+}
+
 /* For devices smaller than 880px */
 @media (max-width: 880px) {
-    .home-feature {
-        background: url(/images/angle.svg) 0 100% no-repeat;
-        margin: -16px -16px 0 -16px;
-        padding: 16px 16px 100px 16px;
-        color: rgba(255,255,255,0.6);
-        font-weight: 200;
-        min-height: 300px;
-    }
     
     .home-feature h1 {
         font-size: 200%;
@@ -93,12 +97,11 @@
     .home-feature h1 {
         max-width: none;
         font-size: 50px;
+        line-height: 1.15;
         color: #fff;
     }
     
     .home-feature-wrapper {
-        background: url(/images/angle.svg) 0 100% no-repeat;
-        background-size: 100% auto;
         padding: 100px 0 360px 0;
     }
     
@@ -214,11 +217,6 @@
     
     .time-right .time-date {
         text-align: right;
-    }
-    
-    .time .time-item:nth-child(2) .time-date {
-        color: rgba(255,255,255,0.5);
-        border-color: rgba(255,255,255,0.2);
     }
     
     .time .time-item:nth-child(3) {
