@@ -419,6 +419,10 @@ label {
     width: 240px;
     border: 10px solid #fff; }
 
+  .drop {
+    margin-right: 8px;
+    color: #ff8565; }
+
   nav {
     background: #fff;
     position: fixed;
