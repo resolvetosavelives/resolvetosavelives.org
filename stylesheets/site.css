@@ -169,11 +169,11 @@ nav h1 a:visited {
   display: inline-block;
   white-space: nowrap;
   text-indent: -2000em;
-  background: url(../images/logo-horizontal.svg) no-repeat;
+  background: url(../images/resolve-to-save-lives-logo-horiz.svg) no-repeat;
   background-size: 100% auto;
-  width: 280px;
-  height: 30px;
-  margin: 0 0 0 -4px; }
+  width: 330px;
+  height: 32px;
+  margin: 0 0 10px 0; }
 
 nav ul {
   display: none; }
@@ -354,6 +354,22 @@ label {
   border: none;
   cursor: pointer; }
 
+/* For devices smaller than 880px */
+@media (max-width: 880px) {
+  .graph {
+    position: relative; }
+
+  .graph a:before {
+    content: ".";
+    display: block;
+    width: 40px;
+    height: 40px;
+    background: #364BCC url(../images/zoom.png) 50% 50% no-repeat;
+    background-size: 70%;
+    border-radius: 100px;
+    position: absolute;
+    top: -10px;
+    right: -5px; } }
 /* For devices larger than 880px */
 @media (min-width: 880px) {
   body {
@@ -412,7 +428,7 @@ label {
     max-width: 30em; }
 
   .image-float {
-    margin: 0 -16px 32px 64px;
+    margin: 32px -16px 32px 64px;
     width: 260px; }
 
   .image-float img {
@@ -442,9 +458,9 @@ label {
       width: auto !important; } }
   nav h1 a {
     margin: 0 0 0 7px;
-    width: 240px;
-    height: 60px;
-    background: url(../images/logo.svg) no-repeat; }
+    width: 225px;
+    height: 50px;
+    background: url(../images/resolve-to-save-lives-logo.svg) no-repeat; }
 
   nav .vs {
     margin: 6px 0 0 0; }
