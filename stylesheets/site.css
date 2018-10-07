@@ -105,7 +105,8 @@ p, .main li {
   text-align: center; }
 
 .graph img,
-.photo img {
+.photo img,
+.graph video {
   width: 95%;
   border: 4px solid #fff;
   -webkit-box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.05);
@@ -666,7 +667,8 @@ label {
 
   .graph img,
   .photo img,
-  .image img {
+  .image img,
+  .graph video {
     border-width: 10px; }
 
   .mobile-nav {
