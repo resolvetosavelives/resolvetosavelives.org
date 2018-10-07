@@ -140,7 +140,8 @@ p, .main li {
 }
 
 .graph img,
-.photo img {
+.photo img,
+.graph video {
 	width: 95%;
     border: 4px solid #fff;
 	box-shadow: $shadow;
@@ -796,7 +797,8 @@ label {
     
     .graph img,
     .photo img,
-    .image img {
+    .image img,
+    .graph video {
         border-width: 10px;
     }
     
