@@ -195,7 +195,7 @@ nav ul {
   width: 95%; }
 
 .columns-regions strong {
-  color: #E75935; }
+  color: #15A686; }
 
 .member {
   margin: 1em 0; }
@@ -438,7 +438,7 @@ label {
 
   .drop {
     margin-right: 0.5em;
-    color: #ff8565; }
+    color: #24D2AB; }
 
   nav {
     background: #fff;
@@ -503,9 +503,9 @@ label {
     text-decoration: none; }
 
   nav li.selected a {
-    background: rgba(247, 140, 109, 0.1);
-    border-right: 1px solid #ff8565;
-    color: #ff8565; }
+    background: #EEF7F5;
+    border-right: 1px solid #24D2AB;
+    color: #24D2AB; }
 
   /* TEMP */
   nav li.selected li a {

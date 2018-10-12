@@ -3,18 +3,32 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1423 2981" style="enable-background:new 0 0 1423 2981;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#path-1_2_);}
+	.st0{fill:url(#path-1_3_);}
+	.st1{fill:url(#path-1_4_);}
 </style>
+<g id="Timeline_1_">
+	<g id="Group-3_1_" transform="translate(0.000000, -1.000000)">
+		<g id="Mask_1_">
+			
+				<linearGradient id="path-1_3_" gradientUnits="userSpaceOnUse" x1="0" y1="1489.39" x2="1425" y2="1489.39" gradientTransform="matrix(1 0 0 -1 0 2980.8899)">
+				<stop  offset="1" style="stop-color:#2C3083"/>
+				<stop  offset="1" style="stop-color:#4CBE9E"/>
+			</linearGradient>
+			<polygon id="path-1_2_" class="st0" points="0,1 1425,1 1425,2695.2 0,2982 			"/>
+		</g>
+	</g>
+</g>
 <title>Timeline</title>
 <desc>Created with Sketch.</desc>
 <g id="Timeline">
 	<g id="Group-3" transform="translate(0.000000, -1.000000)">
 		<g id="Mask">
-			<linearGradient id="path-1_2_" gradientUnits="userSpaceOnUse" x1="0" y1="1491.4922" x2="1425" y2="1491.4922">
-				<stop  offset="6.410257e-04" style="stop-color:#2C3083"/>
-				<stop  offset="1" style="stop-color:#673D6B"/>
+			
+				<linearGradient id="path-1_4_" gradientUnits="userSpaceOnUse" x1="-529.3745" y1="915.7935" x2="1830.1864" y2="2278.0867" gradientTransform="matrix(1 0 0 -1 0 2980.8899)">
+				<stop  offset="6.410258e-04" style="stop-color:#2C3083"/>
+				<stop  offset="1" style="stop-color:#4CBE9E"/>
 			</linearGradient>
-			<polygon id="path-1_1_" class="st0" points="0,1 1425,1 1425,2695.2 0,2982 			"/>
+			<polygon id="path-1_1_" class="st1" points="0,1 1425,1 1425,2695.2 0,2982 			"/>
 		</g>
 	</g>
 </g>

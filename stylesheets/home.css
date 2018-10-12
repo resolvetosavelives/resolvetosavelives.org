@@ -1,3 +1,4 @@
+/********/
 .partners {
   max-width: 50em;
   text-align: center;
@@ -59,7 +60,7 @@
     width: 13px;
     height: 13px;
     border-radius: 20px;
-    background: #ff8565; }
+    background: #24D2AB; }
 
   .time .line {
     width: 5px;
@@ -106,7 +107,7 @@
     position: relative; }
 
   .time .line {
-    width: 5px;
+    width: 3px;
     background: #fff;
     border-radius: 5px;
     position: absolute;
@@ -155,16 +156,16 @@
     content: ".";
     color: rgba(255, 255, 255, 0);
     position: absolute;
-    bottom: -9px;
-    right: -9px;
-    width: 17px;
-    height: 17px;
+    bottom: -7px;
+    right: -6px;
+    width: 13px;
+    height: 13px;
     border-radius: 20px;
-    background: #ff8565; }
+    background: #24D2AB; }
 
   .time-right .time-date:after {
     right: auto;
-    left: -8px; }
+    left: -7px; }
 
   .time-left, .time-full {
     display: inline-block;
