@@ -26,10 +26,19 @@ or increasing cost.</p>
 <div class="graph">
     <div class="image">
     <a href="/images/transfat-graph.png">
-        <video autoplay loop>
+        <video autoplay id="transfat-graph">
           <source src="/images/transfat-graph.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>     
+          <img src="/images/transfat-graph.png" alt="">
+        </video>
+        <script>
+            document.getElementById('transfat-graph').addEventListener('ended',myHandler,false);
+            function myHandler(e) {
+                console.log('ended');
+                setTimeout(function(){
+                    document.getElementById('transfat-graph').play();
+                }, 10000);
+            }
+        </script>
     </a>
     </div>
 </div>

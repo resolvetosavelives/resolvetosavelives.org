@@ -2,6 +2,9 @@ $large-text: 18px;
 
 $orange: #ff8565;
 $orange-dark: #E75935;
+$teal: #24D2AB;
+$teal-light: #EEF7F5;
+$teal-dark: #15A686;
 $light-grey: #f6f6f6;
 $dark-grey: #999;
 $darker-grey: #444;
@@ -243,7 +246,7 @@ nav ul {
 }
 
 .columns-regions strong {
-    color: $orange-dark;
+    color: $teal-dark;
 }
 
 .member {
@@ -530,7 +533,7 @@ label {
     
     .drop {
         margin-right: 0.5em;
-        color: $orange;
+        color: $teal;
     }
     
     nav {
@@ -604,9 +607,9 @@ label {
     }
     
     nav li.selected a {
-        background: rgba(247,140,109,0.1);
-        border-right: 1px solid $orange;
-        color: $orange;
+        background: $teal-light;
+        border-right: 1px solid $teal;
+        color: $teal;
     }
     
     /* TEMP */ nav li.selected li a {

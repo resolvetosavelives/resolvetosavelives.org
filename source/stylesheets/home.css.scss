@@ -1,3 +1,20 @@
+$large-text: 18px;
+
+$orange: #ff8565;
+$orange-dark: #E75935;
+$teal: #24D2AB;
+$teal-light: #EEF7F5;
+$teal-dark: #15A686;
+$light-grey: #f6f6f6;
+$dark-grey: #999;
+$darker-grey: #444;
+$title-color: #111;
+$link-color: #364BCC;
+
+$shadow: 2px 2px 15px rgba(0,0,0,0.05);
+
+/********/
+
 .partners {
     max-width: 50em;
     text-align: center;
@@ -69,7 +86,7 @@
         width: 13px;
         height: 13px;
         border-radius: 20px;
-        background: #ff8565;
+        background: $teal;
     }
     
     .time .line {
@@ -126,7 +143,7 @@
     }
     
     .time .line {
-        width: 5px;
+        width: 3px;
         background: #fff;
         border-radius: 5px;
         position: absolute;
@@ -181,17 +198,17 @@
         content: ".";
         color: rgba(255,255,255,0);
         position: absolute;
-        bottom: -9px;
-        right: -9px;
-        width: 17px;
-        height: 17px;
+        bottom: -7px;
+        right: -6px;
+        width: 13px;
+        height: 13px;
         border-radius: 20px;
-        background: #ff8565;
+        background: $teal;
     }
     
     .time-right .time-date:after {
         right: auto;
-        left: -8px;
+        left: -7px;
     }
     
     .time-left, .time-full {
