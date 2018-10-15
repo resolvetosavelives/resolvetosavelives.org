@@ -60,7 +60,7 @@
     width: 13px;
     height: 13px;
     border-radius: 20px;
-    background: #24D2AB; }
+    background: #ff8565; }
 
   .time .line {
     width: 5px;
@@ -161,7 +161,7 @@
     width: 13px;
     height: 13px;
     border-radius: 20px;
-    background: #24D2AB; }
+    background: #ff8565; }
 
   .time-right .time-date:after {
     right: auto;

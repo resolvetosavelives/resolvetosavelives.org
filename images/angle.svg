@@ -10,7 +10,7 @@
 	<g id="Group-3_1_" transform="translate(0.000000, -1.000000)">
 		<g id="Mask_1_">
 			
-				<linearGradient id="path-1_3_" gradientUnits="userSpaceOnUse" x1="0" y1="1489.39" x2="1425" y2="1489.39" gradientTransform="matrix(1 0 0 -1 0 2980.8899)">
+				<linearGradient id="path-1_3_" gradientUnits="userSpaceOnUse" x1="0" y1="-646.4999" x2="1425" y2="-646.4999" gradientTransform="matrix(1 0 0 1 0 2138)">
 				<stop  offset="1" style="stop-color:#2C3083"/>
 				<stop  offset="1" style="stop-color:#4CBE9E"/>
 			</linearGradient>
@@ -24,9 +24,9 @@
 	<g id="Group-3" transform="translate(0.000000, -1.000000)">
 		<g id="Mask">
 			
-				<linearGradient id="path-1_4_" gradientUnits="userSpaceOnUse" x1="-529.3745" y1="915.7935" x2="1830.1864" y2="2278.0867" gradientTransform="matrix(1 0 0 -1 0 2980.8899)">
+				<linearGradient id="path-1_4_" gradientUnits="userSpaceOnUse" x1="-529.3745" y1="-72.9034" x2="1830.1864" y2="-1435.1964" gradientTransform="matrix(1 0 0 1 0 2138)">
 				<stop  offset="6.410258e-04" style="stop-color:#2C3083"/>
-				<stop  offset="1" style="stop-color:#4CBE9E"/>
+				<stop  offset="1" style="stop-color:#FF8565"/>
 			</linearGradient>
 			<polygon id="path-1_1_" class="st1" points="0,1 1425,1 1425,2695.2 0,2982 			"/>
 		</g>

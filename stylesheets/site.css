@@ -127,6 +127,13 @@ p, .main li {
   color: #999;
   font-size: 80%; }
 
+.graph #video-countdown {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  color: #ff8565;
+  font-size: 85%; }
+
 .image-float {
   float: right;
   margin: 0 8px 16px 32px;
@@ -195,7 +202,7 @@ nav ul {
   width: 95%; }
 
 .columns-regions strong {
-  color: #15A686; }
+  color: #E75935; }
 
 .member {
   margin: 1em 0; }
@@ -438,7 +445,7 @@ label {
 
   .drop {
     margin-right: 0.5em;
-    color: #24D2AB; }
+    color: #ff8565; }
 
   nav {
     background: #fff;
@@ -503,9 +510,9 @@ label {
     text-decoration: none; }
 
   nav li.selected a {
-    background: #EEF7F5;
-    border-right: 1px solid #24D2AB;
-    color: #24D2AB; }
+    background: #FBEDE9;
+    border-right: 1px solid #ff8565;
+    color: #ff8565; }
 
   /* TEMP */
   nav li.selected li a {
