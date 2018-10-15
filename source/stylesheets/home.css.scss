@@ -1,6 +1,7 @@
 $large-text: 18px;
 
 $orange: #ff8565;
+$orange-light: #FBEDE9;
 $orange-dark: #E75935;
 $teal: #24D2AB;
 $teal-light: #EEF7F5;
@@ -86,7 +87,7 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
         width: 13px;
         height: 13px;
         border-radius: 20px;
-        background: $teal;
+        background: $orange;
     }
     
     .time .line {
@@ -203,7 +204,7 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
         width: 13px;
         height: 13px;
         border-radius: 20px;
-        background: $teal;
+        background: $orange;
     }
     
     .time-right .time-date:after {

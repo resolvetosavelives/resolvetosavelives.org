@@ -1,6 +1,7 @@
 $large-text: 18px;
 
 $orange: #ff8565;
+$orange-light: #FBEDE9;
 $orange-dark: #E75935;
 $teal: #24D2AB;
 $teal-light: #EEF7F5;
@@ -166,6 +167,14 @@ p, .main li {
     font-size: 80%;
 }
 
+.graph #video-countdown {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: $orange;
+    font-size: 85%;
+}
+
 .image-float {
     float: right;
     margin: 0 8px 16px 32px;
@@ -246,7 +255,7 @@ nav ul {
 }
 
 .columns-regions strong {
-    color: $teal-dark;
+    color: $orange-dark;
 }
 
 .member {
@@ -533,7 +542,7 @@ label {
     
     .drop {
         margin-right: 0.5em;
-        color: $teal;
+        color: $orange;
     }
     
     nav {
@@ -607,9 +616,9 @@ label {
     }
     
     nav li.selected a {
-        background: $teal-light;
-        border-right: 1px solid $teal;
-        color: $teal;
+        background: $orange-light;
+        border-right: 1px solid $orange;
+        color: $orange;
     }
     
     /* TEMP */ nav li.selected li a {

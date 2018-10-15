@@ -24,23 +24,16 @@ certain  foods)  and  replaced  with  healthier  alternatives  without  altering
 or increasing cost.</p>
 
 <div class="graph">
-    <div class="image">
+<div class="video-wrapper image">
     <a href="/images/transfat-graph.png">
-        <video autoplay id="transfat-graph">
-          <source src="/images/transfat-graph.mp4" type="video/mp4">
-          <img src="/images/transfat-graph.png" alt="">
-        </video>
-        <script>
-            document.getElementById('transfat-graph').addEventListener('ended',myHandler,false);
-            function myHandler(e) {
-                console.log('ended');
-                setTimeout(function(){
-                    document.getElementById('transfat-graph').play();
-                }, 10000);
-            }
-        </script>
+    <video autoplay id="video-html">
+        <source src="images/transfat-graph.mp4" type="video/mp4">
+        <img src="images/transfat-graph.png" alt="">
+    </video>
     </a>
-    </div>
+    <div id="video-countdown">20</div>
+    <div class="caption">Each tombstone = 100,000 deaths per year &nbsp; Each row = 1 million deaths</div>
+</div>
 </div>
 
 
