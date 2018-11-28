@@ -14,32 +14,32 @@ cvd_members:
 
   - name: Dr. Marc Jaffe
     title: Senior Vice President
-    user_name: user
+    user_name: Jaffe_Marc
     location: California, USA
 
   - name: Adefunke (Funke) Ajenikoko
     title: Program Assistant 
-    user_name: user
+    user_name: Ajenikoko_Adefunke
     location: New York, USA
 
   - name: Daniel Burka
     title: Director of Design 
-    user_name: dburka
+    user_name: Burka_Daniel
     location: New York, USA
 
   - name: Tim Cheadle
     title: Director of Engineering 
-    user_name: user
+    user_name: Cheadle_Tim
     location: North Carolina, USA
 
   - name: Dr. Laura Cobb
     title: Director
-    user_name: user
+    user_name: Cobb_Laura
     location: New York, USA
 
   - name: Dr. Terry Cullen
     title: Director, Tech Solutions
-    user_name: user
+    user_name: Cullen_Terry
     location: Arizona, USA
 
   - name: Sharmila Das
@@ -49,26 +49,21 @@ cvd_members:
 
   - name: Meg Farrell
     title: Senior Program Officer
-    user_name: user
+    user_name: Farrell_Meg
     location: New York, USA
 
   - name: Nicole Ide
     title: Program Officer, Sodium and Surveillance
-    user_name: user
+    user_name: Ide_Nicole
     location: New York, USA
 
   - name: Lalit Kant
     title: India Country Lead
-    user_name: user
+    user_name: Kant_Lalit
     location: Delhi, India 
 
   - name: Mansi Kapoor
     title: Executive Assistant
-    user_name: user
-    location: Delhi, India
-
-  - name: Gaurav Kumar
-    title: Senior Consultant 
     user_name: user
     location: Delhi, India
 
@@ -104,7 +99,7 @@ cvd_members:
 
   - name: Lindsay Steele
     title: Senior Program Officer
-    user_name: user
+    user_name: Steele_Lindsay
     location: Geneva, Switzerland  
 
   - name: Shumei Yun
@@ -117,12 +112,12 @@ pe_members:
 
   - name: Amanda McClelland
     title: Senior Vice President
-    user_name: user
+    user_name: McClelland_Amanda
     location: New York, USA
 
   - name: Marine Buissonnière
     title: Senior Advisor
-    user_name: user
+    user_name: Buissonniere_Marine
     location: Puerto Rico, USA
 
   - name: Sara Hersey
@@ -132,17 +127,17 @@ pe_members:
 
   - name: Dr. Chris Lee
     title: Senior Technical Officer
-    user_name: user
+    user_name: Lee_Christopher
     location: New York, USA
 
   - name: Dr. Cyrus Shahpar
     title: Director
-    user_name: user
+    user_name: Shahpar_Cyrus
     location: New York, USA
 
   - name: Le Quach
     title: Program Officer
-    user_name: user
+    user_name: Quach_Le
     location: New York, USA
   
 
@@ -156,7 +151,7 @@ ops_members:
 
   - name: Emma Bradford
     title: Communications Associate
-    user_name: user
+    user_name: Bradford_Emma
     location: New York, USA
 
   - name: Robynn Leidig
@@ -171,17 +166,17 @@ ops_members:
 
   - name: Lu Lopez
     title: Executive Assistant
-    user_name: user
+    user_name: Lopez_Louise
     location: New York, USA
 
   - name: Erin Sykes
     title: Communications Director
-    user_name: user
+    user_name: Sykes_Erin
     location: Georgia, USA
 
   - name: Dr. Ioanna Trilivas
     title: Senior Talent and Leadership Advisor
-    user_name: user
+    user_name: Trilivas_Ioanna
     location: New York, USA
 
   - name: Adolphine Umukobwa
@@ -247,7 +242,7 @@ ops_members:
         <% current_page.data.top_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h3><a href="#"><%= member.name %> <img src="/images/team/<%= member.user_name %>.jpg" alt=""></a></h3>
+                    <h3><a href="/images/team/large/<%= member.user_name %>.jpg"><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></a></h3>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
@@ -263,7 +258,7 @@ ops_members:
         <% current_page.data.pe_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h3><a href="#"><%= member.name %> <img src="/images/team/<%= member.user_name %>.jpg" alt=""></a></h3>
+                    <h3><a href="/images/team/large/<%= member.user_name %>.jpg"><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></a></h3>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
@@ -279,7 +274,7 @@ ops_members:
         <% current_page.data.cvd_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h3><a href="#"><%= member.name %> <img src="/images/team/<%= member.user_name %>.jpg" alt=""></a></h3>
+                    <h3><a href="/images/team/large/<%= member.user_name %>.jpg"><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></a></h3>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
@@ -295,7 +290,7 @@ ops_members:
         <% current_page.data.ops_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h3><a href="#"><%= member.name %> <img src="/images/team/<%= member.user_name %>.jpg" alt=""></a></h3>
+                    <h3><a href="/images/team/large/<%= member.user_name %>.jpg"><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></a></h3>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
