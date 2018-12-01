@@ -3,6 +3,15 @@
 <head>
   <!-- Google Analytics
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130231777-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130231777-1');
+  </script>
+
 
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -68,12 +77,12 @@
     		<li class="<%= current_page.data.section == "prevent-epidemics" ? "selected" : "" %>"><span>Project</span> <a href="/prevent-epidemics" class="nav-project"><strong>Prevent epidemics</strong></a>
 				<ul>
                     <li class="<%= current_page.data.section == "readyscore" ? "selected" : "" %>"><a href="/readyscore"><strong>ReadyScore</strong></a></li>
-                    <li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving"><strong>Improving your score</strong></a></li>
-					<li class="<%= current_page.data.section == "prevent-epidemics-resources" ? "selected" : "" %>"><a href="/prevent-epidemics-resources"><strong>Toolkit</strong></a></li>
+                    <li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving"><strong>Step up your score</strong></a></li>
+					<!--li class="<%= current_page.data.section == "prevent-epidemics-resources" ? "selected" : "" %>"><a href="/prevent-epidemics-resources"><strong>Toolkit</strong></a></li-->
 				</ul>
     		</li>
-    		<li class="<%= current_page.data.section == "about" ? "selected" : "" %>"><a href="/about"><strong>About</strong></a></li>
-            <li class="<%= current_page.data.section == "resources" ? "selected" : "" %>"><a href="/resources"><strong>Resources</strong></a></li>
+    		<li class="<%= current_page.data.section == "about" ? "selected" : "" %>"><a href="/about"><strong>About us</strong></a></li>
+            <li class="<%= current_page.data.section == "about" ? "selected" : "" %>"><a href="/employment"><strong>Careers and contracts</strong></a></li>
     		<li class="<%= current_page.data.section == "contact" ? "selected" : "" %>"><a href="/contact"><strong>Contact us</strong></a></li>
     	</ul>
     </nav>
@@ -81,7 +90,7 @@
     <div class="mobile-nav">
         <ul class="menu">
             <li class="menu-item"><a href="#">Projects...</a></li>
-            <li class="<%= current_page.data.section == "resources" ? "selected" : "" %>"><a href="/resources">Resources</a></li>
+            <li class="<%= current_page.data.section == "about" ? "selected" : "" %>"><a href="/employment">Careers</a></li>
             <li><a href="/about">About</a></li>
         </ul>
         <ul class="submenu">
@@ -96,8 +105,8 @@
     		<li><span>Project</span> <a href="/prevent-epidemics" class="nav-project">Prevent epidemics</a>
 				<ul>
 					<li class="<%= current_page.data.section == "readyscore" ? "selected" : "" %>"><a href="/readyscore">ReadyScore</a></li>
-                    <li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving">Improving your score</a></li>
-					<li class="<%= current_page.data.section == "prevent-epidemics-resources" ? "selected" : "" %>"><a href="/prevent-epidemics-resources">Toolkit</a></li>
+                    <li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving">Step up your score</a></li>
+					<!--li class="<%= current_page.data.section == "prevent-epidemics-resources" ? "selected" : "" %>"><a href="/prevent-epidemics-resources">Toolkit</a></li-->
 				</ul>
     		</li>
         </ul>
