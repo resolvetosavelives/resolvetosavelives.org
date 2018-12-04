@@ -117,10 +117,12 @@ a:active {
 a.button,
 button {
     display: inline-block;
-    background: $link-color;
-    color: #fff;
+    background: #fff;
+    color: $link-color;
+    font-weight: 300;
     padding: 10px 60px;
     border-radius: 3px;
+    box-shadow: $shadow;
 }
 
 .footnote {
@@ -600,7 +602,8 @@ label {
     
     nav li a {
     	display: block;
-    	padding: 10px 0 10px 16px;
+    	padding: 10px 0 10px 6px;
+        margin-left: 10px;
     	font-size: 80%;
         font-weight: 300;
         letter-spacing: -0.03em;
@@ -695,7 +698,7 @@ label {
     }
     
     nav ul ul li a {
-    	padding: 7px 0 7px 32px;
+    	padding: 7px 0 7px 24px;
         font-weight: 200;
     }
     
