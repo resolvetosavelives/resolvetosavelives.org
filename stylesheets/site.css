@@ -83,10 +83,13 @@ a:active {
 a.button,
 button {
   display: inline-block;
-  background: #364BCC;
-  color: #fff;
+  background: #fff;
+  color: #364BCC;
+  font-weight: 300;
   padding: 10px 60px;
-  border-radius: 3px; }
+  border-radius: 3px;
+  -webkit-box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.05);
+          box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.05); }
 
 .footnote {
   font-size: 50%;
@@ -498,7 +501,8 @@ label {
 
   nav li a {
     display: block;
-    padding: 10px 0 10px 16px;
+    padding: 10px 0 10px 6px;
+    margin-left: 10px;
     font-size: 80%;
     font-weight: 300;
     letter-spacing: -0.03em; }
@@ -577,7 +581,7 @@ label {
     margin: 0; }
 
   nav ul ul li a {
-    padding: 7px 0 7px 32px;
+    padding: 7px 0 7px 24px;
     font-weight: 200; }
 
   .graph,
