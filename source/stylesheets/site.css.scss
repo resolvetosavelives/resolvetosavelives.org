@@ -6,10 +6,10 @@ $orange-dark: #E75935;
 $teal: #24D2AB;
 $teal-light: #EEF7F5;
 $teal-dark: #15A686;
-$light-grey: #f6f6f6;
-$dark-grey: #999;
-$darker-grey: #444;
-$title-color: #111;
+$light-grey: #F2F5F7;
+$dark-grey: #72848C;
+$darker-grey: #425259;
+$title-color: #2e383c;
 $link-color: #364BCC;
 
 $shadow: 2px 2px 15px rgba(0,0,0,0.05);
@@ -90,6 +90,7 @@ h3 {
     line-height: 1.2;
     color: $title-color;
     clear: left;
+    text-transform: uppercase;
 }
 
 h4 {
@@ -499,13 +500,15 @@ label {
 	}
     
     h2 {
+        font-weight: 100;
         margin-top: 3em;
-        font-size: 28px;
+        font-size: 52px;
     }
     
     h3 {
-        font-size: 20px;
-        margin: 2em 0 0 0;
+        font-size: 18px;
+        margin: 2.5em 0 0 0;
+        letter-spacing: 0.1em;
     }
     
     h2 span,
@@ -524,7 +527,7 @@ label {
 	}
     
     .image-float {
-        margin: 32px -16px 32px 64px;
+        margin: 0 -16px 32px 64px;
         width: 260px;
     }
 
@@ -664,12 +667,13 @@ label {
     }
     
     .columns h3 {
-        font-size: 100%;
+        font-size: 90%;
         margin-bottom: 0.2em;
+        letter-spacing: 0;
     }
     
     .columns p {
-        font-size: 85%;
+        font-size: 75%;
     }
     
     nav li span {
@@ -904,7 +908,7 @@ label {
         position: relative;
         padding-left: 3em;
         margin-bottom: 1em;
-        color: #000;
+        color: $dark-grey;
     }
     
     ol li:before {
@@ -943,13 +947,13 @@ label {
 @media (min-width: 880px) and (max-height: 700px) {
     
     nav ul ul li a {
-    	padding-top: 4px;
-        padding-bottom: 4px;
+    	padding-top: 6px;
+        padding-bottom: 6px;
     }
     
     nav li a {
-        padding-top: 6px;
-        padding-bottom: 6px;
+        padding-top: 8px;
+        padding-bottom: 8px;
     }
     
     nav li span {
