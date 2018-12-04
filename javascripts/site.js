@@ -16,7 +16,7 @@ function fireOnReady() {
   var countDown = document.getElementById('video-countdown');
   countDown.style.display = 'none';
 
-  var seconds = 20;
+  var seconds = 10;
   var secondsPast = 0;
   function cvdCountDown() {
     if (secondsPast >= seconds) {
