@@ -148,7 +148,8 @@ p, .main li {
 
 .graph img,
 .photo img,
-.graph video {
+.graph video,
+.graph-2 img {
 	width: 95%;
     border: 4px solid #fff;
 	box-shadow: $shadow;
@@ -262,7 +263,8 @@ nav ul {
     height: 60px;
     background: #fff;
     border-radius: 200px;
-    margin: 16px 0 -16px 0;
+    margin: -16px 0 16px 0;
+    float: right;
 }
 
 .member {
@@ -720,6 +722,13 @@ label {
         width: 100%;
     }
     
+    .graph-2 img {
+        width: 48%;
+        float: left;
+        margin-right: 2%;
+        border: none;
+    }
+    
     .photo-array-3 img {
         width: 29%;
     }
@@ -937,6 +946,11 @@ label {
     
     .second-nav .clear {
         height: 100px;
+    }
+    
+    .dot {
+        margin: 16px 0 -16px 0;
+        float: none;
     }
     
 }
