@@ -91,6 +91,9 @@ button {
   -webkit-box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.05);
           box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.05); }
 
+p.first {
+  margin-top: 0; }
+
 .footnote {
   font-size: 50%;
   vertical-align: top;
@@ -555,9 +558,6 @@ label {
     width: 31%;
     margin-right: 3.5%; }
 
-  .columns-3 .column p {
-    padding-top: 1em; }
-
   .columns-3 .column:nth-child(3) {
     margin: 0; }
 
@@ -573,6 +573,9 @@ label {
 
   .columns p {
     font-size: 75%; }
+
+  .column h3 {
+    margin-bottom: 0.5em; }
 
   nav li span {
     display: block;
