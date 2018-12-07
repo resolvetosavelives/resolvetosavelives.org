@@ -186,8 +186,8 @@ nav h1 a:visited {
   text-indent: -2000em;
   background: url(../images/logo.png) no-repeat;
   background-size: 100% auto;
-  width: 110px;
-  height: 47px;
+  width: 100px;
+  height: 43px;
   margin: 0; }
 
 nav ul {
@@ -294,34 +294,6 @@ footer a.footer-link {
   height: 330px;
   overflow: visible; }
 
-.mobile-nav {
-  padding: 16px;
-  background: #fff;
-  position: absolute;
-  top: 16px;
-  right: 0; }
-
-.mobile-nav ul,
-.mobile-nav li {
-  list-style: none;
-  padding: 0;
-  margin: 0; }
-
-.mobile-nav a,
-.mobile-nav a:hover {
-  text-decoration: none;
-  font-weight: 500;
-  letter-spacing: -0.02em; }
-
-.mobile-nav a img {
-  vertical-align: middle;
-  margin-left: 3px; }
-
-.mobile-nav ul li span {
-  margin-bottom: 8px;
-  font-weight: 500;
-  color: #ff8565; }
-
 .menu li {
   display: inline-block;
   padding-right: 16px; }
@@ -395,6 +367,38 @@ label {
 .footer-section {
   margin-bottom: 2em; }
 
+.mobile-nav {
+  padding: 16px;
+  background: #fff;
+  position: absolute;
+  top: 12px;
+  right: -8px; }
+
+.mobile-nav ul,
+.mobile-nav li {
+  list-style: none;
+  padding: 0;
+  margin: 0; }
+
+.mobile-nav .menu-item a {
+  margin-right: 8px; }
+
+.mobile-nav a,
+.mobile-nav a:hover {
+  text-decoration: none;
+  font-weight: 500;
+  letter-spacing: -0.02em; }
+
+.mobile-nav a img {
+  vertical-align: middle;
+  margin-left: 3px; }
+
+.mobile-nav ul li span {
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #ff8565; }
+
+/* For devices smaller than 600px */
 /* For devices smaller than 880px */
 @media (max-width: 880px) {
   .graph {
