@@ -25,7 +25,7 @@ function fireOnReady() {
       secondsPast = 0;
     } else {
       countDown.innerText = seconds - secondsPast;
-      setTimeout(cvdCountDown, 2000);
+      setTimeout(cvdCountDown, 1000);
       secondsPast++;
     }
   }
