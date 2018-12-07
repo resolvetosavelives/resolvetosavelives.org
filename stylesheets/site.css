@@ -47,7 +47,7 @@ h1 em {
 
 h2 {
   font-weight: 300;
-  font-size: 24px;
+  font-size: 28px;
   letter-spacing: -0.03em;
   margin: 1.5em 0 0.5em 0;
   color: #2e383c;
@@ -186,8 +186,8 @@ nav h1 a:visited {
   text-indent: -2000em;
   background: url(../images/logo.png) no-repeat;
   background-size: 100% auto;
-  width: 140px;
-  height: 60px;
+  width: 110px;
+  height: 47px;
   margin: 0; }
 
 nav ul {
@@ -273,6 +273,7 @@ footer {
   margin-top: 60px;
   padding: 100px 16px 60px 16px;
   background: url(../images/footer.svg) 100% 0;
+  background-size: 100% auto;
   clear: both;
   font-size: 85%;
   text-align: center; }
@@ -290,13 +291,15 @@ footer a.footer-link {
 
 .submenu.active {
   opacity: 1;
-  height: 300px;
+  height: 330px;
   overflow: visible; }
 
 .mobile-nav {
   padding: 16px;
   background: #fff;
-  border-top: 1px solid #F2F5F7; }
+  position: absolute;
+  top: 16px;
+  right: 0; }
 
 .mobile-nav ul,
 .mobile-nav li {
@@ -307,6 +310,14 @@ footer a.footer-link {
 .mobile-nav a,
 .mobile-nav a:hover {
   text-decoration: none; }
+
+.mobile-nav a img {
+  vertical-align: middle; }
+
+.mobile-nav ul li span {
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #ff8565; }
 
 .menu li {
   display: inline-block;
@@ -377,6 +388,9 @@ label {
   -moz-appearance: none;
   border: none;
   cursor: pointer; }
+
+.footer-section {
+  margin-bottom: 2em; }
 
 /* For devices smaller than 880px */
 @media (max-width: 880px) {
