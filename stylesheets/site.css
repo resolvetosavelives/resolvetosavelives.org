@@ -309,10 +309,13 @@ footer a.footer-link {
 
 .mobile-nav a,
 .mobile-nav a:hover {
-  text-decoration: none; }
+  text-decoration: none;
+  font-weight: 500;
+  letter-spacing: -0.02em; }
 
 .mobile-nav a img {
-  vertical-align: middle; }
+  vertical-align: middle;
+  margin-left: 3px; }
 
 .mobile-nav ul li span {
   margin-bottom: 8px;
@@ -335,10 +338,10 @@ footer a.footer-link {
 .submenu li span {
   border-top: 1px solid #F2F5F7;
   display: block;
-  padding: 16px 32px 4px 32px;
-  margin: 0 -32px;
+  padding: 16px 0 4px 0;
   font-size: 70%;
   letter-spacing: 0.05em;
+  margin: 0;
   color: #72848C; }
 
 a.document-link {
@@ -564,6 +567,10 @@ label {
     font-size: 100%;
     padding-top: 6px;
     padding-bottom: 6px; }
+
+  .submenu li span {
+    margin: 0 -32px;
+    padding: 16px 32px 4px 32px; }
 
   .columns {
     position: relative; }
