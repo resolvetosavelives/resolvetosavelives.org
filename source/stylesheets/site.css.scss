@@ -449,7 +449,7 @@ label {
     background: #fff;
     //border-top: 1px solid $light-grey;
     position: absolute;
-    top: 12px;
+    top: 14px;
     right: -8px;
 }
 
@@ -480,12 +480,6 @@ label {
     margin-bottom: 8px;
     font-weight: 500;
     color: $orange;
-}
-
-/* For devices smaller than 600px */
-
-@media (max-width: 420px) {
-    
 }
 
 
