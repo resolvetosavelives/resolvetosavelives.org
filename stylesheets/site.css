@@ -371,7 +371,7 @@ label {
   padding: 16px;
   background: #fff;
   position: absolute;
-  top: 12px;
+  top: 14px;
   right: -8px; }
 
 .mobile-nav ul,
@@ -398,7 +398,6 @@ label {
   font-weight: 500;
   color: #ff8565; }
 
-/* For devices smaller than 600px */
 /* For devices smaller than 880px */
 @media (max-width: 880px) {
   .graph {
