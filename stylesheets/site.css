@@ -383,7 +383,8 @@ label {
 .mobile-nav ul,
 .mobile-nav li {
   list-style: none;
-  padding: 0;
+  padding-left: 0;
+  padding-right: 0;
   margin: 0; }
 
 .mobile-nav .menu-item a {
@@ -393,7 +394,8 @@ label {
 .mobile-nav a:hover {
   text-decoration: none;
   font-weight: 500;
-  letter-spacing: -0.02em; }
+  letter-spacing: -0.02em;
+  padding: 5px 0; }
 
 .mobile-nav a img {
   vertical-align: middle;
@@ -478,7 +480,7 @@ label {
     max-width: 30em; }
 
   .image-float {
-    margin: 0 -16px 32px 64px;
+    margin: 16px -16px 32px 64px;
     width: 260px; }
 
   .image-float img {
@@ -562,8 +564,7 @@ label {
     text-decoration: none; }
 
   nav li.selected a {
-    background: #FBEDE9;
-    border-right: 1px solid #ff8565;
+    border-right: 2px solid #ff8565;
     color: #ff8565; }
 
   /* TEMP */
