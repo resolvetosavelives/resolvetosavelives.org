@@ -464,7 +464,8 @@ label {
 .mobile-nav ul,
 .mobile-nav li {
     list-style: none;
-    padding: 0;
+    padding-left: 0;
+    padding-right: 0;
     margin: 0;
 }
 
@@ -477,6 +478,7 @@ label {
     text-decoration: none;
     font-weight: 500;
     letter-spacing: -0.02em;
+    padding: 5px 0;
 }
 
 .mobile-nav a img {
@@ -582,7 +584,7 @@ label {
 	}
     
     .image-float {
-        margin: 0 -16px 32px 64px;
+        margin: 16px -16px 32px 64px;
         width: 260px;
     }
 
@@ -677,8 +679,8 @@ label {
     }
     
     nav li.selected a {
-        background: $orange-light;
-        border-right: 1px solid $orange;
+        //background: $orange-light;
+        border-right: 2px solid $orange;
         color: $orange;
     }
     
