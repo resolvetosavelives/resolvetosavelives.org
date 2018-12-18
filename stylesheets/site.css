@@ -363,6 +363,9 @@ label {
   font-size: 85%;
   font-weight: 300; }
 
+ul.spaced li {
+  margin-top: 1em; }
+
 .form-button button {
   font-size: 85%;
   -webkit-appearance: none;
