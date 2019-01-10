@@ -210,7 +210,7 @@ p, .main li {
 }
 
 nav, .main {
-	padding: 16px;
+	padding: 18px;
 }
 
 nav {
@@ -235,7 +235,7 @@ nav h1 a:visited {
     display: inline-block;
     white-space: nowrap;
     text-indent: -2000em;
-    background: url(/images/logo.png) no-repeat;
+    background: url(/images/RTSL-Logo.svg) no-repeat;
     background-size: 100% auto;
     width: 100px;
     height: 43px;
@@ -319,8 +319,8 @@ ol h3 {
 }
 
 .members-secondary img {
-    float: right;
-    margin: 0 0 16px 16px;
+    float: left;
+    margin: 0 16px 16px 0;
     width: 60px;
     height: 60px;
     display: block;
@@ -461,7 +461,7 @@ ul.spaced li {
 }
 
 .mobile-nav {
-    padding: 16px 8px 16px 16px;
+    padding: 16px 8px 32px 16px;
     background: #fff;
     //border-top: 1px solid $light-grey;
     position: absolute;
@@ -525,19 +525,19 @@ ul.spaced li {
 /* For devices larger than 880px */
 @media (min-width: 880px) {
     
-    body {
+    body:not(.home) {
         font-size: 18px;
+        padding-left: 260px;
     }
     
     .main {
-    	margin: 0 100px 60px 260px;
-        padding: 20px 0 0 100px;
+    	margin: 0 auto 60px auto;
+        padding: 20px 100px 0 100px;
         min-height: 900px;
         position: relative;
     }
     
     footer {
-        margin: 0 0 0 260px;
         padding: 260px 60px 100px 0;
         background-size: 100% auto;
         text-align: right;
@@ -616,7 +616,7 @@ ul.spaced li {
 		padding: 40px 0 0 20px;
 		overflow: scroll;
         box-sizing: border-box;
-        @-ms-viewport{ width: auto !important; }
+//         @-ms-viewport{ width: auto !important; }
         -ms-overflow-style: none;
         overflow-x: hidden;
         overflow-y: auto;
