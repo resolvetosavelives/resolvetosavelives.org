@@ -297,7 +297,7 @@ footer a.footer-link {
 
 .submenu.active {
   opacity: 1;
-  height: 330px;
+  height: 350px;
   overflow: visible; }
 
 .menu li {
@@ -380,7 +380,7 @@ ul.spaced li {
   margin-bottom: 2em; }
 
 .mobile-nav {
-  padding: 16px 8px 32px 16px;
+  padding: 16px 8px 16px 16px;
   background: #fff;
   position: absolute;
   top: 14px;
