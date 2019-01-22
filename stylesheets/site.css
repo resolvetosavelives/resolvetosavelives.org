@@ -1,23 +1,37 @@
 /********/
 @font-face {
-  font-family: Metropolis;
-  src: url(../fonts/Metropolis-Thin.otf);
-  font-weight: 100; }
+  font-family: 'hk_grotesk';
+  src: url("../fonts/hkgrotesk-italic-webfont.woff2") format("woff2"), url("../fonts/hkgrotesk-italic-webfont.woff") format("woff");
+  font-weight: 200;
+  font-style: italic; }
 @font-face {
-  font-family: Metropolis;
-  src: url(../fonts/Metropolis-Light.otf);
-  font-weight: 200; }
+  font-family: 'hk_grotesk';
+  src: url("../fonts/hkgrotesk-light-webfont.woff2") format("woff2"), url("../fonts/hkgrotesk-light-webfont.woff") format("woff");
+  font-weight: 100;
+  font-style: normal; }
 @font-face {
-  font-family: Metropolis;
-  src: url(../fonts/Metropolis-Regular.otf);
-  font-weight: 300; }
+  font-family: 'hk_grotesk';
+  src: url("../fonts/hkgrotesk-lightitalic-webfont.woff2") format("woff2"), url("../fonts/hkgrotesk-lightitalic-webfont.woff") format("woff");
+  font-weight: 100;
+  font-style: italic; }
 @font-face {
-  font-family: Metropolis;
-  src: url(../fonts/Metropolis-Medium.otf);
-  font-weight: 400; }
+  font-family: 'hk_grotesk';
+  src: url("../fonts/hkgrotesk-regular-webfont.woff2") format("woff2"), url("../fonts/hkgrotesk-regular-webfont.woff") format("woff");
+  font-weight: 200;
+  font-style: normal; }
+@font-face {
+  font-family: 'hk_grotesk';
+  src: url("../fonts/hkgrotesk-semibold-webfont.woff2") format("woff2"), url("../fonts/hkgrotesk-semibold-webfont.woff") format("woff");
+  font-weight: 300;
+  font-style: normal; }
+@font-face {
+  font-family: 'hk_grotesk';
+  src: url("../fonts/hkgrotesk-semibolditalic-webfont.woff2") format("woff2"), url("../fonts/hkgrotesk-semibolditalic-webfont.woff") format("woff");
+  font-weight: 300;
+  font-style: italic; }
 body {
   font-size: 16px;
-  font-family: Metropolis, sans-serif;
+  font-family: 'hk_grotesk', sans-serif;
   font-weight: 200;
   color: #425259;
   background: #F2F5F7;
@@ -27,7 +41,7 @@ body {
 input,
 textarea,
 button {
-  font-family: Metropolis, sans-serif;
+  font-family: 'hk_grotesk', sans-serif;
   font-weight: 300;
   -webkit-box-shadow: none;
           box-shadow: none; }
@@ -36,7 +50,9 @@ button {
   color: #72848C; }
 
 h1 {
-  font-weight: 200;
+  font-family: 'hk_grotesk', sans-serif;
+  font-weight: 100;
+  line-height: 1;
   font-size: 64px;
   letter-spacing: -0.02em;
   color: #2e383c; }
@@ -458,7 +474,7 @@ ul.spaced li {
     text-align: right; }
 
   h1 {
-    font-weight: 100;
+    font-weight: 100 !important;
     max-width: 650px;
     margin: 0 0 20px 0; }
 
@@ -545,13 +561,14 @@ ul.spaced li {
   nav li {
     padding: 0;
     margin: 0;
-    display: block; }
+    display: block;
+    line-height: 1; }
 
   nav li a {
     display: block;
     padding: 10px 0 10px 6px;
     margin-left: 10px;
-    font-size: 80%;
+    font-size: 90%;
     font-weight: 300;
     letter-spacing: -0.03em; }
 
@@ -578,7 +595,7 @@ ul.spaced li {
     color: #364BCC; }
 
   a.nav-project {
-    font-size: 100%;
+    font-size: 110%;
     padding-top: 6px;
     padding-bottom: 6px; }
 
@@ -860,8 +877,9 @@ ul.spaced li {
     padding-bottom: 6px; }
 
   nav li a {
-    padding-top: 8px;
-    padding-bottom: 8px; }
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 80%; }
 
   nav li span {
     padding-top: 2px; }
