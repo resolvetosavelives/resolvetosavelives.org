@@ -151,6 +151,10 @@ button {
     box-shadow: $shadow;
 }
 
+.smaller {
+    font-size: 80%;
+}
+
 p.first {
     margin-top: 0;
 }
@@ -179,10 +183,12 @@ p, .main li {
 .graph img,
 .photo img,
 .graph video,
-.graph-2 img {
+.graph-2 img,
+.display-table {
 	width: 95%;
     border: 4px solid #fff;
 	box-shadow: $shadow;
+    background: #fff;
 }
 
 .graph-2 img {
@@ -474,6 +480,20 @@ ul.spaced li {
     margin-top: 1em;
 }
 
+.square-empty,
+.square-filled {
+    display: inline-block;
+    height: 24px;
+    width: 8px;
+    background: $light-grey;
+    vertical-align: middle;
+    margin-right: 2px;
+}
+
+.square-filled {
+    background: $orange;
+}
+
 .form-button button {
     font-size: 85%;
     -webkit-appearance: none;
@@ -484,6 +504,25 @@ ul.spaced li {
 
 .footer-section {
     margin-bottom: 2em;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.display-table th,
+.display-table td {
+    text-align: left;
+    padding: 8px 16px;
+    margin: 0;
+}
+
+.display-table  th {
+    font-size: 80%;
+}
+
+.display-table  td {
+    border-top: 1px solid $light-grey;
 }
 
 .mobile-nav {
@@ -553,6 +592,10 @@ ul.spaced li {
     
     body:not(.home) {
         padding-left: 260px;
+    }
+    
+    .nowrap {
+        white-space: nowrap;
     }
     
     .main {
@@ -807,12 +850,14 @@ ul.spaced li {
     }
     
     .graph,
-    .photo {
+    .photo,
+    .display-table {
         margin: 2em 0 2em -16px;
     }
     
     .graph img,
-    .photo img {
+    .photo img,
+    .display-table {
         width: 100%;
     }
     
@@ -924,7 +969,8 @@ ul.spaced li {
     .graph img,
     .photo img,
     .image img,
-    .graph video {
+    .graph video,
+    .display-table {
         border-width: 10px;
     }
     
