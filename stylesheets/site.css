@@ -407,6 +407,10 @@ ul.spaced li {
 table {
   border-collapse: collapse; }
 
+blockquote {
+  font-size: 140%;
+  color: #E75935; }
+
 .display-table th,
 .display-table td {
   text-align: left;
