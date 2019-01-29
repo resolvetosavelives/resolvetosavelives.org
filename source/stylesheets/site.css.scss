@@ -499,6 +499,11 @@ table {
     border-collapse: collapse;
 }
 
+blockquote {
+    font-size: 140%;
+    color: $orange-dark;
+}
+
 .display-table th,
 .display-table td {
     text-align: left;
