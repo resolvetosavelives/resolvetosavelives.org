@@ -392,7 +392,7 @@ footer a.footer-link {
 
 .submenu.active {
     opacity: 1;
-    height: 350px;
+    height: 100%;
     overflow: visible;
 }
 
@@ -409,6 +409,7 @@ footer a.footer-link {
 
 .submenu li li {
     padding-left: 16px;
+    padding-right: 16px;
     font-size: 85%;
 }
 
@@ -521,12 +522,12 @@ blockquote {
 }
 
 .mobile-nav {
-    padding: 16px 8px 16px 16px;
+    padding: 0 8px 16px 16px;
     background: #fff;
     //border-top: 1px solid $light-grey;
-    position: absolute;
-    top: 14px;
-    right: 0;
+    //position: absolute;
+    //top: 14px;
+    //right: 0;
 }
 
 .mobile-nav ul,
@@ -922,7 +923,7 @@ blockquote {
         height: auto;
         width: 25%;
         text-align: center;
-        min-height: 220px;
+        min-height: 260px;
         margin-top: 0;
     }
     
@@ -1099,6 +1100,16 @@ blockquote {
 		max-width: 750px;
 		font-size: 72px;
 	}
+    
+    .members-secondary .member-contents {
+        padding-top: 140px;
+    }
+    
+    .members-secondary img {
+        width: 140px;
+        height: 140px;
+        margin-left: -70px;
+    }
 }
 
 /*Reduced height nav on desktop*/
