@@ -295,6 +295,12 @@ ol h3 {
   -webkit-transform: scale(1.05);
           transform: scale(1.05); }
 
+.confirm {
+  padding: 32px;
+  border: 1px solid #ff8565;
+  margin: 1em 0;
+  background: #FBEDE9; }
+
 .bio-photo {
   float: right;
   border-radius: 300px;
