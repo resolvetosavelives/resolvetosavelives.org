@@ -8,7 +8,8 @@ top_members:
       title: President and CEO
       location: New York, USA
       user_name: Frieden_Tom
-      description: Dr. Tom Frieden is one of the world’s leading public health experts. Prior to founding Resolve to Save Lives, Tom was the director of the US Centers for Disease Control.
+      description: Dr. Tom Frieden is one of the world’s leading public health experts. Prior to founding Resolve to Save Lives, Tom was the director of the US Centers for Disease Control.   
+      bio: <a href="/tom-frieden" class="bio-link">Biography</a>
 
 cvd_members:
 
@@ -16,6 +17,7 @@ cvd_members:
     title: Senior Vice President
     user_name: Jaffe_Marc
     location: California, USA
+    bio: <a href="/marc-jaffe" class="bio-link">Biography</a>
 
   - name: Adefunke (Funke) Ajenikoko
     title: Program Assistant 
@@ -134,6 +136,7 @@ pe_members:
     title: Senior Vice President
     user_name: McClelland_Amanda
     location: New York, USA
+    bio: <a href="/amanda_mcclelland" class="bio-link">Biography</a>
 
   - name: Marine Buissonnière
     title: Senior Advisor Consultant
@@ -162,6 +165,7 @@ ops_members:
     title: Chief Operating Officer
     user_name: user
     location: New York, USA
+    bio: <a href="/jeannie-mantopoulos" class="bio-link">Biography</a>
 
   - name: Emma Bradford
     title: Communications Associate
@@ -266,10 +270,11 @@ ops_members:
         <% current_page.data.top_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h4><a href="/images/team/large/<%= member.user_name %>.jpg"><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></a></h4>
+                    <h4><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></h4>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
+                    <%= member.bio %>
                 </div>
             </div>
         <% end %>
@@ -282,10 +287,11 @@ ops_members:
         <% current_page.data.pe_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h4><a href="/images/team/large/<%= member.user_name %>.jpg"><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></a></h4>
+                    <h4><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></h4>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
+                    <%= member.bio %>
                 </div>
             </div>
         <% end %>
@@ -298,10 +304,11 @@ ops_members:
         <% current_page.data.cvd_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h4><a href="/images/team/large/<%= member.user_name %>.jpg"><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></a></h4>
+                    <h4><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></h4>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
+                    <%= member.bio %>
                 </div>
             </div>
         <% end %>
@@ -314,10 +321,11 @@ ops_members:
         <% current_page.data.ops_members.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h4><a href="/images/team/large/<%= member.user_name %>.jpg"><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></a></h4>
+                    <h4><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></h4>
                     <div class="title"><%= member.title %></div>
                     <p><%= member.description %></p>
                     <span><%= member.location %></span>
+                    <%= member.bio %>
                 </div>
             </div>
         <% end %>
