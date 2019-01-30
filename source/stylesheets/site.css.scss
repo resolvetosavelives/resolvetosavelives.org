@@ -368,6 +368,13 @@ ol h3 {
     transform: scale(1.05);
 }
 
+.confirm {
+    padding: 32px;
+    border: 1px solid $orange;
+    margin: 1em 0;
+    background: $orange-light;
+}
+
 .bio-photo {
     float: right;
     border-radius: 300px;
