@@ -106,7 +106,8 @@ h1 em {
 }
 
 h2 {
-    font-weight: 300;
+    font-weight: 200;
+    line-height: 1.1;
     font-size: 28px;
     letter-spacing: -0.03em;
     margin: 1.5em 0 0.5em 0;
@@ -116,7 +117,7 @@ h2 {
 
 h3 {
     font-weight: 300;
-    font-size: 18px;
+    font-size: 14px;
     letter-spacing: -0.02em;
     line-height: 1.2;
     color: $title-color;
@@ -126,7 +127,7 @@ h3 {
 
 h4 {
     font-weight: 300;
-    font-size: 16px;
+    font-size: 14px;
     letter-spacing: -0.02em;
     line-height: 1.2;
     margin: 1em 0 0 0;
@@ -145,7 +146,7 @@ a:active {
     color: #000;
 }
 
-a.button,
+.button,
 button,
 input[type=submit] {
     display: inline-block;
@@ -155,6 +156,14 @@ input[type=submit] {
     padding: 10px 60px;
     border-radius: 3px;
     box-shadow: $shadow;
+}
+
+.button.disabled {
+    color: $dark-grey;
+}
+
+.note {
+    color: $orange;
 }
 
 .smaller {
@@ -348,6 +357,10 @@ ol h3 {
 
 .member .title {
     font-size: 85%;
+}
+
+.members-secondary h4 {
+    font-size: 100%;
 }
 
 .members-secondary p {
@@ -565,12 +578,15 @@ blockquote {
     margin-right: 8px;
 }
 
-.mobile-nav a,
-.mobile-nav a:hover {
+.mobile-nav a {
     text-decoration: none;
     font-weight: 500;
     letter-spacing: -0.02em;
     padding: 5px 0;
+}
+
+.mobile-nav li li a {
+    font-weight: 200;
 }
 
 .mobile-nav a img {
@@ -579,7 +595,7 @@ blockquote {
 }
 
 .mobile-nav ul li span {
-    margin-bottom: 8px;
+    margin-bottom: 0;
     font-weight: 500;
     color: $orange;
 }
@@ -971,7 +987,6 @@ blockquote {
         margin-bottom: 30px;
         margin-left: 16px;
     }
-<<<<<<< HEAD
     
     .bio-link {
         font-size: 80%;
@@ -983,9 +998,6 @@ blockquote {
         margin: 0 0 32px 32px;
     }
     
-=======
-
->>>>>>> a67ee40ca0ad8c295054c5d0d84524f76215f034
     .member h4 {
         font-size: 85%;
         margin-bottom: 4px;
