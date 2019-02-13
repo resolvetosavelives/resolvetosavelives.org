@@ -96,7 +96,7 @@
     <div class="mobile-nav">
         <ul class="menu">
             <li class="menu-item"><a href="#">Projects<img src="../images/down.png" width="16" height="16" alt=""></a></li>
-            <!--li class="menu-item"><a href="/careers">Careers</a></li-->
+            <li class="menu-item"><a href="/contact">Contact</a></li>
             <li class="menu-item"><a href="/about">About</a></li>
         </ul>
         <ul class="submenu">
@@ -127,33 +127,33 @@
 <p>Please note that Resolve to Save Lives works with existing partners and does not accept unsolicited grant proposals; grant proposals are by invitation only. Thank you for your interest and understanding.</p>
 <p>Email us at <a href="mailto:info@resolvetosavelives.org">info@resolvetosavelives.org</a> or fill out the form below. </p>
 
-<div class="confirm">
-    Message sent! Thank you for contacting us.
-</div>
 
-<form>
+
+<form action="https://www.elformo.com/forms/27a21aca-90ae-4c9a-ac48-92b48d4d7b9d" method="post" accept-charset="UTF-8">
+    <input id="elformo_honeypot" name="elformo_honeypot" />
+
     <div class="form-row">
         <label for="name">Your name</label>
-        <input type="text">
+        <input id="name" name="name" type="text" required>
     </div>
-    
+
     <div class="form-row">
-        <label for="name">Email</label>
-        <input type="text">
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" required>
     </div>
-    
+
     <div class="form-row">
-        <label for="name">Subject</label>
-        <input type="text">
+        <label for="subject">Subject</label>
+        <input id="subject" name="subject" type="text" required>
     </div>
-    
+
     <div class="form-row">
         <label for="message">Message</label>
-        <textarea rows="10"></textarea>
+        <textarea id="message" name="message" rows="10" required></textarea>
     </div>
-    
+
     <div class="form-button">
-        <button>Send message</button>
+        <input id="submit" name="submit" type="submit" value="Send message">
     </div>
 </form>
 
@@ -173,7 +173,7 @@
         <span class="light">100 Broadway, 4th Floor<br>
         New York, NY 10005</span></p>
     </div>
-    
+
     <div class="column">
         <div class="image"><a href="https://goo.gl/maps/SbwBHyv5rwP2"><img src="../images/jinan.jpg" alt=""></a></div>
         <p>Jinan, China<br>
@@ -184,8 +184,9 @@
         Jinan, China</span>
         </p>
     </div>
-    
+
 </div>
+
 
     </div>
     

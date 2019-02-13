@@ -46,6 +46,9 @@ button {
   -webkit-box-shadow: none;
           box-shadow: none; }
 
+#elformo_honeypot {
+  display: none; }
+
 .light {
   color: #72848C; }
 
@@ -62,7 +65,8 @@ h1 em {
   font-style: normal; }
 
 h2 {
-  font-weight: 300;
+  font-weight: 200;
+  line-height: 1.1;
   font-size: 28px;
   letter-spacing: -0.03em;
   margin: 1.5em 0 0.5em 0;
@@ -71,7 +75,7 @@ h2 {
 
 h3 {
   font-weight: 300;
-  font-size: 18px;
+  font-size: 14px;
   letter-spacing: -0.02em;
   line-height: 1.2;
   color: #2e383c;
@@ -80,7 +84,7 @@ h3 {
 
 h4 {
   font-weight: 300;
-  font-size: 16px;
+  font-size: 14px;
   letter-spacing: -0.02em;
   line-height: 1.2;
   margin: 1em 0 0 0; }
@@ -96,8 +100,9 @@ a:active {
   text-decoration: underline;
   color: #000; }
 
-a.button,
-button {
+.button,
+button,
+input[type=submit] {
   display: inline-block;
   background: #fff;
   color: #364BCC;
@@ -106,6 +111,12 @@ button {
   border-radius: 3px;
   -webkit-box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.05);
           box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.05); }
+
+.button.disabled {
+  color: #72848C; }
+
+.note {
+  color: #ff8565; }
 
 .smaller {
   font-size: 70%; }
@@ -270,6 +281,9 @@ ol h3 {
 .member .title {
   font-size: 85%; }
 
+.members-secondary h4 {
+  font-size: 100%; }
+
 .members-secondary p {
   margin: 0.5em 0;
   display: none; }
@@ -407,7 +421,8 @@ ul.spaced li {
   background: #ff8565;
   border-color: #E75935; }
 
-.form-button button {
+.form-button button,
+.form-button input[type=submit] {
   font-size: 85%;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -451,19 +466,21 @@ blockquote {
 .mobile-nav .menu-item a {
   margin-right: 8px; }
 
-.mobile-nav a,
-.mobile-nav a:hover {
+.mobile-nav a {
   text-decoration: none;
   font-weight: 500;
   letter-spacing: -0.02em;
   padding: 5px 0; }
+
+.mobile-nav li li a {
+  font-weight: 200; }
 
 .mobile-nav a img {
   vertical-align: middle;
   margin-left: 3px; }
 
 .mobile-nav ul li span {
-  margin-bottom: 8px;
+  margin-bottom: 0;
   font-weight: 500;
   color: #ff8565; }
 
