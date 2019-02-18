@@ -1,17 +1,17 @@
 <!doctype html>
 <html>
 <head>
+    
   <!-- Google Analytics
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130231777-1"></script>
-  <script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106105073-1"></script>
+    <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'UA-130231777-1');
+    gtag('config', 'UA-106105073-1');
   </script>
-
 
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -74,7 +74,7 @@
     		<li class="<%= current_page.data.section == "cardiovascular-health" ? "selected" : "" %>"><span>Project</span> <a href="/cardiovascular-health" class="nav-project"><strong>Cardiovascular health</strong></a>
 				<ul>
 					<li class="<%= current_page.data.section == "hypertension" ? "selected" : "" %>"><a href="/hypertension"><strong>Hypertension control</strong></a></li>
-					<li class="<%= current_page.data.section == "sodium" ? "selected" : "" %>"><a href="/sodium"><strong>Sodium reduction</strong></a></li>
+					<li class="<%= current_page.data.section == "sodium" ? "selected" : "" %>"><a href="/sodium"><strong>Salt reduction</strong></a></li>
 					<li class="<%= current_page.data.section == "transfat" ? "selected" : "" %>"><a href="/transfat"><strong>Trans fat elimination</strong></a></li>
 					<li class="<%= current_page.data.section == "links" ? "selected" : "" %>"><a href="/links"><strong>LINKS community</strong></a></li>
 				</ul>
@@ -82,13 +82,13 @@
     		<li class="<%= current_page.data.section == "prevent-epidemics" ? "selected" : "" %>"><span>Project</span> <a href="/prevent-epidemics" class="nav-project"><strong>Prevent epidemics</strong></a>
 				<ul>
                     <li class="<%= current_page.data.section == "readyscore" ? "selected" : "" %>"><a href="/readyscore"><strong>ReadyScore</strong></a></li>
-                    <li class="<%= current_page.data.section == "training" ? "selected" : "" %>"><a href="/training"><strong>Program Management Training </strong></a></li>
-                    <!--li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving"><strong>Step up your score</strong></a></li-->
+                    <li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving"><strong>Stepping up</strong></a></li>
+                    <li class="<%= current_page.data.section == "training" ? "selected" : "" %>"><a href="/training"><strong>Prog. Management Training </strong></a></li>
 					<!--li class="<%= current_page.data.section == "prevent-epidemics-resources" ? "selected" : "" %>"><a href="/prevent-epidemics-resources"><strong>Toolkit</strong></a></li-->
 				</ul>
     		</li>
     		<li class="<%= current_page.data.section == "about" ? "selected" : "" %>"><a href="/about"><strong>About us</strong></a></li>
-            <li class="<%= current_page.data.section == "careers" ? "selected" : "" %>"><a href="/careers"><strong>Careers &amp; contracts</strong></a></li>
+            <!--li class="<%= current_page.data.section == "careers" ? "selected" : "" %>"><a href="/careers"><strong>Careers &amp; contracts</strong></a></li-->
     		<li class="<%= current_page.data.section == "contact" ? "selected" : "" %>"><a href="/contact"><strong>Contact us</strong></a></li>
     	</ul>
     </nav>
@@ -96,14 +96,14 @@
     <div class="mobile-nav">
         <ul class="menu">
             <li class="menu-item"><a href="#">Projects<img src="/images/down.png" width="16" height="16" alt=""></a></li>
-            <li class="menu-item"><a href="/careers">Careers</a></li>
+            <li class="menu-item"><a href="/contact">Contact</a></li>
             <li class="menu-item"><a href="/about">About</a></li>
         </ul>
         <ul class="submenu">
             <li class="<%= current_page.data.section == "cardiovascular-health" ? "selected" : "" %>"><span>Project</span> <a href="/cardiovascular-health" class="nav-project nav-primary">Cardiovascular health</a>
 				<ul>
 					<li class="<%= current_page.data.section == "hypertension" ? "selected" : "" %>"><a href="/hypertension">Hypertension control</a></li>
-					<li class="<%= current_page.data.section == "sodium" ? "selected" : "" %>"><a href="/sodium">Sodium reduction</a></li>
+					<li class="<%= current_page.data.section == "sodium" ? "selected" : "" %>"><a href="/sodium">Salt reduction</a></li>
 					<li class="<%= current_page.data.section == "transfat" ? "selected" : "" %>"><a href="/transfat">Trans fat elimination</a></li>
 					<li class="<%= current_page.data.section == "links" ? "selected" : "" %>"><a href="/links">LINKS community</a></li>
 				</ul>
@@ -111,8 +111,8 @@
     		<li><span>Project</span> <a href="/prevent-epidemics" class="nav-project">Prevent epidemics</a>
 				<ul>
 					<li class="<%= current_page.data.section == "readyscore" ? "selected" : "" %>"><a href="/readyscore">ReadyScore</a></li>
+                    <li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving">Stepping up</a></li>
                     <li class="<%= current_page.data.section == "training" ? "selected" : "" %>"><a href="/training">Program Management Training </a></li>
-                    <!--li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving">Step up your score</a></li-->
 					<!--li class="<%= current_page.data.section == "prevent-epidemics-resources" ? "selected" : "" %>"><a href="/prevent-epidemics-resources">Toolkit</a></li-->
 				</ul>
     		</li>
