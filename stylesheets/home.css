@@ -111,7 +111,7 @@
   .time {
     min-height: 2000px;
     max-width: 1300px;
-    margin: -300px -100px 0 auto;
+    margin: -300px auto 0 auto;
     position: relative; }
 
   .time .line {
