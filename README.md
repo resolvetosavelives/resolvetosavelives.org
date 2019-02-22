@@ -6,6 +6,8 @@ This repository houses the source code for the Resolve to Save Lives website.
 
 We use [Middleman](https://middlemanapp.com/) to build the static pages which are hosted on [GitHub Pages](https://pages.github.com/).
 
+### Install Homebrew and Ruby
+
 First, you need to make sure you have Ruby installed. To do so on Mac OS, we use [Homebrew](https://brew.sh/) to install [rbenv](https://github.com/rbenv/rbenv), which we use to manage Ruby versions. (This saves you from having to run everything with `sudo`!)
 
 ```sh
@@ -27,6 +29,8 @@ ruby -v
 # Make sure bundler is installed
 gem install bundler
 ```
+
+### Set up Middleman
 
 To run the site on your own machine, simply clone the repo, install the packages necessary, and start up a Middleman server.
 
