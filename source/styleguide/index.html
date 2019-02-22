@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="css/styles.css" />
 		
 <!-- 		Safari Pinned Tab Icon -->
-		<link rel="mask-icon" href="assets/logos/rtsl-safari-favicon.svg" color="#9f89a9">
+		<link rel="mask-icon" href="assets/logos/RTSL-safari-favicon.svg" color="#9f89a9">
 		
 		
 	    <script src="_src/jquery.min.js"></script>
@@ -19,24 +19,24 @@
 	<body>
 
   	<nav>
-	  	<img src="assets/logos/RTSL-Logo.svg">
-      	<h2>Identity Guide</h2>
+	  	<img src="assets/logos/RGB/RTSL-Logo-strapline-RGB.svg">
     	<ul>
       	<li class="active"><a href="#intro">Introduction</a></li> 
       	<li><a href="#logo">Logo</a></li>
       	<li><a href="#color">Colour</a></li>
       	<li><a href="#typography">Typography</a></li>
       	<li><a href="#library">Visual Library</a></li>
-      	<li><a href="#assets">Assets</a></li>
+      	<li><a href="#templates">Templates</a></li>
+        <li><a href="#assets">Assets</a></li>
       </ul>
     </nav>
         
     <div class="guide">
       
     <section id="intro">
-      	<h1>Introduction</h1>
+      	<h1>Identity Library</h1>
       	
-      	
+      <p>Introduction text here</p>	
       	
     </section>
     
@@ -44,30 +44,85 @@
       <h1>Logo</h1>
       
       
-      <h2>What logo should I use?</h2>
+      <h2>Which logo should I use?</h2>
+      
+<p>The first instance of the RTSL logo should always have the 'An Initiative of Vital Strategies' strapline. Subsequent uses and smaller versions can use the logo on it's own.</p>
 
-<p>There are two colour types, and a few file formats to choose from, when you need a logo:</p>
+<p>There are two colour types, and a few file formats to choose from, when you need a logo. Which one you choose depends on the context:</p>
 
-<p><strong>For printing</strong>, use the CMYK version, and either an EPS or PDF format to ensure quality.</p> 
+<ol>
 
-<p><strong>For viewing on a screen</strong> (Website, Email, Social Media post etc) use the RGB version. Where possible, use the SVG version to retain quality. </p>
+<li><strong>For viewing on a screen</strong> (Website, Email, Social Media Post etc) or Microsoft Word and Powerpoint documents, use the <strong>RGB</strong> version. This includes documents that will be printed by the recipient (e.g on an inkjet printer). Use the SVG format to retain quality.</li>
 
-<figure>
-  	<img src="assets/logos/RTSL-Logo.svg">
-  	<figcaption>RTSL Logo (SVG)</figcaption>
-</figure>
+<li><strong>For professional printing</strong>, use the <strong>CMYK</strong> version, and either an <a href="assets/logos/RTSL-Logo-CMYK.eps">EPS</a> or <a  href="assets/logos/RTSL-Logo-CMYK.pdf">PDF</a> format to ensure quality.</li> 
 
-<p>However, some applications and contexts don’t allow you to use a EPS, PDF or SVG file (such as Mailchimp), so in these cases a PNG will give you the best results. Never use a JPEG or BMP as the quality will be poorer.  </p>
+</ol>
+
+<p>However, some applications and contexts (such as Mailchimp) don’t allow you to use any of these formats. In these cases a PNG will give you the best results. Never use a JPEG or BMP logo as the quality will be poorer.</p>
+
+
+<p>Drag and drop the relevant logo to your document:</p>
+
+
+<table class="logo-table">
+	
+	<thead><tr>
+			<th></th>
+			<th></th>
+			<th>Strapline</th>
+			<th>No Strapline</th>
+			
+			</tr>
+	</thead>
+			
+			
+	<tbody>
+
+		<tr>
+			<th>RGB for Screens</th>
+			
+			<th>SVG</th>
+		<td><img src="assets/logos/RGB/RTSL-Logo-strapline-RGB.svg"></td>
+		<td><img src="assets/logos/RGB/RTSL-Logo-RGB.svg"></td>
+</tr>
+
+		<tr>
+			<td></td>
+			<th>PNG</th>
+		<td><img src="assets/logos/RGB/RTSL-Logo-strapline-RGB.png" alt="RTSL-Logo-strapline-RGB" width="228" height="118"></td>
+		<td><img src="assets/logos/RGB/RTSL-Logo-RGB.png" alt="RTSL-Logo-RGB" width="228" height="104"></td>
+</tr>	
+
+
+		<tr>
+			<th></th>
+			
+			<th>SVG<br>(White-out)</th>
+		<td style="background:var(--rtsl-blue);"><img src="assets/logos/RGB/RTSL-Logo-strapline-white.svg"></td>
+		<td style="background:var(--rtsl-blue);"><img src="assets/logos/RGB/RTSL-Logo-white.svg"></td>
+</tr>
+
+	
+
+<tr>
+	<th>CMYK for Printing</th>
+			<th>EPS</th>
+			<td><img src="assets/logos/CMYK/RTSL-Logo-strapline-CMYK.eps" alt="RTSL-Logo-strapline-CMYK" width="184" height="92"></td>
+			<td><img src="assets/logos/CMYK/RTSL-Logo-CMYK.eps" alt="RTSL-Logo-CMYK" width="128" height="54"></td>		
+<td>
+			
+	</tbody>
+</table>
+
+
 
      </section>
-
- 
 
 
     <section id="color">
       <h1>Colour</h1>
       
-      <p>The RTSL colour palette uses two main colours (RTSL Red and RTSL Blue), with tints of these used for backgrounds. RTSL Accent is used sparingly to highlight elements, while RTSL Soft Black is used for text</p>
+      <p>The RTSL colour palette uses two main colours (RTSL Red and RTSL Blue), with tints of these used for backgrounds. RTSL Accent is used sparingly to highlight elements, while RTSL Soft Black is  for body text. Infographics use an extended colour palette.</p>
       
      <p>Colour values shown are CSS variables and CMYK, HSL and HEX Values.</p>
           
@@ -306,10 +361,119 @@
              <td>#EDEDF8</td>
           </tr>
         </table>
-      </div>      
-      
-      
+      </div>    
  </div>
+      
+      <div class="swatches">
+       <div class="swatch">
+        <div class="block" style="background-color: var(--rtsl-soft-black)"></div>
+        <h4>RTSL Soft Black</h4>
+        <table>
+            <tr>
+             <th>CSS</th>
+             <td>--rtsl-soft-black</td>
+          </tr>
+            <tr>
+             <th>CMYK</th>
+             <td>C80, M20, Y20, K80</td>
+          </tr>
+            <tr>
+             <th>HSL</th>
+             <td>143&deg;, 92%, 14%</td>
+          </tr>     
+
+            <tr>
+             <th>CSS</th>
+             <td>#003441c</td>
+          </tr>
+        </table>
+      </div>
+      
+           <div class="swatch">
+        <div class="block" style="background-color: var(--rtsl-soft-black-1)"></div>
+        <h4>RTSL Soft Black 1</h4>
+        <table>
+            <tr>
+             <th>CSS</th>
+             <td>--rtsl-soft-black</td>
+          </tr>
+            <tr>
+             <th>CMYK</th>
+             <td>C80, M20, Y20, K80</td>
+          </tr>
+            <tr>
+             <th>HSL</th>
+             <td>143&deg;, 92%, 14%</td>
+          </tr>     
+
+            <tr>
+             <th>CSS</th>
+             <td>#003441c</td>
+          </tr>
+        </table>
+      </div>  
+
+           <div class="swatch">
+        <div class="block" style="background-color: var(--rtsl-soft-black-2)"></div>
+        <h4>RTSL Soft Black 2</h4>
+        <table>
+            <tr>
+             <th>CSS</th>
+             <td>--rtsl-soft-black</td>
+          </tr>
+            <tr>
+             <th>CMYK</th>
+             <td>C80, M20, Y20, K80</td>
+          </tr>
+            <tr>
+             <th>HSL</th>
+             <td>143&deg;, 92%, 14%</td>
+          </tr>     
+
+            <tr>
+             <th>CSS</th>
+             <td>#003441c</td>
+          </tr>
+        </table>
+      </div>  
+ 
+            <div class="swatch">
+        <div class="block" style="background-color: var(--rtsl-soft-black-3)"></div>
+        <h4>RTSL Soft Black 3</h4>
+        <table>
+            <tr>
+             <th>CSS</th>
+             <td>--rtsl-soft-black</td>
+          </tr>
+            <tr>
+             <th>CMYK</th>
+             <td>C80, M20, Y20, K80</td>
+          </tr>
+            <tr>
+             <th>HSL</th>
+             <td>143&deg;, 92%, 14%</td>
+          </tr>     
+
+            <tr>
+             <th>CSS</th>
+             <td>#003441c</td>
+          </tr>
+        </table>
+      </div>  
+                 
+      </div>
+      
+        
+      
+      
+      <h2>RTSL palette assets</h2>
+            <div class="assets">
+        <a href="assets/themes/RTSL-theme.thmx">Theme for Word &amp; Powerpoint (.thmx)</a>
+
+        <a href="assets/logo.zip">Theme for Sketch</a> 
+                      
+         </div>
+
             
     </section>
     
@@ -331,16 +495,16 @@
 
 <p>For use online, .woff versions are also available. Embed via the <code>hk-grotesk.css</code> stylesheet.</p>
 
-    	<h3>Basic typography rules</h3>
+    	<h3>Typography rules (Screen)</h3>
  
-           <h1>Heading 1: 3.875rem</h1>
-          <h2>Heading 2: 1.625rem</h2>
-          <h3>Heading 3 &amp; 4: 1rem, Uppercase</h3>
+           <h1>Heading 1 (3.875rem)</h1>
+          <h2>Heading 2 (1.625rem)</h2>
+          <h3>Heading 3 (1rem, Uppercase, 0.1rem tracking)</h3>
           
           
         <br>
           
-   	<p>Typography for <acronym title="Resolve to Save Lives">RTSL</acronym> starts with a base font size of 16px. The baseline grid/line height is set to 26px (16 &times; 1.6). Headings are sized similarly using a scale of 1.6. Type size is set to automatically enlarge as the viewport expands using this rule:</p>
+   	<p>Body text for <acronym title="Resolve to Save Lives">RTSL</acronym> starts with a base font size of 16px. The baseline grid/line height is set to 26px (16 &times; 1.6). Headings are sized similarly using a scale of 1.6. Type size is set to automatically enlarge as the viewport expands using this rule:</p>
 
     	
     	  <pre>
@@ -348,6 +512,8 @@
       	  html { font-size: calc(1rem + 0.15vw);}
 	      	 </code>
        	 </pre>
+       	 
+       	 <p>By having all type sizing and spacing specified in ems, they will increase proportionally.</p>
        		       	
 	       	
 	    <p>For web use, the basic typography rules can be found in the <a href="css/typography.css">typography.css</a> file, which is separate from any style rules used just for this guide.</p>
@@ -387,16 +553,111 @@
       
       <p>These assets are supplied as SVG files in RGB colour mode, making them suitable for both screen contexts and embedding in Word and Powerpoint documents. Contact <a href="mailto:">RTSL Design</a> if you need these supplied in another format</p>
       
-      <h2>Dividers</h2>
+      <h2>Rules</h2>
       
+      <p>Rules are used to either separate content, or add focus to the start of a  heading (for example, in the <code>&lt;h1&gt;</code> style).</h1>
+	      
+	      
+	  <table>
+		  <tbody>
+			  <tr>
+			     <th>20pt</th>
+			     <td>
+					 <img src="assets/dividers/divider-top-20.svg">
+				     <img src="assets/dividers/divider-bottom-20.svg">
+				</td>
+        	</tr>
+
+			     
+			  <tr>
+			     <th>10pt</th>
+			     <td>
+					 <img src="assets/dividers/divider-top-10.svg">
+				     <img src="assets/dividers/divider-bottom-10.svg">
+				</td>
+        	</tr>
+ 
+
+ 			  <tr>
+			     <th>5pt</th>
+			     <td>
+					 <img src="assets/dividers/divider-top-5.svg">
+				     <img src="assets/dividers/divider-bottom-5.svg">
+				</td>
+        	</tr> 
+      	
+        	
+        	<tr>
+			     <th>2pt</th>
+			     <td>
+					 <img src="assets/dividers/divider-top-2.svg">
+				     <img src="assets/dividers/divider-bottom-2.svg">
+				</td>
+        	</tr>
+
+        	</tbody>
+        	</table>
+
+
+<h2>Icons</h2>
+
+		<div class="icons">
+
+      <img src="assets/illustrations/Status-Tick-Large.svg" style="width:64px;height:64px;">
+      <img src="assets/illustrations/Status-Tick-Medium.svg" style="width:20px;height:20px;">
+      <img src="assets/illustrations/Status-Tick-Small.svg" style="width:20px;height:20px;">
+      
+      </div>
       
       <h2>Mini-Illustrations</h2>
       
+      <div class="illus">
+      
+      <img src="assets/illustrations/1-in-10-Deaths.svg">
+      <img src="assets/illustrations/Ambulance.svg">
+      <img src="assets/illustrations/Binoculars.svg">
+	  <img src="assets/illustrations/Blood%20Pressure.svg">
+      <img src="assets/illustrations/Cash.svg">
+      <img src="assets/illustrations/Centuries.svg">
+      <img src="assets/illustrations/Checklist.svg">
+      <img src="assets/illustrations/Emergency-Light.svg">
+      <img src="assets/illustrations/First-Aid.svg">
+      <img src="assets/illustrations/Graph.svg">
+      <img src="assets/illustrations/HCW.svg">
+      <img src="assets/illustrations/Investigate.svg">
+      <img src="assets/illustrations/Laboratory.svg">
+      <img src="assets/illustrations/Legal.svg">
+      <img src="assets/illustrations/Map.svg">
+      <img src="assets/illustrations/Medication.svg">
+      <img src="assets/illustrations/No-Trans-Fat.svg">
+      <img src="assets/illustrations/Political.svg">
+      <img src="assets/illustrations/Radio.svg">
+      <img src="assets/illustrations/Reduce-Sodium.svg">
+
+      <img src="assets/illustrations/Sun-Red.svg">
+      <img src="assets/illustrations/Sun-Yellow.svg">
+      <img src="assets/illustrations/Surveillance.svg">
+      <img src="assets/illustrations/Tax-Dollar.svg">
+      <img src="assets/illustrations/Tax-Percentage.svg">
+      <img src="assets/illustrations/Trans%20Fat.svg">
+      <img src="assets/illustrations/Warn-Red.svg">
+      <img src="assets/illustrations/Warn-Yellow.svg">
+      <img src="assets/illustrations/Workforce.svg">
       
       
-      
+      </div>
+
       </section>      
+  
+  
+  
+      <section id="templates">
+      <h1>Templates</h1>
       
+
+    </section> 
+    
+        
       
     <section id="assets">
       <h1>Assets</h1>

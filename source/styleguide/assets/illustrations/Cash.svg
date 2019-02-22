@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="Cash" x="0" y="0" width="64" height="64" style="fill:none;"/>
+    <path d="M50,12L15,12L5,32L60,32L50,12Z" style="fill:#f3775b;"/>
+    <path d="M44,55L21,55L5,32L60,32L44,55Z" style="fill:#2b307e;"/>
+    <clipPath id="_clip1">
+        <path d="M44,55L21,55L5,32L60,32L44,55Z"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <path d="M4,36L60,36" style="fill:none;stroke:#fff;stroke-opacity:0.341176;stroke-width:1px;"/>
+        <path d="M4,40.5L60,40.5" style="fill:none;stroke:#fff;stroke-opacity:0.235294;stroke-width:1px;"/>
+        <path d="M4,44.5L60,44.5" style="fill:none;stroke:#fff;stroke-opacity:0.141176;stroke-width:1px;"/>
+        <path d="M4,47L60,47" style="fill:none;stroke:#fff;stroke-opacity:0.0745098;stroke-width:1px;"/>
+    </g>
+    <path d="M34.483,14L31.694,14L31.694,15.712C28.407,16.009 26.47,17.424 26.47,19.31C26.47,21.354 28.642,22.332 32.37,23.048C34.923,23.555 36.009,24.026 36.009,24.847C36.009,25.651 35.011,26.227 33.309,26.227C31.254,26.227 30.168,25.581 30.08,24.376L26,24.376C26.088,26.437 27.996,27.939 31.694,28.271L31.694,30L34.483,30L34.483,28.288C37.741,28.026 40.089,26.751 40.089,24.638C40.089,22.803 38.534,21.721 34.16,20.847C31.665,20.323 30.55,20.026 30.55,19.1C30.55,18.262 31.43,17.79 32.869,17.79C34.278,17.79 35.305,18.332 35.364,19.31L39.444,19.31C39.297,17.231 37.448,16.026 34.483,15.729L34.483,14Z" style="fill:#fff;fill-rule:nonzero;"/>
+    <path d="M45,55L61,42L36,42L21,55L45,55Z" style="fill:#2b307e;fill-opacity:0.231373;"/>
+</svg>

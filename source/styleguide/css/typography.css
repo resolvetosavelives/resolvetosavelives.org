@@ -1,6 +1,6 @@
 /* Variables */
 :root {
-  --baseline: 1.6rem;
+  --baseline: 1.625rem;
   --grid: 5px;
   --rtsl-red: #F3775C;
   --rtsl-blue: #2B307F;
@@ -11,6 +11,9 @@
   --rtsl-blue-3: #D9DAF2; 
   --rtsl-blue-4: #F2F3FB;  
   --rtsl-soft-black: #003441;
+  --rtsl-soft-black-1: #43899a;
+  --rtsl-soft-black-2: #b3c7cc;
+  --rtsl-soft-black-3: #e3e7e8;
   --rtsl-accent: #f2c84c;
 }
 
@@ -52,10 +55,15 @@ h4 + P {
   margin-top: 0;
 }
 
-h1,h2,h3,h4,a,strong, .swatch th {
+h1,h2,h3,h4,a,strong {
     font-family: 'hk_groteskbold', sans-serif;
     font-weight: normal;
 } 
+
+th {
+	font-family: 'hk_groteskmedium', sans-serif;
+    font-weight: normal;	
+}
 
 em {
     font-family: 'hk_groteskmedium_italic', sans-serif;
@@ -86,10 +94,10 @@ a:hover {
 
 h1 {
 	font-size: 3.875rem; /* 62px */
-	line-height: calc(var(--baseline) *3);
+	line-height: calc(var(--baseline) *2.5);
 	color:  var(--rtsl-red);
-	margin-top: 1.625rem;
-	margin-bottom: 3.25rem;
+	margin-top: calc(var(--baseline) *1.5);
+	margin-bottom: calc(var(--baseline) *2);
 	letter-spacing: -0.1rem;
 	background: url(../assets/dividers/Divider1.svg) no-repeat;
 	padding-top: var(--baseline);
