@@ -176,7 +176,7 @@ th[colspan="3"] {
   padding: calc(var(--baseline) / 2) var(--baseline) calc(var(--baseline) / 2) calc(var(--baseline) * 2);
   color: #fff;
   background-color: var(--rtsl-red);
-  background-image: url(../_src/download.svg);
+  background-image: url(../img/download.svg);
   background-repeat: no-repeat;
   background-position: calc(var(--baseline) / 2)  50%;
   background-size: 1rem;
@@ -258,7 +258,6 @@ nav li {
 section {
 /* 	min-height: 100vh; */
 	padding: var(--baseline) calc(var(--baseline) * 4) calc(var(--baseline) *2) calc(var(--baseline) *4);
-
 }
 
 section {
