@@ -113,19 +113,37 @@ section {
   padding-top: var(--baseline);
 }
 
-/*
-#intro {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-*/
 
 #intro img {
 	width: 300px;
 	height: auto;
 }
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td, th{
+	padding: calc(var(--baseline) /2);
+	font-size: 0.75rem;
+	vertical-align: top;
+}
+
+table tr>th {
+	white-space: nowrap;
+}
+
+th {
+	text-align: right;
+	color: var(--rtsl-soft-black-1);
+}
+
+thead th,
+th[colspan="3"] {
+	text-align: left;
+}
+
 
 .swatches {
   display: -webkit-box;
@@ -136,7 +154,6 @@ section {
 }
 
 .swatch {
-  font-size: 0.75rem;
   line-height: 1;
   margin: 0 var(--baseline) var(--baseline) 0;
 }
@@ -160,25 +177,24 @@ section {
 
 .swatch th {
   font-weight: normal;
-  padding: 0 var(--grid) 0 0;
   text-align: left;
-  color: var(--rtsl-blue-mid);
 }
 
 .swatch td, .swatch th {
   line-height: 1.5;
+  padding: 0 var(--grid) 0 0;
 }
 
 .assets a {
   display: inline-block;
   margin-right: var(--baseline);
   text-decoration: none;
-  padding: var(--baseline) var(--baseline) var(--baseline) calc(var(--baseline) * 2);
+  padding: calc(var(--baseline) / 2) var(--baseline) calc(var(--baseline) / 2) calc(var(--baseline) * 2);
   color: #fff;
   background-color: var(--rtsl-red);
   background-image: url(../_src/download.svg);
   background-repeat: no-repeat;
-  background-position: var(--baseline) 50%;
+  background-position: calc(var(--baseline) / 2)  50%;
   background-size: 1rem;
 }
 
@@ -202,7 +218,33 @@ figure .assets a {
 }
 
 .type_example {
-  padding-top: var(--baseline);
+  padding-top: calc(var(--baseline) *2);
+}
+
+
+.logo-table img {
+	width: 100%;
+	height: auto;
+}
+
+.illus, .icons {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+}
+
+.icons img {
+	width: 48px;
+	height: 48px;
+	margin: calc(var(--baseline) /2);
+}
+
+.illus img {
+	width: 128px;
+	height: 128px;
+	margin: calc(var(--baseline) /2);
 }
 
 @media screen and (min-width: 800px) {
@@ -236,10 +278,13 @@ nav li {
 section {
 /* 	min-height: 100vh; */
 	padding: var(--baseline) calc(var(--baseline) * 4) calc(var(--baseline) *2) calc(var(--baseline) *4);
-	max-width: 56rem;
-	margin-left: auto;
-	margin-right: auto;
+
 }
 
+section {
+	max-width: 60rem;
+	margin-left: auto;
+	margin-right: auto;	
+}
 
 }

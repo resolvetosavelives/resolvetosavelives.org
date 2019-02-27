@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="Graph" x="0" y="0" width="64" height="64" style="fill:none;"/>
+    <path d="M14.5,28L6.5,33.846L6.5,60L14.5,60L14.5,28Z" style="fill:#f3775b;"/>
+    <path d="M28.5,25.8L23.238,22L20.5,24.533L20.5,60L28.5,60L28.5,25.8Z" style="fill:#f3775b;"/>
+    <path d="M42.5,22L34.5,28L34.5,60L42.5,60L42.5,22Z" style="fill:#f3775b;"/>
+    <path d="M56.5,8L48.5,15.077L48.5,60L56.5,60L56.5,8Z" style="fill:#f3775b;"/>
+    <path d="M6,34L24,21L32,30L58,6" style="fill:none;stroke:#2b307e;stroke-width:3.29px;"/>
+    <path d="M60,4L50.5,4L60,14L60,4Z" style="fill:#2b307e;"/>
+</svg>
