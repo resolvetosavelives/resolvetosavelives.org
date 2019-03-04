@@ -7,11 +7,12 @@
 		"uuidString": "05AE9746-61C2-48E9-A14A-1E184549BCEA"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "29127",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/.gitignore",
 		"oF": 0
@@ -19,6 +20,7 @@
 	"/.sass-cache/6b15e377e714330a87aa17b3658817df9446c82d/home.css.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/.sass-cache/6b15e377e714330a87aa17b3658817df9446c82d/home.css.scssc",
 		"oF": 0
@@ -26,13 +28,4508 @@
 	"/.sass-cache/6b15e377e714330a87aa17b3658817df9446c82d/site.css.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/.sass-cache/6b15e377e714330a87aa17b3658817df9446c82d/site.css.scssc",
 		"oF": 0
 		},
-	"/config.rb": {
+	"/build/about/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/about/index.html",
+		"oF": 0
+		},
+	"/build/amanda_mcclelland/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/amanda_mcclelland/index.html",
+		"oF": 0
+		},
+	"/build/cardiovascular-health/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/cardiovascular-health/index.html",
+		"oF": 0
+		},
+	"/build/careers/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/careers/index.html",
+		"oF": 0
+		},
+	"/build/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/CNAME",
+		"oF": 0
+		},
+	"/build/contact/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/contact/index.html",
+		"oF": 0
+		},
+	"/build/disclosures/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/disclosures/index.html",
+		"oF": 0
+		},
+	"/build/fonts/caveat-bold-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/caveat-bold-webfont.ttf",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-bold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-bold-webfont.woff",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-bold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-bold-webfont.woff2",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-bolditalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-bolditalic-webfont.woff",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-bolditalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-bolditalic-webfont.woff2",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-italic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-italic-webfont.woff",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-italic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-italic-webfont.woff2",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-light-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-light-webfont.woff",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-light-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-light-webfont.woff2",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-lightitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-lightitalic-webfont.woff",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-lightitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-lightitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-medium-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-medium-webfont.woff",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-medium-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-medium-webfont.woff2",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-mediumitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-mediumitalic-webfont.woff",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-mediumitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-mediumitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-regular-webfont.woff",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-regular-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-regular-webfont.woff2",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-semibold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-semibold-webfont.woff",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-semibold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-semibold-webfont.woff2",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-semibolditalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-semibolditalic-webfont.woff",
+		"oF": 0
+		},
+	"/build/fonts/hkgrotesk-semibolditalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/hkgrotesk-semibolditalic-webfont.woff2",
+		"oF": 0
+		},
+	"/build/fonts/Metropolis-Light.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/Metropolis-Light.otf",
+		"oF": 0
+		},
+	"/build/fonts/Metropolis-Medium.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/Metropolis-Medium.otf",
+		"oF": 0
+		},
+	"/build/fonts/Metropolis-Regular.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/Metropolis-Regular.otf",
+		"oF": 0
+		},
+	"/build/fonts/Metropolis-Thin.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/fonts/Metropolis-Thin.otf",
+		"oF": 0
+		},
+	"/build/hypertension/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/hypertension/index.html",
+		"oF": 0
+		},
+	"/build/images/.keep": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/.keep",
+		"oF": 0
+		},
+	"/build/images/angle.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/images/angle.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/images/blank.jpg": {
+		"ft": 16384,
+		"iS": 6755,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/blank.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/book.png": {
+		"ft": 32768,
+		"iS": 52399,
+		"oA": 0,
+		"oAP": "/build/images/book.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/coi-statement.jpg": {
+		"ft": 16384,
+		"iS": 65771,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/coi-statement.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/cvd-relative.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/cvd-relative.mp4",
+		"oF": 0
+		},
+	"/build/images/cvd-relative.png": {
+		"ft": 32768,
+		"iS": 203358,
+		"oA": 0,
+		"oAP": "/build/images/cvd-relative.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/document.png": {
+		"ft": 32768,
+		"iS": 27026,
+		"oA": 0,
+		"oAP": "/build/images/document.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/down.png": {
+		"ft": 32768,
+		"iS": 656,
+		"oA": 0,
+		"oAP": "/build/images/down.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/ebola.jpg": {
+		"ft": 16384,
+		"iS": 379483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/ebola.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/epidemics-heatmap.png": {
+		"ft": 32768,
+		"iS": 367759,
+		"oA": 0,
+		"oAP": "/build/images/epidemics-heatmap.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/favicon/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 915,
+		"oA": 0,
+		"oAP": "/build/images/favicon/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/favicon/android-chrome-256x256.png": {
+		"ft": 32768,
+		"iS": 1025,
+		"oA": 0,
+		"oAP": "/build/images/favicon/android-chrome-256x256.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/favicon/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 1058,
+		"oA": 0,
+		"oAP": "/build/images/favicon/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/favicon/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/favicon/browserconfig.xml",
+		"oF": 0
+		},
+	"/build/images/favicon/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 807,
+		"oA": 0,
+		"oAP": "/build/images/favicon/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/favicon/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1044,
+		"oA": 0,
+		"oAP": "/build/images/favicon/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/favicon/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/favicon/favicon.ico",
+		"oF": 0
+		},
+	"/build/images/favicon/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 1083,
+		"oA": 0,
+		"oAP": "/build/images/favicon/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/favicon/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/images/favicon/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/images/favicon/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/favicon/site.webmanifest",
+		"oF": 0
+		},
+	"/build/images/footer.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/images/footer.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/images/guillaume-bolduc-209298-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 97770,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/guillaume-bolduc-209298-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/gurugram.jpg": {
+		"ft": 16384,
+		"iS": 50860,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/gurugram.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/home-feature.jpg": {
+		"ft": 16384,
+		"iS": 140787,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/home-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/htn-1-in-7.png": {
+		"ft": 32768,
+		"iS": 177323,
+		"oA": 0,
+		"oAP": "/build/images/htn-1-in-7.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/htn-chart.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/htn-chart.mp4",
+		"oF": 0
+		},
+	"/build/images/htn-chart.png": {
+		"ft": 32768,
+		"iS": 214205,
+		"oA": 0,
+		"oAP": "/build/images/htn-chart.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/htn-small.png": {
+		"ft": 32768,
+		"iS": 107534,
+		"oA": 0,
+		"oAP": "/build/images/htn-small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/htn-summary.png": {
+		"ft": 32768,
+		"iS": 25984,
+		"oA": 0,
+		"oAP": "/build/images/htn-summary.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/jee-cover.jpg": {
+		"ft": 16384,
+		"iS": 137485,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/jee-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/jee.png": {
+		"ft": 32768,
+		"iS": 173344,
+		"oA": 0,
+		"oAP": "/build/images/jee.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/jinan.jpg": {
+		"ft": 16384,
+		"iS": 36899,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/jinan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/lancet-100millionlives.jpg": {
+		"ft": 16384,
+		"iS": 51858,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/lancet-100millionlives.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/links-network.jpg": {
+		"ft": 16384,
+		"iS": 54069,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/links-network.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/links-programs.jpg": {
+		"ft": 16384,
+		"iS": 33159,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/links-programs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/links-screens.jpg": {
+		"ft": 16384,
+		"iS": 243660,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/links-screens.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/links-webinar.jpg": {
+		"ft": 16384,
+		"iS": 32183,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/links-webinar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/logo.png": {
+		"ft": 32768,
+		"iS": 3810,
+		"oA": 0,
+		"oAP": "/build/images/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/map.jpg": {
+		"ft": 16384,
+		"iS": 205933,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/map.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/master/charts.sketch": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/master/charts.sketch",
+		"oF": 0
+		},
+	"/build/images/master/Maps.pptx": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/master/Maps.pptx",
+		"oF": 0
+		},
+	"/build/images/medialunas.jpg": {
+		"ft": 16384,
+		"iS": 275978,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/medialunas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/nyc.jpg": {
+		"ft": 16384,
+		"iS": 65090,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/nyc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/obesity-south-africa-landscape.jpg": {
+		"ft": 16384,
+		"iS": 316432,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/obesity-south-africa-landscape.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/obesity-south-africa.jpg": {
+		"ft": 16384,
+		"iS": 212541,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/obesity-south-africa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/one-pager.jpg": {
+		"ft": 16384,
+		"iS": 132826,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/one-pager.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/one-pager.png": {
+		"ft": 32768,
+		"iS": 21006,
+		"oA": 0,
+		"oAP": "/build/images/one-pager.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/partners/bloomberg.png": {
+		"ft": 32768,
+		"iS": 14033,
+		"oA": 0,
+		"oAP": "/build/images/partners/bloomberg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/partners/cdc.png": {
+		"ft": 32768,
+		"iS": 21567,
+		"oA": 0,
+		"oAP": "/build/images/partners/cdc.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/partners/czi.png": {
+		"ft": 32768,
+		"iS": 13786,
+		"oA": 0,
+		"oAP": "/build/images/partners/czi.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/partners/gates.png": {
+		"ft": 32768,
+		"iS": 47215,
+		"oA": 0,
+		"oAP": "/build/images/partners/gates.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/partners/ghai.png": {
+		"ft": 32768,
+		"iS": 14910,
+		"oA": 0,
+		"oAP": "/build/images/partners/ghai.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/partners/hopkins.png": {
+		"ft": 32768,
+		"iS": 30741,
+		"oA": 0,
+		"oAP": "/build/images/partners/hopkins.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/partners/icmr.png": {
+		"ft": 32768,
+		"iS": 41583,
+		"oA": 0,
+		"oAP": "/build/images/partners/icmr.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/partners/icnmr.png": {
+		"ft": 32768,
+		"iS": 41583,
+		"oA": 0,
+		"oAP": "/build/images/partners/icnmr.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/partners/who.png": {
+		"ft": 32768,
+		"iS": 25860,
+		"oA": 0,
+		"oAP": "/build/images/partners/who.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/partners/world-bank.png": {
+		"ft": 32768,
+		"iS": 11766,
+		"oA": 0,
+		"oAP": "/build/images/partners/world-bank.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/pe-financial.jpg": {
+		"ft": 16384,
+		"iS": 19676,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/pe-financial.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/pe-map.png": {
+		"ft": 32768,
+		"iS": 632447,
+		"oA": 0,
+		"oAP": "/build/images/pe-map.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/pe-maps.key": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/pe-maps.key",
+		"oF": 0
+		},
+	"/build/images/pe-maps.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/pe-maps.m4v",
+		"oF": 0
+		},
+	"/build/images/pe-maps.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/pe-maps.mp4",
+		"oF": 0
+		},
+	"/build/images/pe-political.jpg": {
+		"ft": 16384,
+		"iS": 35024,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/pe-political.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/pe-technical.jpg": {
+		"ft": 16384,
+		"iS": 34837,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/pe-technical.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/PE_Application_v3_FORM.PDF": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/PE_Application_v3_FORM.PDF",
+		"oF": 0
+		},
+	"/build/images/photo-1.jpg": {
+		"ft": 16384,
+		"iS": 131887,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/photo-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/photo-2.jpg": {
+		"ft": 16384,
+		"iS": 188555,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/photo-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/photo-3.jpg": {
+		"ft": 16384,
+		"iS": 158655,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/photo-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/photo-4.jpg": {
+		"ft": 16384,
+		"iS": 138682,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/photo-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/photo-5.jpg": {
+		"ft": 16384,
+		"iS": 67764,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/photo-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/photo-6.jpg": {
+		"ft": 16384,
+		"iS": 33159,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/photo-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/pmep-pdf.jpg": {
+		"ft": 16384,
+		"iS": 96063,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/pmep-pdf.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/pmep-phases.png": {
+		"ft": 32768,
+		"iS": 247080,
+		"oA": 0,
+		"oAP": "/build/images/pmep-phases.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/poster-punjab.jpg": {
+		"ft": 16384,
+		"iS": 118138,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/poster-punjab.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/preventepidemics-org.png": {
+		"ft": 32768,
+		"iS": 598599,
+		"oA": 0,
+		"oAP": "/build/images/preventepidemics-org.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/readyscore-map.png": {
+		"ft": 32768,
+		"iS": 481010,
+		"oA": 0,
+		"oAP": "/build/images/readyscore-map.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/region-africa.png": {
+		"ft": 32768,
+		"iS": 108628,
+		"oA": 0,
+		"oAP": "/build/images/region-africa.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/region-asia.png": {
+		"ft": 32768,
+		"iS": 108878,
+		"oA": 0,
+		"oAP": "/build/images/region-asia.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/region-europe.png": {
+		"ft": 32768,
+		"iS": 107612,
+		"oA": 0,
+		"oAP": "/build/images/region-europe.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/region-me.png": {
+		"ft": 32768,
+		"iS": 108706,
+		"oA": 0,
+		"oAP": "/build/images/region-me.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/region-na.png": {
+		"ft": 32768,
+		"iS": 108670,
+		"oA": 0,
+		"oAP": "/build/images/region-na.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/region-oceana.png": {
+		"ft": 32768,
+		"iS": 108148,
+		"oA": 0,
+		"oAP": "/build/images/region-oceana.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/region-sa.png": {
+		"ft": 32768,
+		"iS": 108720,
+		"oA": 0,
+		"oAP": "/build/images/region-sa.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/region.png": {
+		"ft": 32768,
+		"iS": 107512,
+		"oA": 0,
+		"oAP": "/build/images/region.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/regulation-249.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/regulation-249.pdf",
+		"oF": 0
+		},
+	"/build/images/Resolve_COI.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/Resolve_COI.pdf",
+		"oF": 0
+		},
+	"/build/images/resources/Blood-Pressure-Measurement-Checklist-007-CC0.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/Blood-Pressure-Measurement-Checklist-007-CC0.pdf",
+		"oF": 0
+		},
+	"/build/images/resources/doc-how-to-choose-a-BP-monitor.jpg": {
+		"ft": 16384,
+		"iS": 59425,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/doc-how-to-choose-a-BP-monitor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/Punjab-Hypertension-Protocol.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/Punjab-Hypertension-Protocol.pdf",
+		"oF": 0
+		},
+	"/build/images/resources/Resolve_Hypertension_CCB_V405.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/Resolve_Hypertension_CCB_V405.pdf",
+		"oF": 0
+		},
+	"/build/images/resources/Resolve_HypertensionProtocols_V406.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/Resolve_HypertensionProtocols_V406.pdf",
+		"oF": 0
+		},
+	"/build/images/resources/thumb-Blood-Pressure-Measurement-Checklist-007-CC0.jpg": {
+		"ft": 16384,
+		"iS": 45260,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-Blood-Pressure-Measurement-Checklist-007-CC0.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-bp-monitors.jpg": {
+		"ft": 16384,
+		"iS": 71915,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-bp-monitors.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-china-factsheet-sodium.jpg": {
+		"ft": 16384,
+		"iS": 54601,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-china-factsheet-sodium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-front-of-pack-labels-for-packaged-food.jpg": {
+		"ft": 16384,
+		"iS": 67579,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-front-of-pack-labels-for-packaged-food.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-hearts.jpg": {
+		"ft": 16384,
+		"iS": 28816,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-hearts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-hypertension-bibiliography.jpg": {
+		"ft": 16384,
+		"iS": 13873,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-hypertension-bibiliography.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-hypertension-fact-sheet.jpg": {
+		"ft": 16384,
+		"iS": 48088,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-hypertension-fact-sheet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-hypertension-leauge.jpg": {
+		"ft": 16384,
+		"iS": 49928,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-hypertension-leauge.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-lancet-transfat.jpg": {
+		"ft": 16384,
+		"iS": 90880,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-lancet-transfat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-marc-jaffe-hypertension.jpg": {
+		"ft": 16384,
+		"iS": 64007,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-marc-jaffe-hypertension.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-nutrition-standards.jpg": {
+		"ft": 16384,
+		"iS": 66555,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-nutrition-standards.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-pe-factsheet.jpg": {
+		"ft": 16384,
+		"iS": 40815,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-pe-factsheet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-pe-press-release.jpg": {
+		"ft": 16384,
+		"iS": 70664,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-pe-press-release.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-pe-what-can-be-done.jpg": {
+		"ft": 16384,
+		"iS": 40005,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-pe-what-can-be-done.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-promotion-of-low-sodium-salt.jpg": {
+		"ft": 16384,
+		"iS": 55491,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-promotion-of-low-sodium-salt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-reduce-salt-in-food-prepared-outside-the-home.jpg": {
+		"ft": 16384,
+		"iS": 73909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-reduce-salt-in-food-prepared-outside-the-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-reducing-salt-strategies.jpg": {
+		"ft": 16384,
+		"iS": 46641,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-reducing-salt-strategies.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-replace-faq.jpg": {
+		"ft": 16384,
+		"iS": 71033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-replace-faq.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-replace.jpg": {
+		"ft": 16384,
+		"iS": 45893,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-replace.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-salt-reduction-approach.jpg": {
+		"ft": 16384,
+		"iS": 59831,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-salt-reduction-approach.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-salt-reduction-targets.jpg": {
+		"ft": 16384,
+		"iS": 55815,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-salt-reduction-targets.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-saving-100m-lives.jpg": {
+		"ft": 16384,
+		"iS": 61368,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-saving-100m-lives.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-shake-the-salt-habit.jpg": {
+		"ft": 16384,
+		"iS": 34274,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-shake-the-salt-habit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-sodium-fact-sheet.jpg": {
+		"ft": 16384,
+		"iS": 70428,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-sodium-fact-sheet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-transfat-bibliography.jpg": {
+		"ft": 16384,
+		"iS": 14252,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-transfat-bibliography.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-transfat-factsheet.jpg": {
+		"ft": 16384,
+		"iS": 60627,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-transfat-factsheet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/thumb-transfat-policies.jpg": {
+		"ft": 16384,
+		"iS": 57110,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-transfat-policies.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/video-china.jpg": {
+		"ft": 16384,
+		"iS": 94266,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/video-china.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/RTSL-Logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/images/RTSL-Logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/images/sample-graph.png": {
+		"ft": 32768,
+		"iS": 366518,
+		"oA": 0,
+		"oAP": "/build/images/sample-graph.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/sample.jpg": {
+		"ft": 16384,
+		"iS": 132215,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/sample.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/sodium-chart.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/sodium-chart.mp4",
+		"oF": 0
+		},
+	"/build/images/sodium-chart.png": {
+		"ft": 32768,
+		"iS": 219744,
+		"oA": 0,
+		"oAP": "/build/images/sodium-chart.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/sodium-small.png": {
+		"ft": 32768,
+		"iS": 56683,
+		"oA": 0,
+		"oAP": "/build/images/sodium-small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/sodium-story.png": {
+		"ft": 32768,
+		"iS": 217960,
+		"oA": 0,
+		"oAP": "/build/images/sodium-story.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/sodium-summary.png": {
+		"ft": 32768,
+		"iS": 15000,
+		"oA": 0,
+		"oAP": "/build/images/sodium-summary.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/sodium-uk.key": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/sodium-uk.key",
+		"oF": 0
+		},
+	"/build/images/south-africa-chart.png": {
+		"ft": 32768,
+		"iS": 115961,
+		"oA": 0,
+		"oAP": "/build/images/south-africa-chart.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/south-africa-regulation-249.jpg": {
+		"ft": 16384,
+		"iS": 105980,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/south-africa-regulation-249.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/step-up-chart.png": {
+		"ft": 32768,
+		"iS": 418570,
+		"oA": 0,
+		"oAP": "/build/images/step-up-chart.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/step-up-next.png": {
+		"ft": 32768,
+		"iS": 86288,
+		"oA": 0,
+		"oAP": "/build/images/step-up-next.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/step-up-progress.png": {
+		"ft": 32768,
+		"iS": 898893,
+		"oA": 0,
+		"oAP": "/build/images/step-up-progress.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/step-up-start.png": {
+		"ft": 32768,
+		"iS": 73890,
+		"oA": 0,
+		"oAP": "/build/images/step-up-start.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/step-up.png": {
+		"ft": 32768,
+		"iS": 174878,
+		"oA": 0,
+		"oAP": "/build/images/step-up.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/team-photo-oct-2018.jpg": {
+		"ft": 16384,
+		"iS": 358791,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team-photo-oct-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Ajenikoko_Adefunke.jpg": {
+		"ft": 16384,
+		"iS": 2707312,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Ajenikoko_Adefunke.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Bradford_Emma.jpg": {
+		"ft": 16384,
+		"iS": 1508099,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Bradford_Emma.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Buissonniere_Marine.jpg": {
+		"ft": 16384,
+		"iS": 1469448,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Buissonniere_Marine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Burka_Daniel.jpg": {
+		"ft": 16384,
+		"iS": 4540574,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Burka_Daniel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Cheadle_Tim.jpg": {
+		"ft": 16384,
+		"iS": 1764744,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Cheadle_Tim.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Cobb_Laura.jpg": {
+		"ft": 16384,
+		"iS": 2095391,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Cobb_Laura.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Cullen_Terry.jpg": {
+		"ft": 16384,
+		"iS": 3029860,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Cullen_Terry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Farrell_Meg.jpg": {
+		"ft": 16384,
+		"iS": 2348002,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Farrell_Meg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Frieden_Tom.jpg": {
+		"ft": 16384,
+		"iS": 294523,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Frieden_Tom.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Ide_Nicole.jpg": {
+		"ft": 16384,
+		"iS": 1798308,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Ide_Nicole.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Jaffe_Marc.jpg": {
+		"ft": 16384,
+		"iS": 1756488,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Jaffe_Marc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Kant_Lalit.jpg": {
+		"ft": 16384,
+		"iS": 1350225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Kant_Lalit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Lee_Christopher.jpg": {
+		"ft": 16384,
+		"iS": 1272936,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Lee_Christopher.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Lopez_Louise.jpg": {
+		"ft": 16384,
+		"iS": 3853732,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Lopez_Louise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/McClelland_Amanda.jpg": {
+		"ft": 16384,
+		"iS": 1208573,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/McClelland_Amanda.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Quach_Le.jpg": {
+		"ft": 16384,
+		"iS": 1720115,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Quach_Le.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Shahpar_Cyrus.jpg": {
+		"ft": 16384,
+		"iS": 1432460,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Shahpar_Cyrus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Steele_Lindsay.jpg": {
+		"ft": 16384,
+		"iS": 634130,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Steele_Lindsay.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Sykes_Erin.jpg": {
+		"ft": 16384,
+		"iS": 2158135,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Sykes_Erin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Trilivas_Ioanna.jpg": {
+		"ft": 16384,
+		"iS": 1458802,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Trilivas_Ioanna.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Ajenikoko_Adefunke.jpg": {
+		"ft": 16384,
+		"iS": 2707312,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Ajenikoko_Adefunke.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Bradford_Emma.jpg": {
+		"ft": 16384,
+		"iS": 1508099,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Bradford_Emma.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Buissonniere_Marine.jpg": {
+		"ft": 16384,
+		"iS": 1469448,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Buissonniere_Marine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Burka_Daniel.jpg": {
+		"ft": 16384,
+		"iS": 4540574,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Burka_Daniel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Cheadle_Tim.jpg": {
+		"ft": 16384,
+		"iS": 1764744,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Cheadle_Tim.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Cobb_Laura.jpg": {
+		"ft": 16384,
+		"iS": 2095391,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Cobb_Laura.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Cullen_Terry.jpg": {
+		"ft": 16384,
+		"iS": 3029860,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Cullen_Terry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Farrell_Meg.jpg": {
+		"ft": 16384,
+		"iS": 2348002,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Farrell_Meg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Frieden_Tom.jpg": {
+		"ft": 16384,
+		"iS": 294523,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Frieden_Tom.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Ide_Nicole.jpg": {
+		"ft": 16384,
+		"iS": 1798308,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Ide_Nicole.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Jaffe_Marc.jpg": {
+		"ft": 16384,
+		"iS": 1106859,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Jaffe_Marc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Kant_Lalit.jpg": {
+		"ft": 16384,
+		"iS": 1350225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Kant_Lalit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Lee_Christopher.jpg": {
+		"ft": 16384,
+		"iS": 1272936,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Lee_Christopher.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Lopez_Louise.jpg": {
+		"ft": 16384,
+		"iS": 3853732,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Lopez_Louise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/McClelland_Amanda.jpg": {
+		"ft": 16384,
+		"iS": 822974,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/McClelland_Amanda.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Quach_Le.jpg": {
+		"ft": 16384,
+		"iS": 1720115,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Quach_Le.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Shahpar_Cyrus.jpg": {
+		"ft": 16384,
+		"iS": 191479,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Shahpar_Cyrus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Steele_Lindsay.jpg": {
+		"ft": 16384,
+		"iS": 634130,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Steele_Lindsay.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Sykes_Erin.jpg": {
+		"ft": 16384,
+		"iS": 2158135,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Sykes_Erin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/Trilivas_Ioanna.jpg": {
+		"ft": 16384,
+		"iS": 1458802,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/Trilivas_Ioanna.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/large/user.jpg": {
+		"ft": 16384,
+		"iS": 23188,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/large/user.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Ajenikoko_Adefunke.jpg": {
+		"ft": 16384,
+		"iS": 37369,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Ajenikoko_Adefunke.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Bradford_Emma.jpg": {
+		"ft": 16384,
+		"iS": 21283,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Bradford_Emma.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Buissonniere_Marine.jpg": {
+		"ft": 16384,
+		"iS": 15072,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Buissonniere_Marine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Burka_Daniel.jpg": {
+		"ft": 16384,
+		"iS": 22470,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Burka_Daniel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Cheadle_Tim.jpg": {
+		"ft": 16384,
+		"iS": 13211,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Cheadle_Tim.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Cobb_Laura.jpg": {
+		"ft": 16384,
+		"iS": 16499,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Cobb_Laura.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Cullen_Terry.jpg": {
+		"ft": 16384,
+		"iS": 26842,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Cullen_Terry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Farrell_Meg.jpg": {
+		"ft": 16384,
+		"iS": 19136,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Farrell_Meg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Frieden_Tom.jpg": {
+		"ft": 16384,
+		"iS": 18788,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Frieden_Tom.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Ide_Nicole.jpg": {
+		"ft": 16384,
+		"iS": 21118,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Ide_Nicole.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Jaffe_Marc.jpg": {
+		"ft": 16384,
+		"iS": 22876,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Jaffe_Marc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Kant_Lalit.jpg": {
+		"ft": 16384,
+		"iS": 21790,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Kant_Lalit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Lee_Christopher.jpg": {
+		"ft": 16384,
+		"iS": 19793,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Lee_Christopher.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Lopez_Louise.jpg": {
+		"ft": 16384,
+		"iS": 27910,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Lopez_Louise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/McClelland_Amanda.jpg": {
+		"ft": 16384,
+		"iS": 17526,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/McClelland_Amanda.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Quach_Le.jpg": {
+		"ft": 16384,
+		"iS": 22620,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Quach_Le.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Shahpar_Cyrus.jpg": {
+		"ft": 16384,
+		"iS": 24019,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Shahpar_Cyrus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Steele_Lindsay.jpg": {
+		"ft": 16384,
+		"iS": 18147,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Steele_Lindsay.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Sykes_Erin.jpg": {
+		"ft": 16384,
+		"iS": 36784,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Sykes_Erin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Trilivas_Ioanna.jpg": {
+		"ft": 16384,
+		"iS": 21677,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Trilivas_Ioanna.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/user.jpg": {
+		"ft": 16384,
+		"iS": 2177,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/user.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/user.jpg": {
+		"ft": 16384,
+		"iS": 5239,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/user.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/africa-aug-2018.jpg": {
+		"ft": 16384,
+		"iS": 74229,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/africa-aug-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/amanda-28-nov.jpg": {
+		"ft": 16384,
+		"iS": 28462,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/amanda-28-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/china-21-nov.jpg": {
+		"ft": 16384,
+		"iS": 50436,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/china-21-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/china-26-sep.jpg": {
+		"ft": 16384,
+		"iS": 191670,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/china-26-sep.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/china-may-2018.jpg": {
+		"ft": 16384,
+		"iS": 114058,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/china-may-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/ethiopia-29-nov.jpg": {
+		"ft": 16384,
+		"iS": 38761,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/ethiopia-29-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/fuwai-27-sep.jpg": {
+		"ft": 16384,
+		"iS": 41913,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/fuwai-27-sep.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/geneva-20-oct.jpg": {
+		"ft": 16384,
+		"iS": 153454,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/geneva-20-oct.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/ICEID-2018.jpg": {
+		"ft": 16384,
+		"iS": 45793,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/ICEID-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/jama-aug-2018.jpg": {
+		"ft": 16384,
+		"iS": 116007,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/jama-aug-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/kenya-15-nov.jpg": {
+		"ft": 16384,
+		"iS": 47317,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/kenya-15-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/lancet-sept-2018.jpg": {
+		"ft": 16384,
+		"iS": 45272,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/lancet-sept-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/liberia-16-oct.jpg": {
+		"ft": 16384,
+		"iS": 138891,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/liberia-16-oct.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/ncd-18-dec.jpg": {
+		"ft": 16384,
+		"iS": 44599,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/ncd-18-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/nigeria-17-dec.jpg": {
+		"ft": 16384,
+		"iS": 48746,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/nigeria-17-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/pe-3-oct.jpg": {
+		"ft": 16384,
+		"iS": 126231,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/pe-3-oct.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/pe-aug-2018.jpg": {
+		"ft": 16384,
+		"iS": 133760,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/pe-aug-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/pe-sept-2018.jpg": {
+		"ft": 16384,
+		"iS": 99196,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/pe-sept-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/prevent-epidemics.jpg": {
+		"ft": 16384,
+		"iS": 105697,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/prevent-epidemics.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/replace-launch.jpg": {
+		"ft": 16384,
+		"iS": 148049,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/replace-launch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/rwanda-jul-2018.jpg": {
+		"ft": 16384,
+		"iS": 90791,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/rwanda-jul-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/rwanda2-jul-2018.jpg": {
+		"ft": 16384,
+		"iS": 52566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/rwanda2-jul-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/shandong-7-dec.jpg": {
+		"ft": 16384,
+		"iS": 23957,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/shandong-7-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/simple-29-oct.png": {
+		"ft": 32768,
+		"iS": 67537,
+		"oA": 0,
+		"oAP": "/build/images/timeline/simple-29-oct.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/timeline/tanzania-may-2018.jpg": {
+		"ft": 16384,
+		"iS": 141549,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/tanzania-may-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/tech-july-2018.jpg": {
+		"ft": 16384,
+		"iS": 82327,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/tech-july-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/tedros-who.jpg": {
+		"ft": 16384,
+		"iS": 105981,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/tedros-who.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/thailand-aug-2018.jpg": {
+		"ft": 16384,
+		"iS": 139536,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/thailand-aug-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/thelancet.jpg": {
+		"ft": 16384,
+		"iS": 24854,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/thelancet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/tom-25-sep.jpg": {
+		"ft": 16384,
+		"iS": 42825,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/tom-25-sep.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/uganda-17-jan.jpg": {
+		"ft": 16384,
+		"iS": 112703,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/uganda-17-jan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/vietnam-2018.jpg": {
+		"ft": 16384,
+		"iS": 86410,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/vietnam-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/vietnam-aug-2018.jpg": {
+		"ft": 16384,
+		"iS": 150860,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/vietnam-aug-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/vietnam-committment-2018.jpg": {
+		"ft": 16384,
+		"iS": 61483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/vietnam-committment-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/vietnam2-aug-2018.jpg": {
+		"ft": 16384,
+		"iS": 101848,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/vietnam2-aug-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/wha-may-2018.jpg": {
+		"ft": 16384,
+		"iS": 86579,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/wha-may-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/WHO-18-dec.jpg": {
+		"ft": 16384,
+		"iS": 39719,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/WHO-18-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/tobacco.png": {
+		"ft": 32768,
+		"iS": 222980,
+		"oA": 0,
+		"oAP": "/build/images/tobacco.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/trans-fats-small.png": {
+		"ft": 32768,
+		"iS": 40736,
+		"oA": 0,
+		"oAP": "/build/images/trans-fats-small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/transfat-graph.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/transfat-graph.mp4",
+		"oF": 0
+		},
+	"/build/images/transfat-graph.png": {
+		"ft": 32768,
+		"iS": 150540,
+		"oA": 0,
+		"oAP": "/build/images/transfat-graph.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/transfats-summary.png": {
+		"ft": 32768,
+		"iS": 22949,
+		"oA": 0,
+		"oAP": "/build/images/transfats-summary.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/user.jpg": {
+		"ft": 16384,
+		"iS": 25473,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/user.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/user.png": {
+		"ft": 32768,
+		"iS": 6214,
+		"oA": 0,
+		"oAP": "/build/images/user.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/video.png": {
+		"ft": 32768,
+		"iS": 24714,
+		"oA": 0,
+		"oAP": "/build/images/video.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/vital-strategies-logo.png": {
+		"ft": 32768,
+		"iS": 25853,
+		"oA": 0,
+		"oAP": "/build/images/vital-strategies-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/images/vs.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/images/vs.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/images/woman.jpg": {
+		"ft": 16384,
+		"iS": 140970,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/woman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/youtube-cvd.jpg": {
+		"ft": 16384,
+		"iS": 134522,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/youtube-cvd.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/youtube-tom.jpg": {
+		"ft": 16384,
+		"iS": 146447,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/youtube-tom.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/zoom.png": {
+		"ft": 32768,
+		"iS": 1517,
+		"oA": 0,
+		"oAP": "/build/images/zoom.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/improving/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/improving/index.html",
+		"oF": 0
+		},
+	"/build/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/index.html",
+		"oF": 0
+		},
+	"/build/javascripts/site.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/build/javascripts/site-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/build/jeannie-mantopoulos/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/jeannie-mantopoulos/index.html",
+		"oF": 0
+		},
+	"/build/links/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/links/index.html",
+		"oF": 0
+		},
+	"/build/marc-jaffe/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/marc-jaffe/index.html",
+		"oF": 0
+		},
+	"/build/prevent-epidemics-resources/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/prevent-epidemics-resources/index.html",
+		"oF": 0
+		},
+	"/build/prevent-epidemics/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/prevent-epidemics/index.html",
+		"oF": 0
+		},
+	"/build/privacy/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/privacy/index.html",
+		"oF": 0
+		},
+	"/build/readyscore/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/readyscore/index.html",
+		"oF": 0
+		},
+	"/build/resources/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/resources/index.html",
+		"oF": 0
+		},
+	"/build/sodium/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/sodium/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/assets/background.png": {
+		"ft": 32768,
+		"iS": 39822,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/background.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/assets/dividers/divider-bottom-10.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/dividers/divider-bottom-10.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/dividers/divider-bottom-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/dividers/divider-bottom-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/dividers/divider-bottom-20.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/dividers/divider-bottom-20.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/dividers/divider-bottom-5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/dividers/divider-bottom-5.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/dividers/divider-top-10.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/dividers/divider-top-10.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/dividers/divider-top-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/dividers/divider-top-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/dividers/divider-top-20.png": {
+		"ft": 32768,
+		"iS": 586,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/dividers/divider-top-20.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/assets/dividers/divider-top-20.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/dividers/divider-top-20.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/dividers/divider-top-5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/dividers/divider-top-5.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/dividers/Divider1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/dividers/Divider1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/1-in-10-Deaths.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/1-in-10-Deaths.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Ambulance.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Ambulance.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Binoculars.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Binoculars.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Blood Pressure.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Blood Pressure.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Cash.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Cash.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Centuries.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Centuries.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Checklist.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Checklist.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Color Palette.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Color Palette.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency Response- muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency Response- muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency Response- PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency Response- PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency-Light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency-Light.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/First-Aid.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/First-Aid.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Graph.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Graph.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/HCW.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/HCW.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Icon-Facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Icon-Facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Icon-Twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Icon-Twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Investigate.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Investigate.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Lab-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Lab-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Lab-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Lab-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Laboratory.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Laboratory.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Legal-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Legal-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Legal-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Legal-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Legal.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Legal.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Map.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Map.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Medication.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Medication.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/No-Trans-Fat.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/No-Trans-Fat.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Political.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Political.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Preparedness-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Preparedness-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Preparedness-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Preparedness-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Prepareness.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Prepareness.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Radio.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Radio.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Reduce-Sodium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Reduce-Sodium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Risk Communication-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Risk Communication-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Risk Communication-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Risk Communication-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Status ick Large.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Status ick Large.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Status Tick Large.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Status Tick Large.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Status Tick Medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Status Tick Medium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Status Tick Small.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Status Tick Small.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Status-Tick-Large.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Status-Tick-Large.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Status-Tick-Medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Status-Tick-Medium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Status-Tick-Small.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Status-Tick-Small.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Sun-Red.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Sun-Red.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Sun-Yellow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Sun-Yellow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Surveillance-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Surveillance-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Surveillance-muted_2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Surveillance-muted_2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Surveillance-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Surveillance-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Surveillance.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Surveillance.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Tax-Dollar.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Tax-Dollar.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Tax-Percentage.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Tax-Percentage.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Trans Fat.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Trans Fat.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Warn-Red.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Warn-Red.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Warn-Yellow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Warn-Yellow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Workforce-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Workforce-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Workforce-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Workforce-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Workforce.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Workforce.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/logos/CMYK/RTSL-Logo-CMYK.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/CMYK/RTSL-Logo-CMYK.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/CMYK/RTSL-Logo-CMYK.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/CMYK/RTSL-Logo-CMYK.pdf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/CMYK/RTSL-Logo-strapline-CMYK.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/CMYK/RTSL-Logo-strapline-CMYK.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/CMYK/RTSL-Logo-strapline-CMYK.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/CMYK/RTSL-Logo-strapline-CMYK.pdf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/Projects/PE-Logo-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/logos/Projects/PE-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-RGB.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-RGB.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-RGB.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-RGB.pdf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-RGB.png": {
+		"ft": 32768,
+		"iS": 7828,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-RGB.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-RGB@2x.png": {
+		"ft": 32768,
+		"iS": 14817,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-RGB@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.pdf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.png": {
+		"ft": 32768,
+		"iS": 9934,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB@2x.png": {
+		"ft": 32768,
+		"iS": 18992,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.pdf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.png": {
+		"ft": 32768,
+		"iS": 7401,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white@2x.png": {
+		"ft": 32768,
+		"iS": 14505,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-white.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-white.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-white.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-white.pdf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-white.png": {
+		"ft": 32768,
+		"iS": 5622,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-Logo-white@2x.png": {
+		"ft": 32768,
+		"iS": 10763,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-Logo-white@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/assets/logos/RTSL-safari-favicon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/logos/RTSL-safari-favicon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/RTSL-Logo-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/RTSL-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/RTSL-Logo-strapline-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/RTSL-Logo-strapline-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/rtsl-safari-favicon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/rtsl-safari-favicon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/themes/RTSL-theme.thmx": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/themes/RTSL-theme.thmx",
+		"oF": 0
+		},
+	"/build/styleguide/css/guide.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/guide-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/build/styleguide/css/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/build/styleguide/css/typography.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/typography-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/build/styleguide/css/webfonts/generator_config.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/generator_config.txt",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hk-grotesk-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hk-grotesk-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/build/styleguide/css/webfonts/hk-grotesk.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hk-grotesk-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-bold-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-bold-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-bold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-bold-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-bold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-bold-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-bolditalic-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-bolditalic-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-bolditalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-bolditalic-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-bolditalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-bolditalic-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-boldlegacy-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-boldlegacy-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-italic-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-italic-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-italic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-italic-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-italic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-italic-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-light-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-light-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-light-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-light-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-light-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-light-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-lightitalic-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-lightitalic-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-medium-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-medium-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-medium-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-medium-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-medium-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-medium-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-mediumitalic-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-mediumitalic-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-regular-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-regular-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-regular-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-regular-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-regular-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-regularlegacy-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-regularlegacy-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-regularlegacy-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-regularlegacy-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-regularlegacy-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-regularlegacy-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-semibold-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-semibold-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-semibold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-semibold-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-semibold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-semibold-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-semibolditalic-demo/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-semibolditalic-demo/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-semibolditalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-semibolditalic-webfont.woff",
+		"oF": 0
+		},
+	"/build/styleguide/css/webfonts/hkgrotesk-semibolditalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-semibolditalic-webfont.woff2",
+		"oF": 0
+		},
+	"/build/styleguide/img/download.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/img/download.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/img/HK-Grotesk2_1250.png": {
+		"ft": 32768,
+		"iS": 52894,
+		"oA": 0,
+		"oAP": "/build/styleguide/img/HK-Grotesk2_1250.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/img/HK-Grotesk6_1250.png": {
+		"ft": 32768,
+		"iS": 99142,
+		"oA": 0,
+		"oAP": "/build/styleguide/img/HK-Grotesk6_1250.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/img/HK-Grotesk_1250.png": {
+		"ft": 32768,
+		"iS": 49657,
+		"oA": 0,
+		"oAP": "/build/styleguide/img/HK-Grotesk_1250.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/index.html",
+		"oF": 0
+		},
+	"/build/styleguide/js/jquery.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/build/styleguide/js/jquery.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/build/styleguide/js/jquery.nav.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/build/styleguide/js/jquery.nav-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/build/stylesheets/home.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/stylesheets/home-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/build/stylesheets/site.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/stylesheets/site-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/build/thanks/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/thanks/index.html",
+		"oF": 0
+		},
+	"/build/tom-frieden/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/tom-frieden/index.html",
+		"oF": 0
+		},
+	"/build/training/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/training/index.html",
+		"oF": 0
+		},
+	"/build/transfat/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/transfat/index.html",
+		"oF": 0
+		},
+	"/config.rb": {
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "/config.rb",
 		"oF": 0
@@ -40,6 +4537,7 @@
 	"/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/Gemfile",
 		"oF": 0
@@ -47,6 +4545,7 @@
 	"/Gemfile.lock": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/Gemfile.lock",
 		"oF": 0
@@ -54,6 +4553,7 @@
 	"/Rakefile": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/Rakefile",
 		"oF": 0
@@ -66,6 +4566,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/README.html",
 		"oF": 0,
@@ -79,13 +4580,23 @@
 	"/source/about.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/about.html.erb",
+		"oF": 0
+		},
+	"/source/amanda_mcclelland.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/amanda_mcclelland.html.erb",
 		"oF": 0
 		},
 	"/source/cardiovascular-health.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/cardiovascular-health.html.erb",
 		"oF": 0
@@ -93,6 +4604,7 @@
 	"/source/careers.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/careers.html.erb",
 		"oF": 0
@@ -100,6 +4612,7 @@
 	"/source/CNAME": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/CNAME",
 		"oF": 0
@@ -107,6 +4620,7 @@
 	"/source/contact.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/contact.html.erb",
 		"oF": 0
@@ -114,6 +4628,7 @@
 	"/source/disclosures.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/disclosures.html.erb",
 		"oF": 0
@@ -121,13 +4636,175 @@
 	"/source/fonts/caveat-bold-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/fonts/caveat-bold-webfont.ttf",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-bold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-bold-webfont.woff",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-bold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-bold-webfont.woff2",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-bolditalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-bolditalic-webfont.woff",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-bolditalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-bolditalic-webfont.woff2",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-italic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-italic-webfont.woff",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-italic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-italic-webfont.woff2",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-light-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-light-webfont.woff",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-light-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-light-webfont.woff2",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-lightitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-lightitalic-webfont.woff",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-lightitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-lightitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-medium-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-medium-webfont.woff",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-medium-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-medium-webfont.woff2",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-mediumitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-mediumitalic-webfont.woff",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-mediumitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-mediumitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-regular-webfont.woff",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-regular-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-regular-webfont.woff2",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-semibold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-semibold-webfont.woff",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-semibold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-semibold-webfont.woff2",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-semibolditalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-semibolditalic-webfont.woff",
+		"oF": 0
+		},
+	"/source/fonts/hkgrotesk-semibolditalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/fonts/hkgrotesk-semibolditalic-webfont.woff2",
 		"oF": 0
 		},
 	"/source/fonts/Metropolis-Light.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/fonts/Metropolis-Light.otf",
 		"oF": 0
@@ -135,6 +4812,7 @@
 	"/source/fonts/Metropolis-Medium.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/fonts/Metropolis-Medium.otf",
 		"oF": 0
@@ -142,6 +4820,7 @@
 	"/source/fonts/Metropolis-Regular.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/fonts/Metropolis-Regular.otf",
 		"oF": 0
@@ -149,6 +4828,7 @@
 	"/source/fonts/Metropolis-Thin.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/fonts/Metropolis-Thin.otf",
 		"oF": 0
@@ -156,6 +4836,7 @@
 	"/source/hypertension.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/hypertension.html.erb",
 		"oF": 0
@@ -163,6 +4844,7 @@
 	"/source/images/.keep": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/.keep",
 		"oF": 0
@@ -213,6 +4895,7 @@
 	"/source/images/cvd-relative.mp4": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/cvd-relative.mp4",
 		"oF": 0
@@ -250,6 +4933,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/images/ebola.jpg": {
+		"ft": 16384,
+		"iS": 379483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/ebola.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/epidemics-heatmap.png": {
 		"ft": 32768,
 		"iS": 367759,
@@ -260,16 +4954,6 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
-		},
-	"/source/images/favicon.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/source/images/favicon.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"/source/images/favicon/android-chrome-192x192.png": {
 		"ft": 32768,
@@ -307,6 +4991,7 @@
 	"/source/images/favicon/browserconfig.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/favicon/browserconfig.xml",
 		"oF": 0
@@ -336,6 +5021,7 @@
 	"/source/images/favicon/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/favicon/favicon.ico",
 		"oF": 0
@@ -364,6 +5050,7 @@
 	"/source/images/favicon/site.webmanifest": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/favicon/site.webmanifest",
 		"oF": 0
@@ -425,6 +5112,7 @@
 	"/source/images/htn-chart.mp4": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/htn-chart.mp4",
 		"oF": 0
@@ -572,12 +5260,32 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/master/charts.sketch": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/master/charts.sketch",
+		"oF": 0
+		},
 	"/source/images/master/Maps.pptx": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/master/Maps.pptx",
 		"oF": 0
+		},
+	"/source/images/medialunas.jpg": {
+		"ft": 16384,
+		"iS": 275978,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/medialunas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/source/images/nyc.jpg": {
 		"ft": 16384,
@@ -769,6 +5477,7 @@
 	"/source/images/pe-maps.key": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/pe-maps.key",
 		"oF": 0
@@ -776,6 +5485,7 @@
 	"/source/images/pe-maps.m4v": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/pe-maps.m4v",
 		"oF": 0
@@ -783,6 +5493,7 @@
 	"/source/images/pe-maps.mp4": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/pe-maps.mp4",
 		"oF": 0
@@ -812,6 +5523,7 @@
 	"/source/images/PE_Application_v3_FORM.PDF": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/PE_Application_v3_FORM.PDF",
 		"oF": 0
@@ -1028,6 +5740,7 @@
 	"/source/images/regulation-249.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/regulation-249.pdf",
 		"oF": 0
@@ -1035,13 +5748,34 @@
 	"/source/images/Resolve_COI.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/Resolve_COI.pdf",
 		"oF": 0
 		},
+	"/source/images/resources/Blood-Pressure-Measurement-Checklist-007-CC0.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/Blood-Pressure-Measurement-Checklist-007-CC0.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/doc-how-to-choose-a-BP-monitor.jpg": {
+		"ft": 16384,
+		"iS": 59425,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/doc-how-to-choose-a-BP-monitor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/resources/Punjab-Hypertension-Protocol.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/resources/Punjab-Hypertension-Protocol.pdf",
 		"oF": 0
@@ -1049,6 +5783,7 @@
 	"/source/images/resources/Resolve_Hypertension_CCB_V405.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/resources/Resolve_Hypertension_CCB_V405.pdf",
 		"oF": 0
@@ -1056,9 +5791,328 @@
 	"/source/images/resources/Resolve_HypertensionProtocols_V406.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/resources/Resolve_HypertensionProtocols_V406.pdf",
 		"oF": 0
+		},
+	"/source/images/resources/thumb-Blood-Pressure-Measurement-Checklist-007-CC0.jpg": {
+		"ft": 16384,
+		"iS": 45260,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-Blood-Pressure-Measurement-Checklist-007-CC0.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-bp-monitors.jpg": {
+		"ft": 16384,
+		"iS": 71915,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-bp-monitors.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-china-factsheet-sodium.jpg": {
+		"ft": 16384,
+		"iS": 54601,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-china-factsheet-sodium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-front-of-pack-labels-for-packaged-food.jpg": {
+		"ft": 16384,
+		"iS": 67579,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-front-of-pack-labels-for-packaged-food.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-hearts.jpg": {
+		"ft": 16384,
+		"iS": 28816,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-hearts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-hypertension-bibiliography.jpg": {
+		"ft": 16384,
+		"iS": 13873,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-hypertension-bibiliography.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-hypertension-fact-sheet.jpg": {
+		"ft": 16384,
+		"iS": 48088,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-hypertension-fact-sheet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-hypertension-leauge.jpg": {
+		"ft": 16384,
+		"iS": 49928,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-hypertension-leauge.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-lancet-transfat.jpg": {
+		"ft": 16384,
+		"iS": 90880,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-lancet-transfat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-marc-jaffe-hypertension.jpg": {
+		"ft": 16384,
+		"iS": 64007,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-marc-jaffe-hypertension.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-nutrition-standards.jpg": {
+		"ft": 16384,
+		"iS": 66555,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-nutrition-standards.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-pe-factsheet.jpg": {
+		"ft": 16384,
+		"iS": 40815,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-pe-factsheet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-pe-press-release.jpg": {
+		"ft": 16384,
+		"iS": 70664,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-pe-press-release.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-pe-what-can-be-done.jpg": {
+		"ft": 16384,
+		"iS": 40005,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-pe-what-can-be-done.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-promotion-of-low-sodium-salt.jpg": {
+		"ft": 16384,
+		"iS": 55491,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-promotion-of-low-sodium-salt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-reduce-salt-in-food-prepared-outside-the-home.jpg": {
+		"ft": 16384,
+		"iS": 73909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-reduce-salt-in-food-prepared-outside-the-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-reducing-salt-strategies.jpg": {
+		"ft": 16384,
+		"iS": 46641,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-reducing-salt-strategies.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-replace-faq.jpg": {
+		"ft": 16384,
+		"iS": 71033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-replace-faq.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-replace.jpg": {
+		"ft": 16384,
+		"iS": 45893,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-replace.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-salt-reduction-approach.jpg": {
+		"ft": 16384,
+		"iS": 59831,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-salt-reduction-approach.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-salt-reduction-targets.jpg": {
+		"ft": 16384,
+		"iS": 55815,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-salt-reduction-targets.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-saving-100m-lives.jpg": {
+		"ft": 16384,
+		"iS": 61368,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-saving-100m-lives.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-shake-the-salt-habit.jpg": {
+		"ft": 16384,
+		"iS": 34274,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-shake-the-salt-habit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-sodium-fact-sheet.jpg": {
+		"ft": 16384,
+		"iS": 70428,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-sodium-fact-sheet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-transfat-bibliography.jpg": {
+		"ft": 16384,
+		"iS": 14252,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-transfat-bibliography.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-transfat-factsheet.jpg": {
+		"ft": 16384,
+		"iS": 60627,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-transfat-factsheet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/thumb-transfat-policies.jpg": {
+		"ft": 16384,
+		"iS": 57110,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-transfat-policies.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/video-china.jpg": {
+		"ft": 16384,
+		"iS": 94266,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/video-china.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/RTSL-Logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/images/RTSL-Logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/source/images/sample-graph.png": {
 		"ft": 32768,
@@ -1082,20 +6136,10 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/source/images/shifaaz-shamoon-594477-unsplash.jpg": {
-		"ft": 16384,
-		"iS": 74257,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/source/images/shifaaz-shamoon-594477-unsplash.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/source/images/sodium-chart.mp4": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/sodium-chart.mp4",
 		"oF": 0
@@ -1147,6 +6191,7 @@
 	"/source/images/sodium-uk.key": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/sodium-uk.key",
 		"oF": 0
@@ -1226,6 +6271,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/source/images/team-photo-oct-2018.jpg": {
+		"ft": 16384,
+		"iS": 358791,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team-photo-oct-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/source/images/team/full/Ajenikoko_Adefunke.jpg": {
@@ -1932,12 +6988,78 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/amanda-28-nov.jpg": {
+		"ft": 16384,
+		"iS": 28462,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/amanda-28-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/china-21-nov.jpg": {
+		"ft": 16384,
+		"iS": 50436,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/china-21-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/china-26-sep.jpg": {
+		"ft": 16384,
+		"iS": 191670,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/china-26-sep.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/china-may-2018.jpg": {
 		"ft": 16384,
 		"iS": 114058,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/china-may-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/ethiopia-29-nov.jpg": {
+		"ft": 16384,
+		"iS": 38761,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/ethiopia-29-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/fuwai-27-sep.jpg": {
+		"ft": 16384,
+		"iS": 41913,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/fuwai-27-sep.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/geneva-20-oct.jpg": {
+		"ft": 16384,
+		"iS": 153454,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/geneva-20-oct.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1965,12 +7087,67 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/kenya-15-nov.jpg": {
+		"ft": 16384,
+		"iS": 47317,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/kenya-15-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/lancet-sept-2018.jpg": {
 		"ft": 16384,
 		"iS": 45272,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/lancet-sept-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/liberia-16-oct.jpg": {
+		"ft": 16384,
+		"iS": 138891,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/liberia-16-oct.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/ncd-18-dec.jpg": {
+		"ft": 16384,
+		"iS": 44599,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/ncd-18-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/nigeria-17-dec.jpg": {
+		"ft": 16384,
+		"iS": 48746,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/nigeria-17-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/pe-3-oct.jpg": {
+		"ft": 16384,
+		"iS": 126231,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/pe-3-oct.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2042,6 +7219,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/shandong-7-dec.jpg": {
+		"ft": 16384,
+		"iS": 23957,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/shandong-7-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/simple-29-oct.png": {
+		"ft": 32768,
+		"iS": 67537,
+		"oA": 0,
+		"oAP": "/source/images/timeline/simple-29-oct.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/images/timeline/tanzania-may-2018.jpg": {
 		"ft": 16384,
 		"iS": 141549,
@@ -2092,6 +7291,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/thelancet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/tom-25-sep.jpg": {
+		"ft": 16384,
+		"iS": 42825,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/tom-25-sep.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/uganda-17-jan.jpg": {
+		"ft": 16384,
+		"iS": 112703,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/uganda-17-jan.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2152,6 +7373,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/WHO-18-dec.jpg": {
+		"ft": 16384,
+		"iS": 39719,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/WHO-18-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/tobacco.png": {
+		"ft": 32768,
+		"iS": 222980,
+		"oA": 0,
+		"oAP": "/source/images/tobacco.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/images/trans-fats-small.png": {
 		"ft": 32768,
 		"iS": 39337,
@@ -2166,6 +7409,7 @@
 	"/source/images/transfat-graph.mp4": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/transfat-graph.mp4",
 		"oF": 0
@@ -2293,6 +7537,7 @@
 	"/source/improving.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/improving.html.erb",
 		"oF": 0
@@ -2300,11 +7545,13 @@
 	"/source/index.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/index.html.erb",
 		"oF": 0
 		},
 	"/source/javascripts/site.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2314,9 +7561,18 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/source/jeannie-mantopoulos.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/jeannie-mantopoulos.html.erb",
+		"oF": 0
+		},
 	"/source/layouts/layout.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/layouts/layout.erb",
 		"oF": 0
@@ -2324,13 +7580,23 @@
 	"/source/links.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/links.html.erb",
+		"oF": 0
+		},
+	"/source/marc-jaffe.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/marc-jaffe.html.erb",
 		"oF": 0
 		},
 	"/source/prevent-epidemics-resources.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/prevent-epidemics-resources.html.erb",
 		"oF": 0
@@ -2338,6 +7604,7 @@
 	"/source/prevent-epidemics.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/prevent-epidemics.html.erb",
 		"oF": 0
@@ -2345,6 +7612,7 @@
 	"/source/privacy.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/privacy.html.erb",
 		"oF": 0
@@ -2352,6 +7620,7 @@
 	"/source/readyscore.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/readyscore.html.erb",
 		"oF": 0
@@ -2359,6 +7628,7 @@
 	"/source/resources.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/resources.html.erb",
 		"oF": 0
@@ -2366,9 +7636,1405 @@
 	"/source/sodium.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/sodium.html.erb",
 		"oF": 0
+		},
+	"/source/styleguide/assets/background.png": {
+		"ft": 32768,
+		"iS": 39822,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/background.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/dividers/divider-bottom-10.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/dividers/divider-bottom-10.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/dividers/divider-bottom-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/dividers/divider-bottom-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/dividers/divider-bottom-20.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/dividers/divider-bottom-20.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/dividers/divider-bottom-5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/dividers/divider-bottom-5.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/dividers/divider-top-10.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/dividers/divider-top-10.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/dividers/divider-top-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/dividers/divider-top-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/dividers/divider-top-20.png": {
+		"ft": 32768,
+		"iS": 586,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/dividers/divider-top-20.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/dividers/divider-top-20.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/dividers/divider-top-20.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/dividers/divider-top-5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/dividers/divider-top-5.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/dividers/Divider1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/dividers/Divider1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/1-in-10-Deaths.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/1-in-10-Deaths.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Ambulance.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Ambulance.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Binoculars.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Binoculars.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Blood Pressure.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Blood Pressure.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Cash.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Cash.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Centuries.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Centuries.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Checklist.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Checklist.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Color Palette.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Color Palette.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency Response- muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency Response- muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency Response- PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency Response- PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency-Light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Light.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/First-Aid.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/First-Aid.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Graph.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Graph.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/HCW.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/HCW.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Icon-Facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Icon-Facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Icon-Twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Icon-Twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Investigate.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Investigate.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Lab-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Lab-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Lab-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Lab-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Laboratory.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Laboratory.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Legal-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Legal-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Legal-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Legal-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Legal.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Legal.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Map.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Map.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Medication.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Medication.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/No-Trans-Fat.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/No-Trans-Fat.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Political.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Political.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Preparedness-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Preparedness-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Preparedness-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Preparedness-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Prepareness.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Prepareness.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Radio.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Radio.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Reduce-Sodium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Reduce-Sodium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Risk Communication-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Risk Communication-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Risk Communication-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Risk Communication-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Status ick Large.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Status ick Large.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Status Tick Large.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Status Tick Large.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Status Tick Medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Status Tick Medium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Status Tick Small.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Status Tick Small.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Status-Tick-Large.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Status-Tick-Large.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Status-Tick-Medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Status-Tick-Medium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Status-Tick-Small.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Status-Tick-Small.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Sun-Red.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Sun-Red.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Sun-Yellow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Sun-Yellow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Surveillance-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Surveillance-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Surveillance-muted_2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Surveillance-muted_2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Surveillance-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Surveillance-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Surveillance.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Surveillance.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Tax-Dollar.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Tax-Dollar.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Tax-Percentage.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Tax-Percentage.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Trans Fat.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Trans Fat.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Warn-Red.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Warn-Red.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Warn-Yellow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Warn-Yellow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Workforce-muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Workforce-muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Workforce-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Workforce-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Workforce.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Workforce.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/CMYK/RTSL-Logo-CMYK.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/CMYK/RTSL-Logo-CMYK.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/CMYK/RTSL-Logo-CMYK.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/CMYK/RTSL-Logo-CMYK.pdf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/CMYK/RTSL-Logo-strapline-CMYK.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/CMYK/RTSL-Logo-strapline-CMYK.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/CMYK/RTSL-Logo-strapline-CMYK.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/CMYK/RTSL-Logo-strapline-CMYK.pdf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/Projects/PE-Logo-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/Projects/PE-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-RGB.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-RGB.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-RGB.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-RGB.pdf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-RGB.png": {
+		"ft": 32768,
+		"iS": 7828,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-RGB.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-RGB@2x.png": {
+		"ft": 32768,
+		"iS": 14817,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-RGB@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.pdf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.png": {
+		"ft": 32768,
+		"iS": 9934,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB@2x.png": {
+		"ft": 32768,
+		"iS": 18992,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-RGB@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.pdf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.png": {
+		"ft": 32768,
+		"iS": 7401,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white@2x.png": {
+		"ft": 32768,
+		"iS": 14505,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-strapline-white@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-white.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-white.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-white.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-white.pdf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-white.png": {
+		"ft": 32768,
+		"iS": 5622,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-Logo-white@2x.png": {
+		"ft": 32768,
+		"iS": 10763,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-Logo-white@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/logos/RTSL-safari-favicon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/RTSL-safari-favicon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/RTSL-Logo-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/RTSL-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/RTSL-Logo-strapline-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/RTSL-Logo-strapline-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/rtsl-safari-favicon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/rtsl-safari-favicon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/themes/RTSL-theme.thmx": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/themes/RTSL-theme.thmx",
+		"oF": 0
+		},
+	"/source/styleguide/css/guide.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/guide-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/source/styleguide/css/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/source/styleguide/css/typography.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/typography-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/source/styleguide/css/webfonts/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/.gitignore",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/generator_config.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/generator_config.txt",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hk-grotesk-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hk-grotesk-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/source/styleguide/css/webfonts/hk-grotesk.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hk-grotesk-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-bold-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-bold-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-bold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-bold-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-bold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-bold-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-bolditalic-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-bolditalic-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-bolditalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-bolditalic-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-bolditalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-bolditalic-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-boldlegacy-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-boldlegacy-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-boldlegacy-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-italic-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-italic-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-italic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-italic-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-italic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-italic-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-light-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-light-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-light-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-light-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-light-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-light-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-lightitalic-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-lightitalic-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-lightitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-medium-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-medium-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-medium-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-medium-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-medium-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-medium-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-mediumitalic-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-mediumitalic-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-mediumitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-regular-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-regular-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-regular-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-regular-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-regular-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-regularlegacy-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-regularlegacy-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-regularlegacy-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-regularlegacy-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-regularlegacy-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-regularlegacy-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-semibold-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-semibold-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-semibold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-semibold-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-semibold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-semibold-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-semibolditalic-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-semibolditalic-demo.html",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-semibolditalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-semibolditalic-webfont.woff",
+		"oF": 0
+		},
+	"/source/styleguide/css/webfonts/hkgrotesk-semibolditalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-semibolditalic-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/img/download.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/img/download.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/img/HK-Grotesk2_1250.png": {
+		"ft": 32768,
+		"iS": 52894,
+		"oA": 0,
+		"oAP": "/source/styleguide/img/HK-Grotesk2_1250.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/img/HK-Grotesk6_1250.png": {
+		"ft": 32768,
+		"iS": 99142,
+		"oA": 0,
+		"oAP": "/source/styleguide/img/HK-Grotesk6_1250.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/img/HK-Grotesk_1250.png": {
+		"ft": 32768,
+		"iS": 49657,
+		"oA": 0,
+		"oAP": "/source/styleguide/img/HK-Grotesk_1250.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/index.html",
+		"oF": 0
+		},
+	"/source/styleguide/js/jquery.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/source/styleguide/js/jquery.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/styleguide/js/jquery.nav.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/source/styleguide/js/jquery.nav-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"/source/stylesheets/home.css.scss": {
 		"aP": 0,
@@ -2396,9 +9062,26 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/source/thanks.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/thanks.html.erb",
+		"oF": 0
+		},
+	"/source/tom-frieden.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/tom-frieden.html.erb",
+		"oF": 0
+		},
 	"/source/training.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/training.html.erb",
 		"oF": 0
@@ -2406,6 +9089,7 @@
 	"/source/transfat.html.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/transfat.html.erb",
 		"oF": 0
@@ -2419,7 +9103,7 @@
 	"creationDate": 568815366.32192695,
 	"displayValue": "resolvetosavelives.org",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "/source/images/favicon/apple-touch-icon.png",
+	"iconImageName": "/build/images/favicon/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -2505,6 +9189,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -2524,6 +9214,36 @@
 			"active": 0
 			},
 		"minify-booleans": {
+			"active": 0
+			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
 			"active": 0
 			},
 		"modules-amd": {
@@ -2574,6 +9294,9 @@
 		"pipeline-operator": {
 			"active": 0
 			},
+		"private-methods": {
+			"active": 0
+			},
 		"property-literals": {
 			"active": 0
 			},
@@ -2607,10 +9330,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -3559,6 +10288,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 0,
 			"optionString": ""
@@ -4221,6 +10954,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -4242,6 +10976,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 3,
@@ -4264,7 +10999,8 @@
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -4303,6 +11039,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -4312,7 +11049,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -4333,7 +11071,8 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -4362,7 +11101,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -4450,16 +11190,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -4478,7 +11222,7 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -4501,6 +11245,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -4526,10 +11274,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -4538,13 +11282,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -4556,6 +11300,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -4578,13 +11326,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -4593,10 +11341,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -4620,6 +11364,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -4654,6 +11402,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -4663,6 +11415,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -4690,15 +11446,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$,exports,require",
 	"websiteRelativeRoot": ""
 	},
