@@ -127,10 +127,10 @@ h3 {
 
 h4 {
     font-weight: 300;
-    font-size: 14px;
+    font-size: 100%;
     letter-spacing: -0.02em;
     line-height: 1.2;
-    margin: 1em 0 0 0;
+    margin: 1em 0 0.3em 0;
 }
 
 a,
@@ -221,7 +221,7 @@ p, .main li {
     line-height: 1.3;
     margin: 0.5em 0 0 0;
     color: $dark-grey;
-    font-size: 80%;
+    font-size: 90%;
 }
 
 .graph #video-countdown {
@@ -229,7 +229,7 @@ p, .main li {
     top: 20px;
     right: 30px;
     color: $orange;
-    font-size: 85%;
+    font-size: 90%;
 }
 
 .image-float {
@@ -302,6 +302,10 @@ nav ul {
 
 .main h1 {
 	font-size: 36px;
+}
+
+p.intro {
+    font-size: 110%;
 }
 
 .columns .image img {
@@ -403,12 +407,12 @@ ol h3 {
 
 footer {
     margin-top: 60px;
-    padding: 100px 16px 60px 16px;
+    padding: 140px 16px 60px 16px;
     background: url(/images/footer.svg) 100% 0;
     background-size: 100% auto;
     clear: both;
     font-size: 85%;
-    text-align: center;
+    text-align: left;
 }
 
 footer a.footer-link {
