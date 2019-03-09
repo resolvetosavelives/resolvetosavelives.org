@@ -112,7 +112,8 @@
     min-height: 2000px;
     max-width: 1300px;
     margin: -300px auto 0 auto;
-    position: relative; }
+    position: relative;
+    left: 50px; }
 
   .time .line {
     width: 3px;

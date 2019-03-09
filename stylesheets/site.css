@@ -228,7 +228,11 @@ nav ul {
   display: none; }
 
 .vs {
-  display: none; }
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  font-size: 11px;
+  color: #ccc; }
 
 .vs-logo {
   width: 160px; }
@@ -347,7 +351,9 @@ footer a.footer-link {
 .submenu.active {
   opacity: 1;
   height: 100%;
-  overflow: visible; }
+  overflow: visible;
+  padding-bottom: 20px;
+  background: #fff; }
 
 .menu li {
   display: inline-block;
@@ -456,8 +462,9 @@ blockquote {
   border-top: 1px solid rgba(0, 0, 0, 0.1); }
 
 .mobile-nav {
-  padding: 0 8px 16px 16px;
-  background: #fff; }
+  padding: 6px 16px 8px 16px;
+  background: #fff;
+  border-top: 1px solid #F2F5F7; }
 
 .mobile-nav ul,
 .mobile-nav li {
@@ -467,7 +474,9 @@ blockquote {
   margin: 0; }
 
 .mobile-nav .menu-item a {
-  margin-right: 8px; }
+  margin-right: 8px;
+  font-size: 16px;
+  font-weight: 300; }
 
 .mobile-nav a {
   text-decoration: none;
@@ -605,7 +614,10 @@ blockquote {
     height: 10px;
     white-space: nowrap;
     text-indent: -2000em;
-    overflow: hidden; }
+    overflow: hidden;
+    position: relative;
+    right: 0;
+    top: 0; }
 
   nav ul {
     display: block;
