@@ -293,7 +293,11 @@ nav ul {
 }
 
 .vs {
-    display: none;
+    position: absolute;
+    top: 12px;
+    right: 16px;
+    font-size: 11px;
+    color: #ccc;
 }
 
 .vs-logo {
@@ -431,6 +435,8 @@ footer a.footer-link {
     opacity: 1;
     height: 100%;
     overflow: visible;
+    padding-bottom: 20px;
+    background: #fff;
 }
 
 .menu li {
@@ -562,12 +568,9 @@ blockquote {
 }
 
 .mobile-nav {
-    padding: 0 8px 16px 16px;
+    padding: 6px 16px 8px 16px;
     background: #fff;
-    //border-top: 1px solid $light-grey;
-    //position: absolute;
-    //top: 14px;
-    //right: 0;
+    border-top: 1px solid $light-grey;
 }
 
 .mobile-nav ul,
@@ -580,6 +583,8 @@ blockquote {
 
 .mobile-nav .menu-item a {
     margin-right: 8px;
+    font-size: 16px;
+    font-weight: 300;
 }
 
 .mobile-nav a {
@@ -747,6 +752,9 @@ blockquote {
         white-space: nowrap;
         text-indent: -2000em;
         overflow: hidden;
+        position: relative;
+        right: 0;
+        top: 0;
     }
 
 	nav ul {
