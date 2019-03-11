@@ -45,6 +45,10 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
     padding: 20px 16px 280px 16px;
 }
 
+.time h4 {
+    margin-top: 0;
+}
+
 /* For devices smaller than 880px */
 @media (max-width: 880px) {
     
