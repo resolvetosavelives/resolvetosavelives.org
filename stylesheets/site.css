@@ -229,12 +229,16 @@ nav ul {
 
 .vs {
   position: absolute;
-  top: 12px;
+  top: 16px;
   right: 16px;
-  font-size: 10px;
-  color: #999;
-  text-transform: uppercase;
-  letter-spacing: 0.05em; }
+  display: block;
+  background: url(../images/vs.svg) no-repeat;
+  background-size: 180px 10px;
+  width: 180px;
+  height: 10px;
+  white-space: nowrap;
+  text-indent: -2000em;
+  overflow: hidden; }
 
 .vs-logo {
   width: 160px; }
@@ -610,14 +614,6 @@ blockquote {
 
   nav .vs {
     margin: 5px 0 32px 16px;
-    display: block;
-    background: url(../images/vs.svg) no-repeat;
-    background-size: 180px 10px;
-    width: 200px;
-    height: 10px;
-    white-space: nowrap;
-    text-indent: -2000em;
-    overflow: hidden;
     position: relative;
     right: 0;
     top: 0; }
