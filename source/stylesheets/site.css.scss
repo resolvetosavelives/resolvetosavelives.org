@@ -559,8 +559,9 @@ blockquote {
 }
 
 .display-table  th {
-    font-size: 80%;
+    font-size: 100%;
     padding-top: 16px;
+    font-weight: 300;
 }
 
 .display-table  td {
@@ -678,7 +679,7 @@ blockquote {
     h2 {
         font-weight: 100;
         margin-top: 2em;
-        font-size: 52px;
+        font-size: 48px;
     }
 
     h3 {
