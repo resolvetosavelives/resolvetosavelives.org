@@ -27,6 +27,13 @@
 .time h4 {
   margin-top: 0; }
 
+.content-footer h3 {
+  padding-top: 3em;
+  text-align: left; }
+
+.content-footer {
+  text-align: left; }
+
 /* For devices smaller than 880px */
 @media (max-width: 880px) {
   .home-feature h1 {
@@ -40,13 +47,13 @@
 
   .time {
     position: relative;
-    width: 80%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto; }
 
   .time-item {
     position: relative;
-    padding-left: 16px; }
+    padding-left: 32px; }
 
   .time .image img {
     width: 90%; }
@@ -57,7 +64,7 @@
     padding: 8px 0 16px 16px;
     margin-top: 32px;
     text-transform: uppercase;
-    margin-left: -16px;
+    margin-left: -32px;
     position: relative;
     text-align: right; }
 
@@ -202,4 +209,10 @@
     text-align: right; }
 
   .time .time-item:nth-child(3) {
-    margin-top: 200px; } }
+    margin-top: 200px; }
+
+  .content-footer {
+    margin-right: -80px; }
+
+  .content-footer h3 {
+    text-align: center; } }
