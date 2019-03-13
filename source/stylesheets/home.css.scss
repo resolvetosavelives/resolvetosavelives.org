@@ -18,13 +18,13 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
 
 .partners {
     max-width: 50em;
-    text-align: center;
+    text-align: left;
     margin: 0 auto;
 }
 
 .partners img {
-    width: 200px;
-    margin: 10px 20px 0 20px;
+    width: 160px;
+    margin: 0 20px 0 20px;
     opacity: 0.4;
     transition: opacity 0.5s;
 }
@@ -271,5 +271,14 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
     
     .content-footer h3 {
         text-align: center;
+    }
+    
+    .partners {
+        text-align: center;
+    }
+    
+    .partners img {
+        width: 200px;
+        margin: 0 20px 0 20px;
     }
 }
