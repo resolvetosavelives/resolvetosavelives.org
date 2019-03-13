@@ -387,11 +387,13 @@ footer a.footer-link {
 a.document-link {
   display: block;
   margin: 24px 0;
-  padding-left: 40px;
-  position: relative; }
+  padding-left: 66px;
+  padding-top: 8px;
+  position: relative;
+  min-height: 60px; }
 
 a.document-link img {
-  width: 32px;
+  width: 50px;
   position: absolute;
   left: 0; }
 
@@ -518,7 +520,13 @@ blockquote {
     border-radius: 100px;
     position: absolute;
     top: -10px;
-    right: -5px; } }
+    right: -5px; }
+
+  .measure {
+    display: block; }
+
+  .display-table thead th {
+    font-size: 80%; } }
 /* For devices larger than 880px */
 @media (min-width: 880px) {
   body:not(.home) {

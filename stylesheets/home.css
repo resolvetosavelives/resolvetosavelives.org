@@ -1,12 +1,12 @@
 /********/
 .partners {
   max-width: 50em;
-  text-align: center;
+  text-align: left;
   margin: 0 auto; }
 
 .partners img {
-  width: 200px;
-  margin: 10px 20px 0 20px;
+  width: 160px;
+  margin: 0 20px 0 20px;
   opacity: 0.4;
   -webkit-transition: opacity 0.5s;
   transition: opacity 0.5s; }
@@ -215,4 +215,11 @@
     margin-right: -80px; }
 
   .content-footer h3 {
-    text-align: center; } }
+    text-align: center; }
+
+  .partners {
+    text-align: center; }
+
+  .partners img {
+    width: 200px;
+    margin: 0 20px 0 20px; } }
