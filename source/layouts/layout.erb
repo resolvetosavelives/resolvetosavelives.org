@@ -4,13 +4,13 @@
     
   <!-- Google Analytics
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106105073-1"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-72765145-3"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'UA-106105073-1');
+    gtag('config', 'UA-72765145-3');
   </script>
 
   <!-- Basic Page Needs
@@ -30,13 +30,15 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta property="og:url"                content="http://www.resolvetosavelives.org/" />
   <meta property="og:type"               content="article" />
-  <meta property="og:title"              content="Resolve to Save Lives" />
+  <meta property="og:title"              content="Resolve to Save Lives: <%= current_page.data.title %>" />
   <meta property="og:description"        content="Our goal is to save 100 million lives from cardiovascular disease and to prevent epidemics." />
-  <meta property="og:image"              content="/images/map.jpg" />
+  <meta property="og:image"              content="http://www.resolvetosavelives.org/images/social.png" />
     
-  <meta name="twitter:title" content="Resolve to Save Lives">
+  <meta name="twitter:title" content="Resolve to Save Lives: <%= current_page.data.title %>">
+  <meta name="twitter:site" content="@ResolveTSL" />
+  <meta name="twitter:creator" content="@ResolveTSL" />
   <meta name="twitter:description" content="Our goal is to save 100 million lives from cardiovascular disease and to prevent epidemics.">
-  <meta name="twitter:image" content="/images/map.jpg">
+  <meta name="twitter:image" content="http://www.resolvetosavelives.org/images/social.png">
   <meta name="twitter:card" content="summary_large_image">
 
   <!-- CSS
@@ -83,7 +85,7 @@
 				<ul>
                     <li class="<%= current_page.data.section == "readyscore" ? "selected" : "" %>"><a href="/readyscore"><strong>ReadyScore</strong></a></li>
                     <li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving"><strong>Stepping up</strong></a></li>
-                    <li class="<%= current_page.data.section == "training" ? "selected" : "" %>"><a href="/training"><strong>Prog. Management Training </strong></a></li>
+                    <li class="<%= current_page.data.section == "training" ? "selected" : "" %>"><a href="/training"><strong>Management Training </strong></a></li>
 					<!--li class="<%= current_page.data.section == "prevent-epidemics-resources" ? "selected" : "" %>"><a href="/prevent-epidemics-resources"><strong>Toolkit</strong></a></li-->
 				</ul>
     		</li>
@@ -94,6 +96,7 @@
     </nav>
     
     <div class="mobile-nav">
+        <span class="vs">an initiative of Vital Strategies</span>
         <ul class="menu">
             <li class="menu-item"><a href="#">Projects<img src="/images/down.png" width="16" height="16" alt=""></a></li>
             <li class="menu-item"><a href="/contact">Contact</a></li>
@@ -112,7 +115,7 @@
 				<ul>
 					<li class="<%= current_page.data.section == "readyscore" ? "selected" : "" %>"><a href="/readyscore">ReadyScore</a></li>
                     <li class="<%= current_page.data.section == "improving" ? "selected" : "" %>"><a href="/improving">Stepping up</a></li>
-                    <li class="<%= current_page.data.section == "training" ? "selected" : "" %>"><a href="/training">Program Management Training </a></li>
+                    <li class="<%= current_page.data.section == "training" ? "selected" : "" %>"><a href="/training">Management Training </a></li>
 					<!--li class="<%= current_page.data.section == "prevent-epidemics-resources" ? "selected" : "" %>"><a href="/prevent-epidemics-resources">Toolkit</a></li-->
 				</ul>
     		</li>

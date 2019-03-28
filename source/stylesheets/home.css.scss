@@ -18,13 +18,13 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
 
 .partners {
     max-width: 50em;
-    text-align: center;
+    text-align: left;
     margin: 0 auto;
 }
 
 .partners img {
-    width: 200px;
-    margin: 10px 20px 0 20px;
+    width: 160px;
+    margin: 0 20px 0 20px;
     opacity: 0.4;
     transition: opacity 0.5s;
 }
@@ -41,8 +41,21 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
 .home-feature-wrapper {
     background: url(/images/angle.svg) 0 100% no-repeat;
     background-size: 100% auto;
-    margin: -16px -16px -240px -16px;
+    margin: -18px -18px -240px -18px;
     padding: 20px 16px 280px 16px;
+}
+
+.time h4 {
+    margin-top: 0;
+}
+
+.content-footer h3 {
+    padding-top: 3em;
+    text-align: left;
+}
+
+.content-footer {
+    text-align: left;
 }
 
 /* For devices smaller than 880px */
@@ -60,14 +73,14 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
     
     .time {
         position: relative;
-        width: 80%;
+        width: 90%;
         margin-left: auto;
         margin-right: auto;
     }
     
     .time-item {
         position: relative;
-        padding-left: 16px;
+        padding-left: 32px;
     }
     
     .time .image img {
@@ -80,7 +93,7 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
         padding: 8px 0 16px 16px;
         margin-top: 32px;
         text-transform: uppercase;
-        margin-left: -16px;
+        margin-left: -32px;
         position: relative;
         text-align: right;
     }
@@ -149,6 +162,7 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
         max-width: 1300px;
         margin: -300px auto 0 auto;
         position: relative;
+        left: 50px;
     }
     
     .time .line {
@@ -249,5 +263,22 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
     
     .time .time-item:nth-child(3) {
         margin-top: 200px;
+    }
+    
+    .content-footer {
+        margin-right: -80px;
+    }
+    
+    .content-footer h3 {
+        text-align: center;
+    }
+    
+    .partners {
+        text-align: center;
+    }
+    
+    .partners img {
+        width: 200px;
+        margin: 0 20px 0 20px;
     }
 }
