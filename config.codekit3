@@ -7,7 +7,7 @@
 		"uuidString": "05AE9746-61C2-48E9-A14A-1E184549BCEA"
 		}
 	],
-"creatorBuild": "29127",
+"creatorBuild": "29156",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
@@ -3231,11 +3231,31 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/build/styleguide/assets/illustrations/Blood Pressure.svg": {
+	"/build/styleguide/assets/illustrations/Blood-pressure-taken.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/build/styleguide/assets/illustrations/Blood Pressure.svg",
+		"oAP": "/build/styleguide/assets/illustrations/Blood-pressure-taken.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Blood-Pressure.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Blood-Pressure.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/BP-Monitor.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/BP-Monitor.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3281,21 +3301,11 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/build/styleguide/assets/illustrations/Emergency Response- muted.svg": {
+	"/build/styleguide/assets/illustrations/Community.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/build/styleguide/assets/illustrations/Emergency Response- muted.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/build/styleguide/assets/illustrations/Emergency Response- PE.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/build/styleguide/assets/illustrations/Emergency Response- PE.svg",
+		"oAP": "/build/styleguide/assets/illustrations/Community.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3306,6 +3316,44 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/build/styleguide/assets/illustrations/Emergency-Light.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency-Response- muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency-Response- muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency-Response- PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency-Response- PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency-Response-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency-Response-PE.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency-Response-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency-Response-PE.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3336,6 +3384,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/build/styleguide/assets/illustrations/HCW.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Health-Centre.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Health-Centre.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3391,6 +3449,24 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Labe-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Labe-PE.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/illustrations/Labe-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Labe-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Laboratory.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -3410,6 +3486,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Legal-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Legal-PE.eps",
+		"oF": 0
 		},
 	"/build/styleguide/assets/illustrations/Legal-PE.svg": {
 		"ft": 2097152,
@@ -3491,6 +3575,24 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Prepareness-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Prepareness-PE.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/illustrations/Prepareness-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Prepareness-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Prepareness.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -3536,6 +3638,44 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/build/styleguide/assets/illustrations/Risk Communication-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Risk-Communication-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Risk-Communication-PE.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/illustrations/Risk-Communication-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Risk-Communication-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Smartphone-with-hands.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Smartphone-with-hands.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Smartphone.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Smartphone.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3611,6 +3751,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Sub-Center.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Sub-Center.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Sun-Red.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -3650,6 +3800,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Surveillance-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Surveillance-PE.eps",
+		"oF": 0
 		},
 	"/build/styleguide/assets/illustrations/Surveillance-PE.svg": {
 		"ft": 2097152,
@@ -3691,11 +3849,11 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/build/styleguide/assets/illustrations/Trans Fat.svg": {
+	"/build/styleguide/assets/illustrations/Trans-Fat.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/build/styleguide/assets/illustrations/Trans Fat.svg",
+		"oAP": "/build/styleguide/assets/illustrations/Trans-Fat.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3730,6 +3888,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Workforce-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Workforce-PE.eps",
+		"oF": 0
 		},
 	"/build/styleguide/assets/illustrations/Workforce-PE.svg": {
 		"ft": 2097152,
@@ -4529,7 +4695,9 @@
 		"oF": 0
 		},
 	"/config.rb": {
-		"ft": 131072,
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/config.rb",
 		"oF": 0
@@ -7641,17 +7809,6 @@
 		"oAP": "/source/sodium.html.erb",
 		"oF": 0
 		},
-	"/source/styleguide/assets/background.png": {
-		"ft": 32768,
-		"iS": 39822,
-		"oA": 0,
-		"oAP": "/source/styleguide/assets/background.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/source/styleguide/assets/dividers/divider-bottom-10.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -7753,6 +7910,174 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Bold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Bold.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-BoldItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-BoldItalic.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Italic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Italic.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Light.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Light.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-LightItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-LightItalic.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Medium.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Medium.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-MediumItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-MediumItalic.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Regular.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Regular.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBold.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBoldItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBoldItalic.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/SIL Open Font License.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/SIL Open Font License.txt",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Bold-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Bold-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-BoldItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-BoldItalic-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Italic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Italic-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Light-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Light-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-LightItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-LightItalic-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Medium-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Medium-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-MediumItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-MediumItalic-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Regular-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Regular-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBold-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBold-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBoldItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBoldItalic-TT.ttf",
+		"oF": 0
+		},
 	"/source/styleguide/assets/illustrations/1-in-10-Deaths.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -7783,11 +8108,31 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/styleguide/assets/illustrations/Blood Pressure.svg": {
+	"/source/styleguide/assets/illustrations/Blood-pressure-taken.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/illustrations/Blood Pressure.svg",
+		"oAP": "/source/styleguide/assets/illustrations/Blood-pressure-taken.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Blood-Pressure.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Blood-Pressure.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/BP-Monitor.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/BP-Monitor.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -7833,6 +8178,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/illustrations/Community.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Community.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/illustrations/Emergency Response- muted.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -7853,11 +8208,77 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/illustrations/Emergency-Light-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Light-PE.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency-Light-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Light-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/illustrations/Emergency-Light.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/source/styleguide/assets/illustrations/Emergency-Light.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency-Response- muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Response- muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency-Response- PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Response- PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency-Response-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Response-PE.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency-Response-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Response-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Epidemic.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Epidemic.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -7888,6 +8309,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/source/styleguide/assets/illustrations/HCW.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Health-Centre.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Health-Centre.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -7943,6 +8374,24 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/illustrations/Labe-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Labe-PE.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/illustrations/Labe-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Labe-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/illustrations/Laboratory.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -7962,6 +8411,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Legal-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Legal-PE.eps",
+		"oF": 0
 		},
 	"/source/styleguide/assets/illustrations/Legal-PE.svg": {
 		"ft": 2097152,
@@ -8043,6 +8500,24 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/illustrations/Prepareness-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Prepareness-PE.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/illustrations/Prepareness-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Prepareness-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/illustrations/Prepareness.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -8088,6 +8563,44 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/source/styleguide/assets/illustrations/Risk Communication-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Risk-Communication-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Risk-Communication-PE.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/illustrations/Risk-Communication-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Risk-Communication-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Smartphone-with-hands.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Smartphone-with-hands.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Smartphone.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Smartphone.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -8163,6 +8676,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/illustrations/Sub-Center.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Sub-Center.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/illustrations/Sun-Red.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -8202,6 +8725,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Surveillance-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Surveillance-PE.eps",
+		"oF": 0
 		},
 	"/source/styleguide/assets/illustrations/Surveillance-PE.svg": {
 		"ft": 2097152,
@@ -8243,11 +8774,11 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/styleguide/assets/illustrations/Trans Fat.svg": {
+	"/source/styleguide/assets/illustrations/Trans-Fat.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/illustrations/Trans Fat.svg",
+		"oAP": "/source/styleguide/assets/illustrations/Trans-Fat.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -8282,6 +8813,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Workforce-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Workforce-PE.eps",
+		"oF": 0
 		},
 	"/source/styleguide/assets/illustrations/Workforce-PE.svg": {
 		"ft": 2097152,
@@ -8335,11 +8874,80 @@
 		"oAP": "/source/styleguide/assets/logos/CMYK/RTSL-Logo-strapline-CMYK.pdf",
 		"oF": 0
 		},
+	"/source/styleguide/assets/logos/Projects/Links-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/Projects/Links-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/logos/Projects/PE-Logo-RGB.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/source/styleguide/assets/logos/Projects/PE-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.pdf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.png": {
+		"ft": 32768,
+		"iS": 13548,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/Projects/REPLACE_RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/Projects/REPLACE_RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/Projects/Simple-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/Projects/Simple-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-initiative-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-initiative-logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -8537,45 +9145,53 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/source/styleguide/assets/logos/RTSL-safari-favicon.svg": {
+	"/source/styleguide/assets/logos/RGB/RTSL-square-RGB.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/logos/RTSL-safari-favicon.svg",
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-square-RGB.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/styleguide/assets/RTSL-Logo-RGB.svg": {
+	"/source/styleguide/assets/logos/rtsl-safari-favicon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/RTSL-Logo-RGB.svg",
+		"oAP": "/source/styleguide/assets/logos/rtsl-safari-favicon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/styleguide/assets/RTSL-Logo-strapline-RGB.svg": {
+	"/source/styleguide/assets/maps/20180529_RES_Wherewework_Map_nolabels.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/RTSL-Logo-strapline-RGB.svg",
+		"oAP": "/source/styleguide/assets/maps/20180529_RES_Wherewework_Map_nolabels.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/styleguide/assets/rtsl-safari-favicon.svg": {
+	"/source/styleguide/assets/maps/Wherewework_Map_nolabels.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/rtsl-safari-favicon.svg",
+		"oAP": "/source/styleguide/assets/maps/Wherewework_Map_nolabels.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/source/styleguide/assets/themes/RTSL-Presentatation-Template-07.pptx": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/themes/RTSL-Presentatation-Template-07.pptx",
+		"oF": 0
 		},
 	"/source/styleguide/assets/themes/RTSL-theme.thmx": {
 		"cB": 0,
@@ -8961,6 +9577,30 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-semibolditalic-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/downloads/assets.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/downloads/assets.zip",
+		"oF": 0
+		},
+	"/source/styleguide/downloads/fonts.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/downloads/fonts.zip",
+		"oF": 0
+		},
+	"/source/styleguide/downloads/logos.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/downloads/logos.zip",
 		"oF": 0
 		},
 	"/source/styleguide/img/download.svg": {

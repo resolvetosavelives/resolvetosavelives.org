@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <rect id="Sub-centre" x="0" y="0.237" width="64" height="64" style="fill:none;"/>
-    <rect x="1.746" y="10.104" width="60.509" height="3.43" style="fill:#f3775b;"/>
-    <rect x="2.531" y="14.544" width="58.938" height="36.787" style="fill:#cecfeb;"/>
-    <rect x="2.531" y="14.61" width="58.938" height="3.43" style="fill:#a6a8ce;"/>
+<svg width="100%" height="100%" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <rect id="Sub-centre" x="0.163" y="0.732" width="64" height="64" style="fill:none;"/>
+    <rect x="1.909" y="10.599" width="60.509" height="3.43" style="fill:#f3775b;"/>
+    <rect x="2.694" y="15.04" width="58.938" height="36.787" style="fill:#cecfeb;"/>
+    <rect x="2.694" y="15.105" width="58.938" height="3.43" style="fill:#a6a8ce;"/>
     <g>
         <g>
-            <rect x="6.637" y="29.791" width="7.808" height="13.614" style="fill:#2b307e;"/>
+            <rect x="6.801" y="30.286" width="7.808" height="13.614" style="fill:#2b307e;"/>
         </g>
     </g>
-    <rect x="19.977" y="29.791" width="12.026" height="21.477" style="fill:#2b307e;"/>
-    <rect x="42.719" y="29.791" width="12.026" height="21.477" style="fill:#2b307e;"/>
-    <rect x="18.292" y="52.159" width="15.397" height="3.43" style="fill:#f3775b;"/>
-    <rect x="41.033" y="52.159" width="15.397" height="3.43" style="fill:#f3775b;"/>
+    <rect x="20.14" y="30.286" width="12.026" height="21.477" style="fill:#2b307e;"/>
+    <rect x="42.882" y="30.286" width="12.026" height="21.477" style="fill:#2b307e;"/>
+    <rect x="18.455" y="52.654" width="15.397" height="3.43" style="fill:#f3775b;"/>
+    <rect x="41.196" y="52.654" width="15.397" height="3.43" style="fill:#f3775b;"/>
 </svg>
