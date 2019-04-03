@@ -7,7 +7,7 @@
 		"uuidString": "05AE9746-61C2-48E9-A14A-1E184549BCEA"
 		}
 	],
-"creatorBuild": "29127",
+"creatorBuild": "29156",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
@@ -1252,6 +1252,17 @@
 		"oAP": "/build/images/resources/Resolve_HypertensionProtocols_V406.pdf",
 		"oF": 0
 		},
+	"/build/images/resources/thumb-behavior-change.jpg": {
+		"ft": 16384,
+		"iS": 73151,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-behavior-change.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/resources/thumb-Blood-Pressure-Measurement-Checklist-007-CC0.jpg": {
 		"ft": 16384,
 		"iS": 45260,
@@ -1461,6 +1472,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/resources/thumb-restaurants.jpg": {
+		"ft": 16384,
+		"iS": 75174,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/thumb-restaurants.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/resources/thumb-salt-reduction-approach.jpg": {
 		"ft": 16384,
 		"iS": 59831,
@@ -1570,17 +1592,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/build/images/sample-graph.png": {
-		"ft": 32768,
-		"iS": 366518,
-		"oA": 0,
-		"oAP": "/build/images/sample-graph.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/build/images/sample.jpg": {
 		"ft": 16384,
 		"iS": 132215,
@@ -1590,6 +1601,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/build/images/social.png": {
+		"ft": 32768,
+		"iS": 375800,
+		"oA": 0,
+		"oAP": "/build/images/social.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/build/images/sodium-chart.mp4": {
@@ -1685,6 +1707,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/build/images/step-up-graphic.png": {
+		"ft": 32768,
+		"iS": 263552,
+		"oA": 0,
+		"oAP": "/build/images/step-up-graphic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/build/images/step-up-next.png": {
 		"ft": 32768,
 		"iS": 86288,
@@ -1740,12 +1773,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/team/full/Abraham_Jobin": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Abraham_Jobin",
+		"oF": 0
+		},
 	"/build/images/team/full/Ajenikoko_Adefunke.jpg": {
 		"ft": 16384,
 		"iS": 2707312,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/full/Ajenikoko_Adefunke.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Aperce_Cedric.jpg": {
+		"ft": 16384,
+		"iS": 627783,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Aperce_Cedric.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1775,7 +1827,7 @@
 		},
 	"/build/images/team/full/Burka_Daniel.jpg": {
 		"ft": 16384,
-		"iS": 4540574,
+		"iS": 1301966,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/full/Burka_Daniel.jpg",
@@ -1786,7 +1838,7 @@
 		},
 	"/build/images/team/full/Cheadle_Tim.jpg": {
 		"ft": 16384,
-		"iS": 1764744,
+		"iS": 2243169,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/full/Cheadle_Tim.jpg",
@@ -1812,6 +1864,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/full/Cullen_Terry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Das_Sharmila.jpg": {
+		"ft": 16384,
+		"iS": 1750410,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Das_Sharmila.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1861,6 +1924,14 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/team/full/Joseph_Lindsay": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Joseph_Lindsay",
+		"oF": 0
+		},
 	"/build/images/team/full/Kant_Lalit.jpg": {
 		"ft": 16384,
 		"iS": 1350225,
@@ -1872,12 +1943,67 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/team/full/Kapoor_Mansi.jpg": {
+		"ft": 16384,
+		"iS": 1366918,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Kapoor_Mansi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Krishna_Ashish.jpg": {
+		"ft": 16384,
+		"iS": 1218716,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Krishna_Ashish.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Kumar_Praveen.jpg": {
+		"ft": 16384,
+		"iS": 2179062,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Kumar_Praveen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Lai_Youwen.jpg": {
+		"ft": 16384,
+		"iS": 416365,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Lai_Youwen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/team/full/Lee_Christopher.jpg": {
 		"ft": 16384,
 		"iS": 1272936,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/full/Lee_Christopher.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Leidig_Robynn.jpg": {
+		"ft": 16384,
+		"iS": 1089310,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Leidig_Robynn.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1905,12 +2031,34 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/build/images/team/full/Quach_Le.jpg": {
+	"/build/images/team/full/Negi_Sagri.jpg": {
 		"ft": 16384,
-		"iS": 1720115,
+		"iS": 188630,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/build/images/team/full/Quach_Le.jpg",
+		"oAP": "/build/images/team/full/Negi_Sagri.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Ramana_Leena.jpg": {
+		"ft": 16384,
+		"iS": 223713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Ramana_Leena.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Sahoo_Swagata.jpg": {
+		"ft": 16384,
+		"iS": 2154040,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Sahoo_Swagata.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1922,6 +2070,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/full/Shahpar_Cyrus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Shivashankar_Roopa.jpg": {
+		"ft": 16384,
+		"iS": 4807349,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Shivashankar_Roopa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Shu_Chang.jpg": {
+		"ft": 16384,
+		"iS": 1617386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Shu_Chang.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1955,6 +2125,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/full/Trilivas_Ioanna.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/full/Whittemore_Kate.jpg": {
+		"ft": 16384,
+		"iS": 458145,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/full/Whittemore_Kate.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2006,7 +2187,7 @@
 		},
 	"/build/images/team/large/Cheadle_Tim.jpg": {
 		"ft": 16384,
-		"iS": 1764744,
+		"iS": 2305528,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/large/Cheadle_Tim.jpg",
@@ -2191,12 +2372,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/team/thumb/Abraham_Jobin.jpg": {
+		"ft": 16384,
+		"iS": 54039,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Abraham_Jobin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/team/thumb/Ajenikoko_Adefunke.jpg": {
 		"ft": 16384,
 		"iS": 37369,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/thumb/Ajenikoko_Adefunke.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Aperce_Cedric.jpg": {
+		"ft": 16384,
+		"iS": 13931,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Aperce_Cedric.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2226,7 +2429,7 @@
 		},
 	"/build/images/team/thumb/Burka_Daniel.jpg": {
 		"ft": 16384,
-		"iS": 22470,
+		"iS": 28906,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/thumb/Burka_Daniel.jpg",
@@ -2237,7 +2440,7 @@
 		},
 	"/build/images/team/thumb/Cheadle_Tim.jpg": {
 		"ft": 16384,
-		"iS": 13211,
+		"iS": 41123,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/thumb/Cheadle_Tim.jpg",
@@ -2248,7 +2451,7 @@
 		},
 	"/build/images/team/thumb/Cobb_Laura.jpg": {
 		"ft": 16384,
-		"iS": 16499,
+		"iS": 66613,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/thumb/Cobb_Laura.jpg",
@@ -2263,6 +2466,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/thumb/Cullen_Terry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Das_Sharmila.jpg": {
+		"ft": 16384,
+		"iS": 34513,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Das_Sharmila.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2312,12 +2526,67 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/team/thumb/Joseph_Lindsay.jpg": {
+		"ft": 16384,
+		"iS": 29139,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Joseph_Lindsay.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/team/thumb/Kant_Lalit.jpg": {
 		"ft": 16384,
 		"iS": 21790,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/thumb/Kant_Lalit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Kapoor_Mansi.jpg": {
+		"ft": 16384,
+		"iS": 23648,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Kapoor_Mansi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Krishna_Ashish.jpg": {
+		"ft": 16384,
+		"iS": 20868,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Krishna_Ashish.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Kumar_Praveen.jpg": {
+		"ft": 16384,
+		"iS": 11967,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Kumar_Praveen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Lai_Youwen.jpg": {
+		"ft": 16384,
+		"iS": 24264,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Lai_Youwen.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2334,12 +2603,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/team/thumb/Leidig_Robynn.jpg": {
+		"ft": 16384,
+		"iS": 21791,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Leidig_Robynn.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/team/thumb/Lopez_Louise.jpg": {
 		"ft": 16384,
 		"iS": 27910,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/thumb/Lopez_Louise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Mantopoulos_Jeannie.jpg": {
+		"ft": 16384,
+		"iS": 28077,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Mantopoulos_Jeannie.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2356,12 +2647,45 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/build/images/team/thumb/Quach_Le.jpg": {
+	"/build/images/team/thumb/Negi_Sagri.jpg": {
 		"ft": 16384,
-		"iS": 22620,
+		"iS": 36845,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/build/images/team/thumb/Quach_Le.jpg",
+		"oAP": "/build/images/team/thumb/Negi_Sagri.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Pathni_Anupam.jpg": {
+		"ft": 16384,
+		"iS": 24083,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Pathni_Anupam.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Ramana_Leena.jpg": {
+		"ft": 16384,
+		"iS": 39141,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Ramana_Leena.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Sahoo_Swagata.jpg": {
+		"ft": 16384,
+		"iS": 23433,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Sahoo_Swagata.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2378,9 +2702,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/team/thumb/Shivashankar_Roopa.jpg": {
+		"ft": 16384,
+		"iS": 95083,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Shivashankar_Roopa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Shu_Chang.jpg": {
+		"ft": 16384,
+		"iS": 22881,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Shu_Chang.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/team/thumb/Steele_Lindsay.jpg": {
 		"ft": 16384,
-		"iS": 18147,
+		"iS": 25112,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/team/thumb/Steele_Lindsay.jpg",
@@ -2422,6 +2768,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/team/thumb/Whittemore_Kate.jpg": {
+		"ft": 16384,
+		"iS": 37566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Whittemore_Kate.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/team/thumb/Yun_Shumei.jpg": {
+		"ft": 16384,
+		"iS": 25905,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/team/thumb/Yun_Shumei.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/team/user.jpg": {
 		"ft": 16384,
 		"iS": 5239,
@@ -2444,12 +2812,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/aha-rwanda.jpg": {
+		"ft": 16384,
+		"iS": 55229,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/aha-rwanda.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/amanda-28-nov.jpg": {
 		"ft": 16384,
 		"iS": 28462,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/timeline/amanda-28-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/astmh.jpg": {
+		"ft": 16384,
+		"iS": 64510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/astmh.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2477,6 +2867,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/china-bp.jpg": {
+		"ft": 16384,
+		"iS": 94791,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/china-bp.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/china-may-2018.jpg": {
 		"ft": 16384,
 		"iS": 114058,
@@ -2488,12 +2889,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/cvd-advertisement.jpg": {
+		"ft": 16384,
+		"iS": 50744,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/cvd-advertisement.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/ethiopia-29-nov.jpg": {
 		"ft": 16384,
 		"iS": 38761,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/timeline/ethiopia-29-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/ethiopia-cooking.jpg": {
+		"ft": 16384,
+		"iS": 135776,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/ethiopia-cooking.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2554,6 +2977,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/lancet-replace.jpg": {
+		"ft": 16384,
+		"iS": 129185,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/lancet-replace.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/lancet-sept-2018.jpg": {
 		"ft": 16384,
 		"iS": 45272,
@@ -2571,6 +3005,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/timeline/liberia-16-oct.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/links-first.jpg": {
+		"ft": 16384,
+		"iS": 73112,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/links-first.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/links-webinar.jpg": {
+		"ft": 16384,
+		"iS": 165090,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/links-webinar.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2620,12 +3076,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/pe-caribbean.jpg": {
+		"ft": 16384,
+		"iS": 156686,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/pe-caribbean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/pe-sept-2018.jpg": {
 		"ft": 16384,
 		"iS": 99196,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/timeline/pe-sept-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/pe-who-article.jpg": {
+		"ft": 16384,
+		"iS": 143403,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/pe-who-article.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2648,6 +3126,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/timeline/replace-launch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/rwanda-ebola-preparation.jpg": {
+		"ft": 16384,
+		"iS": 77892,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/rwanda-ebola-preparation.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2686,6 +3175,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/simple-29-oct.jpg": {
+		"ft": 16384,
+		"iS": 40205,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/simple-29-oct.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/simple-29-oct.png": {
 		"ft": 32768,
 		"iS": 67537,
@@ -2695,6 +3195,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/build/images/timeline/tanzania-ebola.jpg": {
+		"ft": 16384,
+		"iS": 494837,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/tanzania-ebola.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/build/images/timeline/tanzania-may-2018.jpg": {
@@ -2741,6 +3252,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/thailand-bp-reading.jpg": {
+		"ft": 16384,
+		"iS": 76449,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/thailand-bp-reading.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/thelancet.jpg": {
 		"ft": 16384,
 		"iS": 24854,
@@ -2763,9 +3285,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/tom-presentation-bangkok-2019.jpg": {
+		"ft": 16384,
+		"iS": 56406,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/tom-presentation-bangkok-2019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/turkish-chef-salt.jpg": {
+		"ft": 16384,
+		"iS": 95455,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/turkish-chef-salt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/uganda-17-jan.jpg": {
 		"ft": 16384,
-		"iS": 112703,
+		"iS": 87055,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/timeline/uganda-17-jan.jpg",
@@ -2835,6 +3379,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/timeline/WHO-18-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/who-bp-devices.jpg": {
+		"ft": 16384,
+		"iS": 77405,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/who-bp-devices.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3089,17 +3644,6 @@
 		"oAP": "/build/sodium/index.html",
 		"oF": 0
 		},
-	"/build/styleguide/assets/background.png": {
-		"ft": 32768,
-		"iS": 39822,
-		"oA": 0,
-		"oAP": "/build/styleguide/assets/background.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/build/styleguide/assets/dividers/divider-bottom-10.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -3201,6 +3745,174 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Bold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Bold.otf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-BoldItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-BoldItalic.otf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Italic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Italic.otf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Light.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Light.otf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-LightItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-LightItalic.otf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Medium.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Medium.otf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-MediumItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-MediumItalic.otf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Regular.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Regular.otf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBold.otf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBoldItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBoldItalic.otf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/SIL Open Font License.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/SIL Open Font License.txt",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Bold-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Bold-TT.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-BoldItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-BoldItalic-TT.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Italic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Italic-TT.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Light-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Light-TT.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-LightItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-LightItalic-TT.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Medium-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Medium-TT.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-MediumItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-MediumItalic-TT.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Regular-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Regular-TT.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBold-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBold-TT.ttf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBoldItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBoldItalic-TT.ttf",
+		"oF": 0
+		},
 	"/build/styleguide/assets/illustrations/1-in-10-Deaths.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -3231,11 +3943,31 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/build/styleguide/assets/illustrations/Blood Pressure.svg": {
+	"/build/styleguide/assets/illustrations/Blood-pressure-taken.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/build/styleguide/assets/illustrations/Blood Pressure.svg",
+		"oAP": "/build/styleguide/assets/illustrations/Blood-pressure-taken.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Blood-Pressure.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Blood-Pressure.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/BP-Monitor.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/BP-Monitor.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3281,6 +4013,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Community.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Community.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Emergency Response- muted.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -3301,11 +4043,77 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Emergency-Light-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency-Light-PE.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency-Light-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency-Light-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Emergency-Light.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/build/styleguide/assets/illustrations/Emergency-Light.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency-Response- muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency-Response- muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency-Response- PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency-Response- PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency-Response-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency-Response-PE.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/illustrations/Emergency-Response-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Emergency-Response-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Epidemic.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Epidemic.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3336,6 +4144,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/build/styleguide/assets/illustrations/HCW.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Health-Centre.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Health-Centre.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3391,6 +4209,24 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Labe-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Labe-PE.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/illustrations/Labe-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Labe-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Laboratory.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -3410,6 +4246,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Legal-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Legal-PE.eps",
+		"oF": 0
 		},
 	"/build/styleguide/assets/illustrations/Legal-PE.svg": {
 		"ft": 2097152,
@@ -3491,6 +4335,24 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Prepareness-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Prepareness-PE.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/illustrations/Prepareness-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Prepareness-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Prepareness.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -3536,6 +4398,44 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/build/styleguide/assets/illustrations/Risk Communication-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Risk-Communication-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Risk-Communication-PE.eps",
+		"oF": 0
+		},
+	"/build/styleguide/assets/illustrations/Risk-Communication-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Risk-Communication-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Smartphone-with-hands.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Smartphone-with-hands.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Smartphone.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Smartphone.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3611,6 +4511,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Sub-Center.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Sub-Center.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Sun-Red.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -3650,6 +4560,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Surveillance-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Surveillance-PE.eps",
+		"oF": 0
 		},
 	"/build/styleguide/assets/illustrations/Surveillance-PE.svg": {
 		"ft": 2097152,
@@ -3691,11 +4609,11 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/build/styleguide/assets/illustrations/Trans Fat.svg": {
+	"/build/styleguide/assets/illustrations/Trans-Fat.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/build/styleguide/assets/illustrations/Trans Fat.svg",
+		"oAP": "/build/styleguide/assets/illustrations/Trans-Fat.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3730,6 +4648,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Workforce-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/illustrations/Workforce-PE.eps",
+		"oF": 0
 		},
 	"/build/styleguide/assets/illustrations/Workforce-PE.svg": {
 		"ft": 2097152,
@@ -3783,11 +4709,80 @@
 		"oAP": "/build/styleguide/assets/logos/CMYK/RTSL-Logo-strapline-CMYK.pdf",
 		"oF": 0
 		},
+	"/build/styleguide/assets/logos/Projects/Links-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/logos/Projects/Links-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/logos/Projects/PE-Logo-RGB.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/build/styleguide/assets/logos/Projects/PE-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/logos/Projects/PMEP-Logo-RGB.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/Projects/PMEP-Logo-RGB.pdf",
+		"oF": 0
+		},
+	"/build/styleguide/assets/logos/Projects/PMEP-Logo-RGB.png": {
+		"ft": 32768,
+		"iS": 13548,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/logos/Projects/PMEP-Logo-RGB.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/build/styleguide/assets/logos/Projects/PMEP-Logo-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/logos/Projects/PMEP-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/logos/Projects/REPLACE_RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/logos/Projects/REPLACE_RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/logos/Projects/Simple-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/logos/Projects/Simple-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/logos/RGB/RTSL-initiative-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-initiative-logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -3985,45 +4980,53 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/build/styleguide/assets/logos/RTSL-safari-favicon.svg": {
+	"/build/styleguide/assets/logos/RGB/RTSL-square-RGB.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/build/styleguide/assets/logos/RTSL-safari-favicon.svg",
+		"oAP": "/build/styleguide/assets/logos/RGB/RTSL-square-RGB.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/build/styleguide/assets/RTSL-Logo-RGB.svg": {
+	"/build/styleguide/assets/logos/rtsl-safari-favicon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/build/styleguide/assets/RTSL-Logo-RGB.svg",
+		"oAP": "/build/styleguide/assets/logos/rtsl-safari-favicon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/build/styleguide/assets/RTSL-Logo-strapline-RGB.svg": {
+	"/build/styleguide/assets/maps/20180529_RES_Wherewework_Map_nolabels.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/build/styleguide/assets/RTSL-Logo-strapline-RGB.svg",
+		"oAP": "/build/styleguide/assets/maps/20180529_RES_Wherewework_Map_nolabels.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/build/styleguide/assets/rtsl-safari-favicon.svg": {
+	"/build/styleguide/assets/maps/Wherewework_Map_nolabels.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/build/styleguide/assets/rtsl-safari-favicon.svg",
+		"oAP": "/build/styleguide/assets/maps/Wherewework_Map_nolabels.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/build/styleguide/assets/themes/RTSL-Presentatation-Template-07.pptx": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/themes/RTSL-Presentatation-Template-07.pptx",
+		"oF": 0
 		},
 	"/build/styleguide/assets/themes/RTSL-theme.thmx": {
 		"cB": 0,
@@ -4032,6 +5035,16 @@
 		"oA": 0,
 		"oAP": "/build/styleguide/assets/themes/RTSL-theme.thmx",
 		"oF": 0
+		},
+	"/build/styleguide/css/guide-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/guide-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/build/styleguide/css/guide.css": {
 		"aP": 1,
@@ -4403,6 +5416,30 @@
 		"oAP": "/build/styleguide/css/webfonts/hkgrotesk-semibolditalic-webfont.woff2",
 		"oF": 0
 		},
+	"/build/styleguide/downloads/assets.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/downloads/assets.zip",
+		"oF": 0
+		},
+	"/build/styleguide/downloads/fonts.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/downloads/fonts.zip",
+		"oF": 0
+		},
+	"/build/styleguide/downloads/logos.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/downloads/logos.zip",
+		"oF": 0
+		},
 	"/build/styleguide/img/download.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -4529,7 +5566,9 @@
 		"oF": 0
 		},
 	"/config.rb": {
-		"ft": 131072,
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/config.rb",
 		"oF": 0
@@ -5796,6 +6835,17 @@
 		"oAP": "/source/images/resources/Resolve_HypertensionProtocols_V406.pdf",
 		"oF": 0
 		},
+	"/source/images/resources/thumb-behavior-change.jpg": {
+		"ft": 16384,
+		"iS": 73151,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-behavior-change.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/resources/thumb-Blood-Pressure-Measurement-Checklist-007-CC0.jpg": {
 		"ft": 16384,
 		"iS": 45260,
@@ -6005,6 +7055,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/resources/thumb-restaurants.jpg": {
+		"ft": 16384,
+		"iS": 75174,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/thumb-restaurants.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/resources/thumb-salt-reduction-approach.jpg": {
 		"ft": 16384,
 		"iS": 59831,
@@ -6114,17 +7175,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/images/sample-graph.png": {
-		"ft": 32768,
-		"iS": 366518,
-		"oA": 0,
-		"oAP": "/source/images/sample-graph.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/source/images/sample.jpg": {
 		"ft": 16384,
 		"iS": 132215,
@@ -6134,6 +7184,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/source/images/social.png": {
+		"ft": 32768,
+		"iS": 375800,
+		"oA": 0,
+		"oAP": "/source/images/social.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/source/images/sodium-chart.mp4": {
@@ -6229,6 +7290,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/images/step-up-graphic.png": {
+		"ft": 32768,
+		"iS": 263552,
+		"oA": 0,
+		"oAP": "/source/images/step-up-graphic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/images/step-up-next.png": {
 		"ft": 32768,
 		"iS": 89759,
@@ -6284,12 +7356,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/team/full/Abraham_Jobin": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Abraham_Jobin",
+		"oF": 0
+		},
 	"/source/images/team/full/Ajenikoko_Adefunke.jpg": {
 		"ft": 16384,
 		"iS": 2707312,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/team/full/Ajenikoko_Adefunke.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/full/Aperce_Cedric.jpg": {
+		"ft": 16384,
+		"iS": 627783,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Aperce_Cedric.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6361,6 +7452,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/team/full/Das_Sharmila.jpg": {
+		"ft": 16384,
+		"iS": 1750410,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Das_Sharmila.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/team/full/Farrell_Meg.jpg": {
 		"ft": 16384,
 		"iS": 2348002,
@@ -6405,6 +7507,14 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/team/full/Joseph_Lindsay": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Joseph_Lindsay",
+		"oF": 0
+		},
 	"/source/images/team/full/Kant_Lalit.jpg": {
 		"ft": 16384,
 		"iS": 1350225,
@@ -6416,12 +7526,67 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/team/full/Kapoor_Mansi.jpg": {
+		"ft": 16384,
+		"iS": 1366918,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Kapoor_Mansi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/full/Krishna_Ashish.jpg": {
+		"ft": 16384,
+		"iS": 1218716,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Krishna_Ashish.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/full/Kumar_Praveen.jpg": {
+		"ft": 16384,
+		"iS": 2179062,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Kumar_Praveen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/full/Lai_Youwen.jpg": {
+		"ft": 16384,
+		"iS": 416365,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Lai_Youwen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/team/full/Lee_Christopher.jpg": {
 		"ft": 16384,
 		"iS": 1272936,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/team/full/Lee_Christopher.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/full/Leidig_Robynn.jpg": {
+		"ft": 16384,
+		"iS": 1089310,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Leidig_Robynn.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6449,12 +7614,34 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/source/images/team/full/Quach_Le.jpg": {
+	"/source/images/team/full/Negi_Sagri.jpg": {
 		"ft": 16384,
-		"iS": 1720115,
+		"iS": 188630,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/source/images/team/full/Quach_Le.jpg",
+		"oAP": "/source/images/team/full/Negi_Sagri.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/full/Ramana_Leena.jpg": {
+		"ft": 16384,
+		"iS": 223713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Ramana_Leena.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/full/Sahoo_Swagata.jpg": {
+		"ft": 16384,
+		"iS": 2154040,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Sahoo_Swagata.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6466,6 +7653,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/team/full/Shahpar_Cyrus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/full/Shivashankar_Roopa.jpg": {
+		"ft": 16384,
+		"iS": 4807349,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Shivashankar_Roopa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/full/Shu_Chang.jpg": {
+		"ft": 16384,
+		"iS": 1617386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Shu_Chang.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6499,6 +7708,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/team/full/Trilivas_Ioanna.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/full/Whittemore_Kate.jpg": {
+		"ft": 16384,
+		"iS": 458145,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/full/Whittemore_Kate.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6735,12 +7955,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/team/thumb/Abraham_Jobin.jpg": {
+		"ft": 16384,
+		"iS": 54039,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Abraham_Jobin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/team/thumb/Ajenikoko_Adefunke.jpg": {
 		"ft": 16384,
 		"iS": 37369,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/team/thumb/Ajenikoko_Adefunke.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Aperce_Cedric.jpg": {
+		"ft": 16384,
+		"iS": 13931,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Aperce_Cedric.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6812,6 +8054,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/team/thumb/Das_Sharmila.jpg": {
+		"ft": 16384,
+		"iS": 34513,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Das_Sharmila.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/team/thumb/Farrell_Meg.jpg": {
 		"ft": 16384,
 		"iS": 19136,
@@ -6856,12 +8109,67 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/team/thumb/Joseph_Lindsay.jpg": {
+		"ft": 16384,
+		"iS": 29139,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Joseph_Lindsay.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/team/thumb/Kant_Lalit.jpg": {
 		"ft": 16384,
 		"iS": 21790,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/team/thumb/Kant_Lalit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Kapoor_Mansi.jpg": {
+		"ft": 16384,
+		"iS": 23648,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Kapoor_Mansi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Krishna_Ashish.jpg": {
+		"ft": 16384,
+		"iS": 20868,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Krishna_Ashish.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Kumar_Praveen.jpg": {
+		"ft": 16384,
+		"iS": 11967,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Kumar_Praveen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Lai_Youwen.jpg": {
+		"ft": 16384,
+		"iS": 24264,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Lai_Youwen.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6878,12 +8186,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/team/thumb/Leidig_Robynn.jpg": {
+		"ft": 16384,
+		"iS": 21791,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Leidig_Robynn.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/team/thumb/Lopez_Louise.jpg": {
 		"ft": 16384,
 		"iS": 27910,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/team/thumb/Lopez_Louise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Mantopoulos_Jeannie.jpg": {
+		"ft": 16384,
+		"iS": 28077,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Mantopoulos_Jeannie.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6900,12 +8230,45 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/source/images/team/thumb/Quach_Le.jpg": {
+	"/source/images/team/thumb/Negi_Sagri.jpg": {
 		"ft": 16384,
-		"iS": 22620,
+		"iS": 36845,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/source/images/team/thumb/Quach_Le.jpg",
+		"oAP": "/source/images/team/thumb/Negi_Sagri.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Pathni_Anupam.jpg": {
+		"ft": 16384,
+		"iS": 24083,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Pathni_Anupam.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Ramana_Leena.jpg": {
+		"ft": 16384,
+		"iS": 39141,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Ramana_Leena.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Sahoo_Swagata.jpg": {
+		"ft": 16384,
+		"iS": 23433,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Sahoo_Swagata.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6917,6 +8280,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/team/thumb/Shahpar_Cyrus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Shivashankar_Roopa.jpg": {
+		"ft": 16384,
+		"iS": 95083,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Shivashankar_Roopa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Shu_Chang.jpg": {
+		"ft": 16384,
+		"iS": 22881,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Shu_Chang.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6966,6 +8351,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/team/thumb/Whittemore_Kate.jpg": {
+		"ft": 16384,
+		"iS": 37566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Whittemore_Kate.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/team/thumb/Yun_Shumei.jpg": {
+		"ft": 16384,
+		"iS": 25905,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/team/thumb/Yun_Shumei.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/team/user.jpg": {
 		"ft": 16384,
 		"iS": 5239,
@@ -6988,12 +8395,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/aha-rwanda.jpg": {
+		"ft": 16384,
+		"iS": 55229,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/aha-rwanda.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/amanda-28-nov.jpg": {
 		"ft": 16384,
 		"iS": 28462,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/amanda-28-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/astmh.jpg": {
+		"ft": 16384,
+		"iS": 64510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/astmh.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7021,6 +8450,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/china-bp.jpg": {
+		"ft": 16384,
+		"iS": 94791,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/china-bp.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/china-may-2018.jpg": {
 		"ft": 16384,
 		"iS": 114058,
@@ -7032,12 +8472,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/cvd-advertisement.jpg": {
+		"ft": 16384,
+		"iS": 50744,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/cvd-advertisement.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/ethiopia-29-nov.jpg": {
 		"ft": 16384,
 		"iS": 38761,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/ethiopia-29-nov.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/ethiopia-cooking.jpg": {
+		"ft": 16384,
+		"iS": 135776,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/ethiopia-cooking.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7098,6 +8560,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/lancet-replace.jpg": {
+		"ft": 16384,
+		"iS": 129185,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/lancet-replace.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/lancet-sept-2018.jpg": {
 		"ft": 16384,
 		"iS": 45272,
@@ -7115,6 +8588,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/liberia-16-oct.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/links-first.jpg": {
+		"ft": 16384,
+		"iS": 73112,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/links-first.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/links-webinar.jpg": {
+		"ft": 16384,
+		"iS": 165090,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/links-webinar.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7164,12 +8659,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/pe-caribbean.jpg": {
+		"ft": 16384,
+		"iS": 156686,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/pe-caribbean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/pe-sept-2018.jpg": {
 		"ft": 16384,
 		"iS": 99196,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/pe-sept-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/pe-who-article.jpg": {
+		"ft": 16384,
+		"iS": 143403,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/pe-who-article.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7192,6 +8709,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/replace-launch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/rwanda-ebola-preparation.jpg": {
+		"ft": 16384,
+		"iS": 77892,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/rwanda-ebola-preparation.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7230,6 +8758,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/simple-29-oct.jpg": {
+		"ft": 16384,
+		"iS": 40205,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/simple-29-oct.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/simple-29-oct.png": {
 		"ft": 32768,
 		"iS": 67537,
@@ -7239,6 +8778,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/source/images/timeline/tanzania-ebola.jpg": {
+		"ft": 16384,
+		"iS": 494837,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/tanzania-ebola.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/source/images/timeline/tanzania-may-2018.jpg": {
@@ -7285,6 +8835,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/thailand-bp-reading.jpg": {
+		"ft": 16384,
+		"iS": 76449,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/thailand-bp-reading.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/thelancet.jpg": {
 		"ft": 16384,
 		"iS": 24854,
@@ -7302,6 +8863,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/tom-25-sep.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/tom-presentation-bangkok-2019.jpg": {
+		"ft": 16384,
+		"iS": 56406,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/tom-presentation-bangkok-2019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/turkish-chef-salt.jpg": {
+		"ft": 16384,
+		"iS": 95455,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/turkish-chef-salt.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7379,6 +8962,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/WHO-18-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/who-bp-devices.jpg": {
+		"ft": 16384,
+		"iS": 77405,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/who-bp-devices.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7641,17 +9235,6 @@
 		"oAP": "/source/sodium.html.erb",
 		"oF": 0
 		},
-	"/source/styleguide/assets/background.png": {
-		"ft": 32768,
-		"iS": 39822,
-		"oA": 0,
-		"oAP": "/source/styleguide/assets/background.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/source/styleguide/assets/dividers/divider-bottom-10.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -7753,6 +9336,174 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Bold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Bold.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-BoldItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-BoldItalic.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Italic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Italic.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Light.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Light.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-LightItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-LightItalic.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Medium.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Medium.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-MediumItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-MediumItalic.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Regular.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-Regular.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBold.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBoldItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/OpenType/HKGrotesk-SemiBoldItalic.otf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/SIL Open Font License.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/SIL Open Font License.txt",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Bold-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Bold-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-BoldItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-BoldItalic-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Italic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Italic-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Light-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Light-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-LightItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-LightItalic-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Medium-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Medium-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-MediumItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-MediumItalic-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Regular-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-Regular-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBold-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBold-TT.ttf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBoldItalic-TT.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/fonts/HK Grotesk (RTSL)/TrueType/HKGrotesk-SemiBoldItalic-TT.ttf",
+		"oF": 0
+		},
 	"/source/styleguide/assets/illustrations/1-in-10-Deaths.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -7783,11 +9534,31 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/styleguide/assets/illustrations/Blood Pressure.svg": {
+	"/source/styleguide/assets/illustrations/Blood-pressure-taken.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/illustrations/Blood Pressure.svg",
+		"oAP": "/source/styleguide/assets/illustrations/Blood-pressure-taken.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Blood-Pressure.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Blood-Pressure.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/BP-Monitor.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/BP-Monitor.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -7833,6 +9604,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/illustrations/Community.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Community.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/illustrations/Emergency Response- muted.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -7853,11 +9634,87 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/illustrations/Emergency-Light-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Light-PE.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency-Light-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Light-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/illustrations/Emergency-Light.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/source/styleguide/assets/illustrations/Emergency-Light.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency-Response- muted.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Response- muted.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency-Response- PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Response- PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency-Response-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Response-PE.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/illustrations/Emergency-Response-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Emergency-Response-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Epidemic-Deaths.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Epidemic-Deaths.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Epidemic.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Epidemic.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -7888,6 +9745,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/source/styleguide/assets/illustrations/HCW.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Health-Centre.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Health-Centre.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -7943,6 +9810,24 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/illustrations/Labe-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Labe-PE.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/illustrations/Labe-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Labe-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/illustrations/Laboratory.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -7962,6 +9847,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Legal-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Legal-PE.eps",
+		"oF": 0
 		},
 	"/source/styleguide/assets/illustrations/Legal-PE.svg": {
 		"ft": 2097152,
@@ -8043,6 +9936,24 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/illustrations/Prepareness-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Prepareness-PE.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/illustrations/Prepareness-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Prepareness-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/illustrations/Prepareness.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -8088,6 +9999,44 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/source/styleguide/assets/illustrations/Risk Communication-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Risk-Communication-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Risk-Communication-PE.eps",
+		"oF": 0
+		},
+	"/source/styleguide/assets/illustrations/Risk-Communication-PE.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Risk-Communication-PE.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Smartphone-with-hands.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Smartphone-with-hands.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Smartphone.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Smartphone.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -8163,6 +10112,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/source/styleguide/assets/illustrations/Sub-Center.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Sub-Center.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/illustrations/Sun-Red.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -8202,6 +10161,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Surveillance-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Surveillance-PE.eps",
+		"oF": 0
 		},
 	"/source/styleguide/assets/illustrations/Surveillance-PE.svg": {
 		"ft": 2097152,
@@ -8243,11 +10210,11 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/styleguide/assets/illustrations/Trans Fat.svg": {
+	"/source/styleguide/assets/illustrations/Trans-Fat.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/illustrations/Trans Fat.svg",
+		"oAP": "/source/styleguide/assets/illustrations/Trans-Fat.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -8282,6 +10249,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Workforce-PE.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/illustrations/Workforce-PE.eps",
+		"oF": 0
 		},
 	"/source/styleguide/assets/illustrations/Workforce-PE.svg": {
 		"ft": 2097152,
@@ -8335,11 +10310,80 @@
 		"oAP": "/source/styleguide/assets/logos/CMYK/RTSL-Logo-strapline-CMYK.pdf",
 		"oF": 0
 		},
+	"/source/styleguide/assets/logos/Projects/Links-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/Projects/Links-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/source/styleguide/assets/logos/Projects/PE-Logo-RGB.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/source/styleguide/assets/logos/Projects/PE-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.pdf",
+		"oF": 0
+		},
+	"/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.png": {
+		"ft": 32768,
+		"iS": 13548,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/Projects/PMEP-Logo-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/Projects/REPLACE_RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/Projects/REPLACE_RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/Projects/Simple-RGB.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/Projects/Simple-RGB.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/logos/RGB/RTSL-initiative-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-initiative-logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -8537,45 +10581,61 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/source/styleguide/assets/logos/RTSL-safari-favicon.svg": {
+	"/source/styleguide/assets/logos/RGB/RTSL-square-RGB.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/logos/RTSL-safari-favicon.svg",
+		"oAP": "/source/styleguide/assets/logos/RGB/RTSL-square-RGB.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/styleguide/assets/RTSL-Logo-RGB.svg": {
+	"/source/styleguide/assets/logos/rtsl-safari-favicon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/RTSL-Logo-RGB.svg",
+		"oAP": "/source/styleguide/assets/logos/rtsl-safari-favicon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/styleguide/assets/RTSL-Logo-strapline-RGB.svg": {
+	"/source/styleguide/assets/maps/20180529_RES_Wherewework_Map_nolabels.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/RTSL-Logo-strapline-RGB.svg",
+		"oAP": "/source/styleguide/assets/maps/20180529_RES_Wherewework_Map_nolabels.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/styleguide/assets/rtsl-safari-favicon.svg": {
+	"/source/styleguide/assets/maps/Wherewework_Map_nolabels.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/source/styleguide/assets/rtsl-safari-favicon.svg",
+		"oAP": "/source/styleguide/assets/maps/Wherewework_Map_nolabels.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/source/styleguide/assets/themes/RTSL-Presentatation-Template-07.pptx": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/themes/RTSL-Presentatation-Template-07.pptx",
+		"oF": 0
+		},
+	"/source/styleguide/assets/themes/RTSL-Presentatation-Template-08.pptx": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/assets/themes/RTSL-Presentatation-Template-08.pptx",
+		"oF": 0
 		},
 	"/source/styleguide/assets/themes/RTSL-theme.thmx": {
 		"cB": 0,
@@ -8584,6 +10644,16 @@
 		"oA": 0,
 		"oAP": "/source/styleguide/assets/themes/RTSL-theme.thmx",
 		"oF": 0
+		},
+	"/source/styleguide/css/guide-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/guide-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/source/styleguide/css/guide.css": {
 		"aP": 1,
@@ -8961,6 +11031,30 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/styleguide/css/webfonts/hkgrotesk-semibolditalic-webfont.woff2",
+		"oF": 0
+		},
+	"/source/styleguide/downloads/assets.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/downloads/assets.zip",
+		"oF": 0
+		},
+	"/source/styleguide/downloads/fonts.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/downloads/fonts.zip",
+		"oF": 0
+		},
+	"/source/styleguide/downloads/logos.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/downloads/logos.zip",
 		"oF": 0
 		},
 	"/source/styleguide/img/download.svg": {
