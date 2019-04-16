@@ -4109,6 +4109,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Epidemic-Deaths.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Epidemic-Deaths.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Epidemic.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -5028,6 +5038,14 @@
 		"oAP": "/build/styleguide/assets/themes/RTSL-Presentatation-Template-07.pptx",
 		"oF": 0
 		},
+	"/build/styleguide/assets/themes/RTSL-Presentatation-Template-08.pptx": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/assets/themes/RTSL-Presentatation-Template-08.pptx",
+		"oF": 0
+		},
 	"/build/styleguide/assets/themes/RTSL-theme.thmx": {
 		"cB": 0,
 		"ft": 8192,
@@ -5063,6 +5081,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/build/styleguide/css/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/build/styleguide/css/typography-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/styleguide/css/typography-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -10672,6 +10700,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/source/styleguide/css/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/source/styleguide/css/typography-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/source/styleguide/css/typography-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
