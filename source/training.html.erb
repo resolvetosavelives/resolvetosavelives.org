@@ -186,7 +186,27 @@ participants. </p>
 <!--p><a href="/images/PE_Application_v3_FORM.PDF" class="button">Download the application form (PDF)</a></p-->
 
 
-
+<!--h2>Class members</h2>
+<div class="team">
+    
+    <div class="members-secondary">
+        <h3>Nigeria</h3>
+        
+        <% current_page.data.nigeria.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h4><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></h4>
+                    <div class="title"><%= member.title %></div>
+                    <p><%= member.description %></p>
+                    <span><%= member.location %></span>
+                </div>
+            </div>
+        <% end %>
+        
+    </div>
+    
+    <div class="clear">&nbsp;</div>
+</div-->
 
 <div class="resources">
     <h2>Resources</h2>
