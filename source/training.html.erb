@@ -2,22 +2,62 @@
 title: "Program management for epidemic preparedness"
 section: "training"
 
+ghana:
+
+    - name: Michael Adjabeng
+      user_name: adjabeng
+
+    - name: Ruth Nana Friba Arthur
+      user_name: arthur
+
+    - name: Danso Edward Fenteng
+      user_name: fenteng
+
+liberia:
+
+    - name: Tracy N. Pency-King
+      user_name: user
+
 nigeria:
 
-    - name: Student Name
-      title: Coordinator of Stuff
-      location: Lagos
+    - name: Kola Jinadu
+      user_name: jinadu
+
+    - name: Olugbenga Akinbiyi
+      user_name: akinbiyi
+
+    - name: Chibuzo Eneh
+      user_name: eneh
+
+    - name: Ayoola Abiodun Olufemi
+      user_name: olufemi
+
+rwanda:
+
+    - name: Murangwa Anthere
       user_name: user
 
-    - name: Student Name
-      title: Coordinator of Stuff
-      location: Lagos
-      user_name: user
+tanzania:
 
-    - name: Student Name
-      title: Coordinator of Stuff
-      location: Lagos
-      user_name: user
+    - name: Jacob Lusekelo
+      user_name: lusekelo
+
+    - name: Faraja Lutula Msemwa
+      user_name: msemwa
+
+thegambia:
+
+    - name: Abdoulie L. J. Camara
+      user_name: camara
+
+uganda:
+
+    - name: Betty Mbolanyi
+      user_name: mbolanyi
+
+    - name: Solome Okware
+      user_name: okware
+
 ---
 
 <h1>Program management training for capacity building</h1>
@@ -186,8 +226,34 @@ participants. </p>
 <!--p><a href="/images/PE_Application_v3_FORM.PDF" class="button">Download the application form (PDF)</a></p-->
 
 
-<!--h2>Class members</h2>
+<!--h2>PMEP class members</h2>
 <div class="team">
+    
+    <div class="members-secondary">
+        <h3>Ghana</h3>
+        
+        <% current_page.data.ghana.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h4><a href="/pmep/<%= member.user_name %>"><%= member.name %> <img src="/images/training/thumb/<%= member.user_name %>.jpg" alt=""></a></h4>
+                </div>
+            </div>
+        <% end %>
+        
+    </div>
+    
+    <div class="members-secondary">
+        <h3>Liberia</h3>
+        
+        <% current_page.data.liberia.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h4><a href="/pmep/<%= member.user_name %>"><%= member.name %> <img src="/images/training/thumb/<%= member.user_name %>.jpg" alt=""></a></h4>
+                </div>
+            </div>
+        <% end %>
+        
+    </div>
     
     <div class="members-secondary">
         <h3>Nigeria</h3>
@@ -195,10 +261,59 @@ participants. </p>
         <% current_page.data.nigeria.each do |member| %>
             <div class="member">
                 <div class="member-contents">
-                    <h4><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></h4>
-                    <div class="title"><%= member.title %></div>
-                    <p><%= member.description %></p>
-                    <span><%= member.location %></span>
+                    <h4><a href="/pmep/<%= member.user_name %>"><%= member.name %> <img src="/images/training/thumb/<%= member.user_name %>.jpg" alt=""></a></h4>
+                </div>
+            </div>
+        <% end %>
+        
+    </div>
+    
+    <div class="members-secondary">
+        <h3>Rwanda</h3>
+        
+        <% current_page.data.rwanda.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h4><a href="/pmep/<%= member.user_name %>"><%= member.name %> <img src="/images/training/thumb/<%= member.user_name %>.jpg" alt=""></a></h4>
+                </div>
+            </div>
+        <% end %>
+        
+    </div>
+    
+    <div class="members-secondary">
+        <h3>Tanzania</h3>
+        
+        <% current_page.data.tanzania.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h4><a href="/pmep/<%= member.user_name %>"><%= member.name %> <img src="/images/training/thumb/<%= member.user_name %>.jpg" alt=""></a></h4>
+                </div>
+            </div>
+        <% end %>
+        
+    </div>
+    
+    <div class="members-secondary">
+        <h3>The Gambia</h3>
+        
+        <% current_page.data.thegambia.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h4><a href="/pmep/<%= member.user_name %>"><%= member.name %> <img src="/images/training/thumb/<%= member.user_name %>.jpg" alt=""></a></h4>
+                </div>
+            </div>
+        <% end %>
+        
+    </div>
+    
+    <div class="members-secondary">
+        <h3>Uganda</h3>
+        
+        <% current_page.data.uganda.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h4><a href="/pmep/<%= member.user_name %>"><%= member.name %> <img src="/images/training/thumb/<%= member.user_name %>.jpg" alt=""></a></h4>
                 </div>
             </div>
         <% end %>
