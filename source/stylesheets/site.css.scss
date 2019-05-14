@@ -383,6 +383,11 @@ ol h3 {
     font-size: 100%;
 }
 
+.graduates .members-secondary h4 {
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+
 .members-secondary p {
     margin: 0.5em 0;
     display: none;
@@ -990,6 +995,10 @@ blockquote {
         text-align: center;
         min-height: 260px;
         margin-top: 0;
+    }
+    
+    .graduates .members-secondary .member {
+        min-height: 200px;
     }
 
     .members-secondary .member-contents {
