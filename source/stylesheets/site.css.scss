@@ -146,6 +146,12 @@ a:active {
     color: #000;
 }
 
+a.back {
+    padding-left: 32px;
+    background: url(/images/back.png) 0 2px no-repeat;
+    background-size: 24px;
+}
+
 .button,
 button,
 input[type=submit] {
