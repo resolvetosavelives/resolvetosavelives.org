@@ -6308,9 +6308,7 @@
 		"oF": 0
 		},
 	"/config.rb": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+		"ft": 131072,
 		"oA": 0,
 		"oAP": "/config.rb",
 		"oF": 0
@@ -6639,6 +6637,17 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/source/images/back.png": {
+		"ft": 32768,
+		"iS": 4832,
+		"oA": 0,
+		"oAP": "/source/images/back.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/source/images/blank.jpg": {
 		"ft": 16384,
@@ -7572,6 +7581,72 @@
 		"oAP": "/source/images/resources/Hypertension_Best_Practices_Online.pdf",
 		"oF": 0
 		},
+	"/source/images/resources/module-1@2x.png": {
+		"ft": 32768,
+		"iS": 35726,
+		"oA": 0,
+		"oAP": "/source/images/resources/module-1@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/images/resources/module-2@2x.png": {
+		"ft": 32768,
+		"iS": 31638,
+		"oA": 0,
+		"oAP": "/source/images/resources/module-2@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/images/resources/module-3@2x.png": {
+		"ft": 32768,
+		"iS": 22147,
+		"oA": 0,
+		"oAP": "/source/images/resources/module-3@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/images/resources/module-4@2x.png": {
+		"ft": 32768,
+		"iS": 17852,
+		"oA": 0,
+		"oAP": "/source/images/resources/module-4@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/images/resources/module-5@2x.png": {
+		"ft": 32768,
+		"iS": 23703,
+		"oA": 0,
+		"oAP": "/source/images/resources/module-5@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/images/resources/module-6@2x.png": {
+		"ft": 32768,
+		"iS": 21095,
+		"oA": 0,
+		"oAP": "/source/images/resources/module-6@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/images/resources/pe-factsheet-fr.jpg": {
 		"ft": 16384,
 		"iS": 45452,
@@ -7663,6 +7738,193 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/resources/Punjab-Hypertension-Protocol.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/REPLACE-global-progress-report-executive-summary.jpg": {
+		"ft": 16384,
+		"iS": 114908,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE-global-progress-report-executive-summary.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/REPLACE-global-progress-report-executive-summary.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE-global-progress-report-executive-summary.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/REPLACE-Global-Progress-Report.jpg": {
+		"ft": 16384,
+		"iS": 60944,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE-Global-Progress-Report.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/REPLACE-Global-Progress-Report.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE-Global-Progress-Report.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/REPLACE_2019-press-release.jpg": {
+		"ft": 16384,
+		"iS": 138613,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_2019-press-release.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/REPLACE_2019-press-release.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_2019-press-release.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/REPLACE_global-progress-report-10-web.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_global-progress-report-10-web.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/REPLACE_global-progress-report-executive-summary-web.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_global-progress-report-executive-summary-web.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/REPLACE_Module-1-RE.jpg": {
+		"ft": 16384,
+		"iS": 45909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-1-RE.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/REPLACE_Module-1-RE.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-1-RE.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/REPLACE_Module-2-P.jpg": {
+		"ft": 16384,
+		"iS": 46364,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-2-P.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/REPLACE_Module-2-P.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-2-P.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/REPLACE_Module-3-L.jpg": {
+		"ft": 16384,
+		"iS": 42467,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-3-L.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/REPLACE_Module-3-L.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-3-L.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/REPLACE_Module-4-A.jpg": {
+		"ft": 16384,
+		"iS": 41129,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-4-A.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/REPLACE_Module-4-A.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-4-A.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/REPLACE_Module-5-C.jpg": {
+		"ft": 16384,
+		"iS": 40427,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-5-C.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/REPLACE_Module-5-C.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-5-C.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/REPLACE_Module-6-E.jpg": {
+		"ft": 16384,
+		"iS": 42416,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-6-E.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/REPLACE_Module-6-E.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/REPLACE_Module-6-E.pdf",
 		"oF": 0
 		},
 	"/source/images/resources/Resolve_Hypertension_CCB_V405.pdf": {
@@ -10045,6 +10307,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/training/large/anthere.jpg": {
+		"ft": 16384,
+		"iS": 23188,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/anthere.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/training/large/arthur.jpg": {
 		"ft": 16384,
 		"iS": 397576,
@@ -10155,6 +10428,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/training/large/pency-king.jpg": {
+		"ft": 16384,
+		"iS": 23188,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/pency-king.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/training/large/user.jpg": {
 		"ft": 16384,
 		"iS": 23188,
@@ -10183,6 +10467,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/training/thumb/akinbiyi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/anthere.jpg": {
+		"ft": 16384,
+		"iS": 2177,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/anthere.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10293,6 +10588,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/training/thumb/olufemi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/pency-king.jpg": {
+		"ft": 16384,
+		"iS": 2177,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/pency-king.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10505,6 +10811,118 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/marc-jaffe.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/adjabeng.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/adjabeng.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/akinbiyi.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/akinbiyi.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/anthere.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/anthere.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/arthur.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/arthur.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/camara.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/camara.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/eneh.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/eneh.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/fenteng.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/fenteng.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/jinadu.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/jinadu.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/lusekelo.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/lusekelo.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/mbolanyi.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/mbolanyi.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/msemwa.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/msemwa.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/okware.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/okware.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/olufemi.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/olufemi.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/pency-king.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/pency-king.html.erb",
 		"oF": 0
 		},
 	"/source/pmep/user.html.erb": {
