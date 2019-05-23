@@ -844,7 +844,7 @@
 		},
 	"/build/images/partners/ghai.png": {
 		"ft": 32768,
-		"iS": 14910,
+		"iS": 17720,
 		"oA": 0,
 		"oAP": "/build/images/partners/ghai.png",
 		"oF": 0,
@@ -1228,6 +1228,25 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/resources/Hypertension_Best_Practices_Online.jpg": {
+		"ft": 16384,
+		"iS": 70860,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/Hypertension_Best_Practices_Online.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/Hypertension_Best_Practices_Online.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/Hypertension_Best_Practices_Online.pdf",
+		"oF": 0
+		},
 	"/build/images/resources/pe-factsheet-fr.jpg": {
 		"ft": 16384,
 		"iS": 45452,
@@ -1335,6 +1354,25 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/images/resources/Resolve_HypertensionProtocols_V406.pdf",
+		"oF": 0
+		},
+	"/build/images/resources/rtsl-joint-letter-to-companies-5-2019.jpg": {
+		"ft": 16384,
+		"iS": 87816,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/rtsl-joint-letter-to-companies-5-2019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/resources/rtsl-joint-letter-to-companies-5-2019.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/images/resources/rtsl-joint-letter-to-companies-5-2019.pdf",
 		"oF": 0
 		},
 	"/build/images/resources/RTSL_Fact_Sheet_3_22_19.pdf": {
@@ -3033,12 +3071,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/china-school-salt-visit.jpg": {
+		"ft": 16384,
+		"iS": 77237,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/china-school-salt-visit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/cvd-advertisement.jpg": {
 		"ft": 16384,
 		"iS": 50744,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/timeline/cvd-advertisement.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/ebola-conference.jpg": {
+		"ft": 16384,
+		"iS": 87605,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/ebola-conference.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3176,6 +3236,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/naphs.jpg": {
+		"ft": 16384,
+		"iS": 118717,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/naphs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/ncd-18-dec.jpg": {
 		"ft": 16384,
 		"iS": 44599,
@@ -3193,6 +3264,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/timeline/nigeria-17-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/nigeria-yellow-fever.jpg": {
+		"ft": 16384,
+		"iS": 65777,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/nigeria-yellow-fever.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3281,6 +3363,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/timeline/prevent-epidemics.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/protocol.jpg": {
+		"ft": 16384,
+		"iS": 84233,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/protocol.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3462,6 +3555,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/trans-fat.jpg": {
+		"ft": 16384,
+		"iS": 72715,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/trans-fat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/turkish-chef-salt.jpg": {
 		"ft": 16384,
 		"iS": 95455,
@@ -3484,12 +3588,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/build/images/timeline/uganda-funding.jpg": {
+		"ft": 16384,
+		"iS": 133983,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/uganda-funding.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/build/images/timeline/vietnam-2018.jpg": {
 		"ft": 16384,
 		"iS": 86410,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/images/timeline/vietnam-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/timeline/vietnam-april-2019.jpg": {
+		"ft": 16384,
+		"iS": 77988,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/timeline/vietnam-april-2019.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3570,6 +3696,292 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/build/images/training/large/adjabeng.jpg": {
+		"ft": 16384,
+		"iS": 471518,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/adjabeng.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/akinbiyi.jpg": {
+		"ft": 16384,
+		"iS": 480535,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/akinbiyi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/arthur.jpg": {
+		"ft": 16384,
+		"iS": 397576,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/arthur.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/camara.jpg": {
+		"ft": 16384,
+		"iS": 302506,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/camara.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/eneh.jpg": {
+		"ft": 16384,
+		"iS": 480317,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/eneh.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/fenteng.jpg": {
+		"ft": 16384,
+		"iS": 395558,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/fenteng.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/jinadu.jpg": {
+		"ft": 16384,
+		"iS": 307159,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/jinadu.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/lusekelo.jpg": {
+		"ft": 16384,
+		"iS": 291922,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/lusekelo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/mbolanyi.jpg": {
+		"ft": 16384,
+		"iS": 430079,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/mbolanyi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/msemwa.jpg": {
+		"ft": 16384,
+		"iS": 436385,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/msemwa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/okware.jpg": {
+		"ft": 16384,
+		"iS": 326891,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/okware.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/olufemi.jpg": {
+		"ft": 16384,
+		"iS": 273276,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/olufemi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/large/user.jpg": {
+		"ft": 16384,
+		"iS": 23188,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/large/user.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/adjabeng.jpg": {
+		"ft": 16384,
+		"iS": 84112,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/adjabeng.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/akinbiyi.jpg": {
+		"ft": 16384,
+		"iS": 55273,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/akinbiyi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/arthur.jpg": {
+		"ft": 16384,
+		"iS": 75057,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/arthur.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/camara.jpg": {
+		"ft": 16384,
+		"iS": 59101,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/camara.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/eneh.jpg": {
+		"ft": 16384,
+		"iS": 79107,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/eneh.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/fenteng.jpg": {
+		"ft": 16384,
+		"iS": 77167,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/fenteng.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/jinadu.jpg": {
+		"ft": 16384,
+		"iS": 62510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/jinadu.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/lusekelo.jpg": {
+		"ft": 16384,
+		"iS": 51840,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/lusekelo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/mbolanyi.jpg": {
+		"ft": 16384,
+		"iS": 78968,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/mbolanyi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/msemwa.jpg": {
+		"ft": 16384,
+		"iS": 71784,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/msemwa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/okware.jpg": {
+		"ft": 16384,
+		"iS": 55446,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/okware.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/olufemi.jpg": {
+		"ft": 16384,
+		"iS": 56727,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/olufemi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/build/images/training/thumb/user.jpg": {
+		"ft": 16384,
+		"iS": 2177,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/training/thumb/user.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/build/images/trans-fats-small.png": {
@@ -3760,6 +4172,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/marc-jaffe/index.html",
+		"oF": 0
+		},
+	"/build/pmep/user/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/pmep/user/index.html",
 		"oF": 0
 		},
 	"/build/prevent-epidemics-resources/index.html": {
@@ -4139,6 +4559,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Calendar.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Calendar.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Cash.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -4169,6 +4599,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Chef.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Chef.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Color Palette.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -4184,6 +4624,36 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/build/styleguide/assets/illustrations/Community.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Consumers.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Consumers.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Delivery.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Delivery.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Diastolic.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Diastolic.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -4295,11 +4765,41 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Farmer.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Farmer.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/First-Aid.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/build/styleguide/assets/illustrations/First-Aid.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Food-Manufacturers.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Food-Manufacturers.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Food-Service.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Food-Service.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -4481,6 +4981,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Oil-Processing.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Oil-Processing.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Political.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -4554,6 +5064,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/build/styleguide/assets/illustrations/Reduce-Sodium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Restaurants.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Restaurants.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -4717,6 +5237,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Supermarket.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Supermarket.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Surveillance-muted.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -4765,6 +5295,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/build/styleguide/assets/illustrations/Systolic.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Systolic.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/build/styleguide/assets/illustrations/Tax-Dollar.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -4790,6 +5330,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/build/styleguide/assets/illustrations/Trans-Fat.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/build/styleguide/assets/illustrations/Vaccine.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/styleguide/assets/illustrations/Vaccine.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -5758,7 +6308,9 @@
 		"oF": 0
 		},
 	"/config.rb": {
-		"ft": 131072,
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/config.rb",
 		"oF": 0
@@ -7001,6 +7553,25 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/resources/Hypertension_Best_Practices_Online.jpg": {
+		"ft": 16384,
+		"iS": 70860,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/Hypertension_Best_Practices_Online.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/Hypertension_Best_Practices_Online.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/Hypertension_Best_Practices_Online.pdf",
+		"oF": 0
+		},
 	"/source/images/resources/pe-factsheet-fr.jpg": {
 		"ft": 16384,
 		"iS": 45452,
@@ -7108,6 +7679,25 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/images/resources/Resolve_HypertensionProtocols_V406.pdf",
+		"oF": 0
+		},
+	"/source/images/resources/rtsl-joint-letter-to-companies-5-2019.jpg": {
+		"ft": 16384,
+		"iS": 87816,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/rtsl-joint-letter-to-companies-5-2019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/resources/rtsl-joint-letter-to-companies-5-2019.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/images/resources/rtsl-joint-letter-to-companies-5-2019.pdf",
 		"oF": 0
 		},
 	"/source/images/resources/RTSL_Fact_Sheet_3_22_19.pdf": {
@@ -8806,12 +9396,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/china-school-salt-visit.jpg": {
+		"ft": 16384,
+		"iS": 77237,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/china-school-salt-visit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/cvd-advertisement.jpg": {
 		"ft": 16384,
 		"iS": 50744,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/cvd-advertisement.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/ebola-conference.jpg": {
+		"ft": 16384,
+		"iS": 87605,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/ebola-conference.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -8949,6 +9561,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/naphs.jpg": {
+		"ft": 16384,
+		"iS": 118717,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/naphs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/ncd-18-dec.jpg": {
 		"ft": 16384,
 		"iS": 44599,
@@ -8966,6 +9589,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/nigeria-17-dec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/nigeria-yellow-fever.jpg": {
+		"ft": 16384,
+		"iS": 65777,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/nigeria-yellow-fever.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9054,6 +9688,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/prevent-epidemics.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/protocol.jpg": {
+		"ft": 16384,
+		"iS": 84233,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/protocol.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9235,6 +9880,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/trans-fat.jpg": {
+		"ft": 16384,
+		"iS": 72715,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/trans-fat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/turkish-chef-salt.jpg": {
 		"ft": 16384,
 		"iS": 95455,
@@ -9257,12 +9913,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/source/images/timeline/uganda-funding.jpg": {
+		"ft": 16384,
+		"iS": 133983,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/uganda-funding.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/source/images/timeline/vietnam-2018.jpg": {
 		"ft": 16384,
 		"iS": 86410,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/source/images/timeline/vietnam-2018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/timeline/vietnam-april-2019.jpg": {
+		"ft": 16384,
+		"iS": 77988,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/timeline/vietnam-april-2019.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9343,6 +10021,292 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/source/images/training/large/adjabeng.jpg": {
+		"ft": 16384,
+		"iS": 471518,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/adjabeng.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/akinbiyi.jpg": {
+		"ft": 16384,
+		"iS": 480535,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/akinbiyi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/arthur.jpg": {
+		"ft": 16384,
+		"iS": 397576,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/arthur.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/camara.jpg": {
+		"ft": 16384,
+		"iS": 302506,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/camara.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/eneh.jpg": {
+		"ft": 16384,
+		"iS": 480317,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/eneh.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/fenteng.jpg": {
+		"ft": 16384,
+		"iS": 395558,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/fenteng.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/jinadu.jpg": {
+		"ft": 16384,
+		"iS": 307159,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/jinadu.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/lusekelo.jpg": {
+		"ft": 16384,
+		"iS": 291922,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/lusekelo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/mbolanyi.jpg": {
+		"ft": 16384,
+		"iS": 430079,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/mbolanyi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/msemwa.jpg": {
+		"ft": 16384,
+		"iS": 436385,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/msemwa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/okware.jpg": {
+		"ft": 16384,
+		"iS": 326891,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/okware.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/olufemi.jpg": {
+		"ft": 16384,
+		"iS": 273276,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/olufemi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/large/user.jpg": {
+		"ft": 16384,
+		"iS": 23188,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/large/user.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/adjabeng.jpg": {
+		"ft": 16384,
+		"iS": 84112,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/adjabeng.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/akinbiyi.jpg": {
+		"ft": 16384,
+		"iS": 55273,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/akinbiyi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/arthur.jpg": {
+		"ft": 16384,
+		"iS": 75057,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/arthur.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/camara.jpg": {
+		"ft": 16384,
+		"iS": 59101,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/camara.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/eneh.jpg": {
+		"ft": 16384,
+		"iS": 79107,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/eneh.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/fenteng.jpg": {
+		"ft": 16384,
+		"iS": 77167,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/fenteng.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/jinadu.jpg": {
+		"ft": 16384,
+		"iS": 62510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/jinadu.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/lusekelo.jpg": {
+		"ft": 16384,
+		"iS": 51840,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/lusekelo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/mbolanyi.jpg": {
+		"ft": 16384,
+		"iS": 78968,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/mbolanyi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/msemwa.jpg": {
+		"ft": 16384,
+		"iS": 71784,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/msemwa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/okware.jpg": {
+		"ft": 16384,
+		"iS": 55446,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/okware.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/olufemi.jpg": {
+		"ft": 16384,
+		"iS": 56727,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/olufemi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/images/training/thumb/user.jpg": {
+		"ft": 16384,
+		"iS": 2177,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/source/images/training/thumb/user.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/source/images/trans-fats-small.png": {
@@ -9541,6 +10505,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/source/marc-jaffe.html.erb",
+		"oF": 0
+		},
+	"/source/pmep/user.html.erb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source/pmep/user.html.erb",
 		"oF": 0
 		},
 	"/source/prevent-epidemics-resources.html.erb": {
@@ -10151,6 +11123,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/source/styleguide/assets/illustrations/Food-Manufacturers.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/source/styleguide/assets/illustrations/Food-Service.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/source/styleguide/assets/illustrations/Food-Service.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,

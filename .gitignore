@@ -4,3 +4,5 @@
 .sass-cache
 build/
 config.codekit3
+config.codekit3
+*.codekit3
