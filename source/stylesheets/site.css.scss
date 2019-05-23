@@ -146,6 +146,12 @@ a:active {
     color: #000;
 }
 
+a.back {
+    padding-left: 32px;
+    background: url(/images/back.png) 0 2px no-repeat;
+    background-size: 24px;
+}
+
 .button,
 button,
 input[type=submit] {
@@ -381,6 +387,11 @@ ol h3 {
 
 .members-secondary h4 {
     font-size: 100%;
+}
+
+.graduates .members-secondary h4 {
+    padding-top: 22px;
+    padding-bottom: 22px;
 }
 
 .members-secondary p {
@@ -990,6 +1001,10 @@ blockquote {
         text-align: center;
         min-height: 260px;
         margin-top: 0;
+    }
+    
+    .graduates .members-secondary .member {
+        min-height: 200px;
     }
 
     .members-secondary .member-contents {
