@@ -1,0 +1,65 @@
+---
+title: "History"
+section: "home"
+timeline:
+
+
+    - date: May 30, 2018
+      align: left
+      image: china-may-2018.jpg
+      content: |-
+            <h4>Hypertension work in China</h4>
+            <p>Dr. Marc Jaffe traveled to China to meet with partners at the World Bank and others, and to advance the hypertension prevention work. In this photo  Dr. Jaffe is having his blood pressure measured by Professor Liu Lisheng of the Beijing Lisheng Health Foundation.</p>
+
+    - date: May 24, 2018
+      align: right
+      image: wha-may-2018.jpg
+      content: |-
+            <h4>2018 World Health Assembly</h4>
+            <p>At the <a href="http://www.who.int/world-health-assembly/seventy-first">2018 World Health Assembly</a>, Dr. Tom Frieden participated in a discussion on “Reducing Sugar, Salt and Fat to Prevent NCDs.”</p>
+
+    - date: May 14, 2018
+      align: left
+      image: lancet-replace.jpg
+      content: |-
+            <h4>Make the world trans fat free by 2023</h4>
+            <p>The Lancet published <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31083-3/fulltext">"REPLACE a roadmap to make the world trans fat free by 2023"</a> written by Dr. Tedros Adhanom Ghebreyesus and Dr. Tom Frieden</p>
+    
+
+    - date: May 12, 2018
+      align: full
+      image: replace-launch.jpg
+      content: <h4>REPLACE launched</h4><p>The World Health Organization announced REPLACE, a ground-breaking initiative developed in partnership with Resolve to Save Lives, which aims to eliminate trans fats from the global food supply by 2023. Read about it in <a href="https://www.nytimes.com/2018/05/14/health/trans-fats-who-ban.html">The New York Times</a>, <a href="https://www.cnn.com/2018/05/14/health/trans-fats-who-2023-intl-bn/index.html">CNN</a>, <a href="https://www.wsj.com/articles/food-makers-vow-to-cut-trans-fats-globally-1526271513">The Wall Street Journal</a>, or <a href="https://www.vox.com/science-and-health/2018/5/14/17346108/trans-fats-food-world-health-organization-bloomberg-gates">Vox</a>.</p>
+
+    - date: May 1, 2018
+      align: left
+      image: tanzania-may-2018.jpg
+      content: <h4>NAPHS in Nigeria</h4><p> Dr. Chris Lee traveled to Nigeria to support the government's development of their <a href="https://reliefweb.int/report/nigeria/nigeria-develops-national-action-plan-health-security">National Action Plan for Health Security</a>.</p>
+
+---
+
+<div class="home-feature-wrapper">
+    <div class="home-feature">
+        <h1>Timeline</h1>
+    </div>
+</div>
+
+<div class="time">
+    
+    <span class="line"></span>
+    
+    <% current_page.data.timeline.each do |item| %>
+        <div class="time-item time-<%= item.align %>">
+            <div class="time-date"><%= item.date %></div>
+            <div class="time-content">
+                <% if item.imagelink %><a href="<%= item.imagelink %>"><% end %>
+                    <% if item.image %><div class="image"><img src="/images/timeline/<%= item.image %>" alt=""></div><% end %>
+                <% if item.imagelink %></a><% end %>
+                <%= item.content %>
+            </div>
+        </div>
+    <% end %>
+    
+    <div class="clear">&nbsp;</div>
+    
+</div>
