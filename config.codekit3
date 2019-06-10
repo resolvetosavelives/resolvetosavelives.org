@@ -8056,6 +8056,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/source/images/resources/module-6@2x.png": {
+		"ft": 32768,
+		"iS": 25045,
+		"oA": 0,
+		"oAP": "/source/images/resources/module-6@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/images/resources/pe-factsheet-fr.jpg": {
 		"ft": 16384,
 		"iS": 45452,
@@ -13433,7 +13444,7 @@
 		"oA": 0,
 		"oAP": "/source/stylesheets/home.css.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 2,
 		"uL": 1
 		},
 	"/source/stylesheets/site.css.scss": {
@@ -13446,7 +13457,7 @@
 		"oA": 0,
 		"oAP": "/source/stylesheets/site.css.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 2,
 		"uL": 1
 		},
 	"/source/thanks.html.erb": {
@@ -13489,7 +13500,7 @@
 "projectAttributes": {
 	"creationDate": 568815366.32192695,
 	"displayValue": "resolvetosavelives.org",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "/build/images/favicon/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
@@ -15471,7 +15482,7 @@
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 1
