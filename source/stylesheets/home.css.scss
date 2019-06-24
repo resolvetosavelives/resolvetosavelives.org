@@ -58,6 +58,11 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
     text-align: left;
 }
 
+.time video {
+    border: 10px solid #fff;
+    box-shadow: $shadow;
+}
+
 /* For devices smaller than 880px */
 @media (max-width: 880px) {
     
@@ -83,7 +88,8 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
         padding-left: 32px;
     }
     
-    .time .image img {
+    .time .image img,
+    .time video {
         width: 90%;
     }
     
@@ -197,7 +203,8 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
         padding: 20px 40px 20px 0;
     }
     
-    .time-content .image img {
+    .time-content .image img,
+    .time-content video {
         width: 100%;
         box-sizing: border-box;
         margin: 0 0 16px 0;
@@ -245,7 +252,8 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
         clear: both;
     }
     
-    .time-full .image img {
+    .time-full .image img,
+    .time-full video {
         width: 220%;
         margin-top: 20px;
     }

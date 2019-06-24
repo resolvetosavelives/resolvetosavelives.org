@@ -5,8 +5,13 @@ timeline:
 
     - date: June 15, 2019
       align: left
-      image: outbreak.gif
-      imagelink: "http://PreventEpidemics.org"
+      video: |-
+            <div class="image">
+            <video autoplay id="video-html">
+                <source src="/images/timeline/resolve-map-dots-1280-compressed.mp4" type="video/mp4">
+                <img src="/images/resolve-map-dots-1280-480p.jpg" alt="">
+            </video>
+            </div>
       content: |-
             <h4><a href="http://PreventEpidemics.org">PreventEpidemics.org</a> &#8212; From Data to Action</h4>
             <p>The site has a new look and new tools to help move from data to action on epidemic preparedness. Check out our new <a href="https://preventepidemics.org/map/">interactive maps</a>, <a href="https://preventepidemics.org/map/?mode=flights">flight patterns</a> displayed with the preparedness of their final destination and <a href="https://preventepidemics.org/take-action/">useful tools</a> for advocacy.</p>
@@ -389,6 +394,7 @@ timeline:
             <div class="time-content">
                 <% if item.imagelink %><a href="<%= item.imagelink %>"><% end %>
                     <% if item.image %><div class="image"><img src="/images/timeline/<%= item.image %>" alt=""></div><% end %>
+                    <% if item.video %><%= item.video %><% end %>
                 <% if item.imagelink %></a><% end %>
                 <%= item.content %>
             </div>
