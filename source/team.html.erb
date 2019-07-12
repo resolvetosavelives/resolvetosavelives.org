@@ -1,6 +1,6 @@
 ---
-title: "About us"
-section: "about"
+title: "Team"
+section: "team"
 
 top_members:
 
@@ -221,89 +221,80 @@ ops_members:
 
 ---
 
-<h1>We are a global public health initiative with one mission: save lives</h1>
+<h1>Our team</h1>
 
-<p class="intro">Resolve to Save Lives helps governments and civil society implement scalable, proven strategies.</p>
+<p class="intro">Our team of global health experts works with governments to help them implement evidence-based strategies that allow their citizens to lead the healthiest lives possible.</p>
 
-<div class="image-float">
-    <div class="side-menu">
+<p>Resolve to Save Lives is led by Dr. Tom Frieden, former Director of the <a href="https://www.cdc.gov/">Centers for Disease Control and Prevention</a>, and is housed within <a href="http://vitalstrategies.org">Vital Strategies</a>.</p>
+
+<div class="team">
+    
+    <div class="members-secondary">
         
-        <div class="side-menu-item"><a href="/careers">Careers</a></div>
-        <div class="side-menu-item"><a href="/press">Press releases</a></div>
-        <div class="side-menu-item"><a href="/team">Team</a></div>
+        <% current_page.data.top_members.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h4><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></h4>
+                    <div class="title"><%= member.title %></div>
+                    <p><%= member.description %></p>
+                    <span><%= member.location %></span>
+                    <%= member.bio %>
+                </div>
+            </div>
+        <% end %>
         
     </div>
-</div>
-
-<p>We are determined to prevent millions of deaths from cardiovascular disease and epidemics, with a focus on accelerating action through speed, simplicity, and scale in low- and middle-income countries.</p>
-
-<p>Resolve to Save Lives is an initiative of the global public health organization <a href="http://www.vitalstrategies.org">Vital Strategies</a>. We received $225 million from <a href="https://www.bloomberg.org/">Bloomberg Philanthropies</a>, the <a href="https://www.gatesfoundation.org/">Bill &amp; Melinda Gates Foundation</a>, and Gates Philanthropy Partners, which is funded with support from the <a href="http://czi.org">Chan Zuckerberg Foundation</a>.</p>
-
-<div class="graph">
-    <div class="image"><a href="https://www.youtube.com/watch?v=h1nuB6CNorA" target="_blank"><img src="/images/youtube-tom.jpg" alt=""></a></div>
-    <div class="caption">Dr. Tom Frieden, President and CEO, explains the mission of Resolve to Save Lives.</div>
-</div>
-
-<!--div class="image-float"><a href="#"><img src="/images/one-pager.jpg" alt=""> Download a 1-pager about Resolve to Save Lives</a></div-->
-
-<h2>We are funders <em>and</em> implementers</h2>
-<p>We provide catalytic funding to countries interested in improving epidemic preparedness or their citizens’ heart health. And, we staff the world’s leading experts in cardiovascular health and epidemic preparedness, so that we can send them into the field to provide on-the-ground technical assistance.</p>
-
-<h3>We operate in dozens of countries</h3>
-<p>Our focus is on accelerating action through speed, simplicity, and scale in low- and middle-income countries. We work primarily through our partners’ country offices.</p>
-
-<h3>Global implementing partners</h3>
-<p>Our global partners include: World Health Organization, CDC Foundation, Global Health Advocacy Incubator, Johns Hopkins Bloomberg School of Public Health, World Bank, Vital Strategies</p>
-
-<h3>In-country partners</h3>
-<p>Our in-country partners include: Pan American Health Organization (PAHO), Beijing Lisheng Cardiovascular Health Foundation (BLCHF), African Field Epidemiology Network (AFENET), PATH, and the National Heart Foundation of Bangladesh.</p>
-
-<div class="graph">
-<div class="video-wrapper image">
-    <a href="/images/rtsl-map.mp4">
-    <video autoplay id="video-html">
-        <source src="/images/rtsl-map.mp4" type="video/mp4" autoplay>
-        <img src="/images/rtsl-map.mp4" alt="">
-    </video>
-    </a>
-    <div id="video-countdown">10</div>
-    <div class="caption">Our focus is on accelerating action through speed, simplicity, and scale in low- and middle-income countries.</div>
-</div>
-</div>
-
-
-<h2>What we <em>do</em> and <em>don't</em> do</h2>
-<div class="columns columns-2">
-    <div class="column">
-    <h3 style="margin: 0;">What we do</h3>
-    <ul class="positive">
-        <li>Provide guidance and technical support in program design and implementation &#8212; what to do and how to do it</li>
-        <li>Assist in securing program funding</li>
-        <li>Assist in identifying and engaging partners, in-country and globally</li>
-        <li>Catalyze progress</li>
-    </ul>
+    
+    <div class="members-secondary">
+        <h3>Prevent epidemics</h3>
+        
+        <% current_page.data.pe_members.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h4><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></h4>
+                    <div class="title"><%= member.title %></div>
+                    <p><%= member.description %></p>
+                    <span><%= member.location %></span>
+                    <%= member.bio %>
+                </div>
+            </div>
+        <% end %>
+        
     </div>
-    <div class="column">
-    <h3 style="margin: 0;">What we don't do</h3>
-    <ul class="negative">
-        <li>Run country programs</li>
-        <li>Pay for programs</li>
-        <li>Set country health and NCD prevention policy</li>
-        <li>Sustain programs long-term</li>
-    </ul>
+    
+    <div class="members-secondary">
+        <h3>Cardiovascular health</h3>
+        
+        <% current_page.data.cvd_members.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h4><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></h4>
+                    <div class="title"><%= member.title %></div>
+                    <p><%= member.description %></p>
+                    <span><%= member.location %></span>
+                    <%= member.bio %>
+                </div>
+            </div>
+        <% end %>
+        
     </div>
-    <div style="clear: both;"></div> 
+    
+    <div class="members-secondary">
+        <h3>Operations</h3>
+        
+        <% current_page.data.ops_members.each do |member| %>
+            <div class="member">
+                <div class="member-contents">
+                    <h4><%= member.name %> <img src="/images/team/thumb/<%= member.user_name %>.jpg" alt=""></h4>
+                    <div class="title"><%= member.title %></div>
+                    <p><%= member.description %></p>
+                    <span><%= member.location %></span>
+                    <%= member.bio %>
+                </div>
+            </div>
+        <% end %>
+        
+    </div>
+    
+    <div class="clear">&nbsp;</div>
 </div>
-
-<h2>More...</h2>
-<p><a href="/careers">Careers</a></p>
-<p><a href="/press">Press releases</a></p>
-<p><a href="/team">Team</a></p>
-
-<div class="graph">
-    <div class="image"><a href="/images/team-photo-oct-2018.jpg" target="_blank"><img src="/images/team-photo-oct-2018.jpg"></a></div>
-    <div class="caption">Members of <a href="/team">our team</a> during an annual meeting in NYC, Oct 2018</div>
-</div>
-
-<h2>Vital Strategies</h2>
-<p>Resolve to Save Lives is housed within <a href="http://vitalstrategies.org">Vital Strategies</a>, a global health organization that works in more than 70 countries to address the world’s most challenging health issues. Resolve to Save Lives fits perfectly with Vital Strategies’ vision of a world where every person is protected by a strong public health system.</p>
