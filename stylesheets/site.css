@@ -29,6 +29,9 @@
   src: url("../fonts/hkgrotesk-semibolditalic-webfont.woff2") format("woff2"), url("../fonts/hkgrotesk-semibolditalic-webfont.woff") format("woff");
   font-weight: 300;
   font-style: italic; }
+html {
+  scroll-behavior: smooth; }
+
 body {
   font-size: 18px;
   font-family: 'hk_grotesk', sans-serif;
@@ -88,6 +91,15 @@ h4 {
   letter-spacing: -0.02em;
   line-height: 1.2;
   margin: 1em 0 0.3em 0; }
+
+h5 {
+  font-weight: 200;
+  line-height: 1.1;
+  font-size: 24px;
+  letter-spacing: -0.03em;
+  margin: 1.5em 0 0.5em 0;
+  color: #2e383c;
+  clear: left; }
 
 a,
 a:visited {
@@ -373,6 +385,16 @@ footer a.footer-link {
   padding-bottom: 20px;
   background: #fff; }
 
+.side-menu {
+  text-align: left;
+  border-top: 2px solid #72848C; }
+
+.side-menu-item a {
+  font-size: 18px;
+  display: block;
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15); }
+
 .menu li {
   display: inline-block;
   padding-right: 16px; }
@@ -468,6 +490,20 @@ table {
 blockquote {
   font-size: 140%;
   color: #E75935; }
+
+.release {
+  position: relative;
+  margin-bottom: 8em; }
+
+.release:after {
+  content: ".";
+  position: absolute;
+  top: -24px;
+  left: 0;
+  background: #ff8565;
+  width: 50px;
+  height: 2px;
+  color: transparent; }
 
 .display-table th,
 .display-table td {
@@ -586,6 +622,12 @@ blockquote {
     font-weight: 500;
     margin: 2.5em 0 -0.5em 0;
     letter-spacing: 0.1em; }
+
+  h5 {
+    font-weight: 200;
+    margin-top: 2em;
+    font-size: 36px;
+    max-width: 20em; }
 
   h2 span,
   h3 span {
