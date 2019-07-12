@@ -64,6 +64,10 @@ $shadow: 2px 2px 15px rgba(0,0,0,0.05);
     font-style: italic;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-size: 18px;
     font-family: 'hk_grotesk', sans-serif;
@@ -131,6 +135,16 @@ h4 {
     letter-spacing: -0.02em;
     line-height: 1.2;
     margin: 1em 0 0.3em 0;
+}
+
+h5 {
+    font-weight: 200;
+    line-height: 1.1;
+    font-size: 24px;
+    letter-spacing: -0.03em;
+    margin: 1.5em 0 0.5em 0;
+    color: $title-color;
+    clear: left; 
 }
 
 a,
@@ -461,6 +475,18 @@ footer a.footer-link {
     background: #fff;
 }
 
+.side-menu {
+    text-align: left;
+    border-top: 2px solid $dark-grey;
+}
+
+.side-menu-item a {
+    font-size: 18px;
+    display: block;
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+
 .menu li {
     display: inline-block;
     padding-right: 16px;
@@ -574,6 +600,22 @@ table {
 blockquote {
     font-size: 140%;
     color: $orange-dark;
+}
+
+.release {
+    position: relative;
+    margin-bottom: 8em;
+}
+
+.release:after {
+    content: ".";
+    position: absolute;
+    top: -24px;
+    left: 0;
+    background: $orange;
+    width: 50px;
+    height: 2px;
+    color: transparent;
 }
 
 .display-table th,
@@ -720,6 +762,13 @@ blockquote {
         font-weight: 500;
         margin: 2.5em 0 -0.5em 0;
         letter-spacing: 0.1em;
+    }
+    
+    h5 {
+        font-weight: 200;
+        margin-top: 2em;
+        font-size: 36px;
+        max-width: 20em;
     }
 
     h2 span,
