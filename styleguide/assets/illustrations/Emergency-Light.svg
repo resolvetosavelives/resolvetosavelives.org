@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1;">
-    <rect id="Emergency-Light" x="0" y="0" width="64" height="64" style="fill:none;"/>
-    <path d="M50,29.943C50,25.17 48.104,20.592 44.729,17.217C41.353,13.841 36.775,11.945 32.002,11.945C32.001,11.945 31.999,11.945 31.998,11.945C27.225,11.945 22.647,13.841 19.271,17.217C15.896,20.592 14,25.17 14,29.943C14,42.073 14,55.873 14,55.873L50,55.873C50,55.873 50,42.073 50,29.943Z" style="fill:#f3775b;"/>
-    <ellipse cx="32" cy="55.982" rx="18" ry="4.073" style="fill:#2b307e;"/>
-    <rect x="14" y="45.174" width="36" height="10.808" style="fill:#2b307e;"/>
-    <ellipse cx="32" cy="45.174" rx="18" ry="4.073" style="fill:#2b307e;"/>
-    <ellipse cx="32" cy="45.174" rx="18" ry="4.073" style="fill:#aaacdd;fill-opacity:0.709804;"/>
-    <path d="M17.156,54L17.156,28.447C17.156,20.893 23.289,14.76 30.844,14.76" style="fill:none;stroke:#fff;stroke-opacity:0.447059;stroke-width:2px;"/>
-    <ellipse cx="31.688" cy="31.604" rx="11.334" ry="12.956" style="fill:#f8ae9d;"/>
-    <ellipse cx="31.688" cy="31.604" rx="5.467" ry="6.25" style="fill:#fff;"/>
-    <path d="M32,8.611L32,2" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
-    <path d="M52.694,28.945L59.306,28.945" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
-    <path d="M57.106,16.869L50.894,19.131" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
-    <path d="M5.716,16.869L11.929,19.131" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
-    <path d="M47.072,6.881L42.822,11.945" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
-    <path d="M15.75,6.881L20,11.945" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
-    <path d="M3.859,28.945L10.47,28.945" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
+<svg width="100%" height="100%" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1;">
+    <rect id="Emergency-Light" x="0.738" y="0" width="64" height="64" style="fill:none;"/>
+    <path d="M50.738,29.943C50.738,25.17 48.842,20.592 45.467,17.217C42.092,13.841 37.514,11.945 32.74,11.945C32.739,11.945 32.738,11.945 32.736,11.945C27.963,11.945 23.385,13.841 20.01,17.217C16.634,20.592 14.738,25.17 14.738,29.943C14.738,42.073 14.738,55.873 14.738,55.873L50.738,55.873L50.738,29.943Z" style="fill:#f3775b;"/>
+    <ellipse cx="32.738" cy="55.982" rx="18" ry="4.073" style="fill:#2b307e;"/>
+    <rect x="14.738" y="45.174" width="36" height="10.808" style="fill:#2b307e;"/>
+    <ellipse cx="32.738" cy="45.174" rx="18" ry="4.073" style="fill:#2b307e;"/>
+    <ellipse cx="32.738" cy="45.174" rx="18" ry="4.073" style="fill:#aaacdd;fill-opacity:0.71;"/>
+    <path d="M17.894,54L17.894,28.447C17.894,20.893 24.028,14.76 31.582,14.76" style="fill:none;stroke:#fff;stroke-opacity:0.45;stroke-width:2px;"/>
+    <ellipse cx="32.426" cy="31.604" rx="11.334" ry="12.956" style="fill:#f8ae9d;"/>
+    <ellipse cx="32.426" cy="31.604" rx="5.467" ry="6.25" style="fill:#fff;"/>
+    <path d="M32.738,8.611L32.738,2" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
+    <path d="M53.433,28.945L60.044,28.945" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
+    <path d="M57.844,16.869L51.632,19.131" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
+    <path d="M6.455,16.869L12.667,19.131" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
+    <path d="M47.81,6.881L43.561,11.945" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
+    <path d="M16.489,6.881L20.738,11.945" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
+    <path d="M4.598,28.945L11.209,28.945" style="fill:none;stroke:#dfdff2;stroke-width:2px;"/>
 </svg>

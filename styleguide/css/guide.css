@@ -192,13 +192,13 @@ hr {
   display: inline-block;
   margin-right: var(--baseline);
   text-decoration: none;
-  padding: calc(var(--baseline) / 2) var(--baseline) calc(var(--baseline) / 2) calc(var(--baseline) * 2);
+  padding: calc(var(--baseline) / 2) var(--baseline) calc(var(--baseline) / 2) calc(var(--baseline) * 2.75);
   color: #fff;
   background-color: var(--rtsl-red);
   background-image: url(../img/download.svg);
   background-repeat: no-repeat;
-  background-position: calc(var(--baseline) / 2)  50%;
-  background-size: 1rem;
+  background-position: 0  -2%;
+  background-size: auto 104%;
 }
 
 .assets a:hover {
@@ -250,6 +250,12 @@ figure .assets a {
 	margin: calc(var(--baseline) /2);
 }
 
+.illus.large img {
+	width: 256px;
+	height: auto;
+	margin: calc(var(--baseline) /2);
+}
+
 .logos  {
         display: grid;
         grid-gap: 2rem;
@@ -267,6 +273,16 @@ figure .assets a {
    -ms-flex-item-align: center;
        align-self: center;
    max-height: 5rem;
+}
+
+#projects img {
+    max-height: 8rem;
+    width: auto;
+    margin-left: 0;
+}
+
+#projects>h4 {
+    color: var(--rtsl-soft-black-1);
 }
 
 

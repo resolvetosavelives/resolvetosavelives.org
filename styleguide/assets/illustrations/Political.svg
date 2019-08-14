@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <rect id="Political" x="0" y="0" width="64" height="64" style="fill:none;"/>
-    <rect x="12" y="20" width="40" height="28" style="fill:#f3775b;"/>
-    <path d="M60,20L32,6L4,20L60,20Z" style="fill:#f3775b;"/>
-    <rect x="4" y="20" width="56" height="4" style="fill:#f3775b;"/>
-    <rect x="8" y="49" width="48" height="4" style="fill:#f3775b;"/>
-    <rect x="4" y="54" width="56" height="4" style="fill:#f3775b;"/>
-    <circle cx="32.059" cy="14.941" r="3.059" style="fill:#2b307e;"/>
-    <rect x="20" y="24" width="8" height="24" style="fill:#2b307e;"/>
-    <rect x="12" y="24" width="40" height="1" style="fill:#2b307e;"/>
-    <rect x="36" y="24" width="8" height="24" style="fill:#2b307e;"/>
-    <path d="M20,24L14.223,24L12,24L12,31C12,31 13.683,29.073 16,29.5C19.363,30.119 20,36 20,36L20,24Z" style="fill:#2b307e;fill-opacity:0.254902;"/>
-    <path d="M36,24L28,24L28,31C28,31 29.683,29.073 32,29.5C35.363,30.119 36,36 36,36L36,24Z" style="fill:#2b307e;fill-opacity:0.254902;"/>
-    <path d="M52,24L44,24L44,31C44,31 45.683,29.073 48,29.5C51.363,30.119 52,36 52,36L52,24Z" style="fill:#2b307e;fill-opacity:0.254902;"/>
+<svg width="100%" height="100%" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Political" x="0.738" y="0" width="64" height="64" style="fill:none;"/>
+    <rect x="12.738" y="20" width="40" height="28" style="fill:#f3775b;"/>
+    <path d="M60.738,20L32.738,6L4.738,20L60.738,20Z" style="fill:#f3775b;"/>
+    <rect x="4.738" y="20" width="56" height="4" style="fill:#f3775b;"/>
+    <rect x="8.738" y="49" width="48" height="4" style="fill:#f3775b;"/>
+    <rect x="4.738" y="54" width="56" height="4" style="fill:#f3775b;"/>
+    <circle cx="32.797" cy="14.941" r="3.059" style="fill:#2b307e;"/>
+    <rect x="20.738" y="24" width="8" height="24" style="fill:#2b307e;"/>
+    <rect x="12.738" y="24" width="40" height="1" style="fill:#2b307e;"/>
+    <rect x="36.738" y="24" width="8" height="24" style="fill:#2b307e;"/>
+    <path d="M20.738,24L14.961,24L12.738,24L12.738,31C12.738,31 14.421,29.073 16.738,29.5C20.101,30.119 20.738,36 20.738,36L20.738,24Z" style="fill:#2b307e;fill-opacity:0.25;"/>
+    <path d="M36.738,24L28.738,24L28.738,31C28.738,31 30.421,29.073 32.738,29.5C36.101,30.119 36.738,36 36.738,36L36.738,24Z" style="fill:#2b307e;fill-opacity:0.25;"/>
+    <path d="M52.738,24L44.738,24L44.738,31C44.738,31 46.421,29.073 48.738,29.5C52.101,30.119 52.738,36 52.738,36L52.738,24Z" style="fill:#2b307e;fill-opacity:0.25;"/>
 </svg>

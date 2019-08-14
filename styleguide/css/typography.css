@@ -15,6 +15,7 @@
   --rtsl-accent: #f2ad4c;
   --pe-green: #3bbc53;
   --pe-soft-black: #2D2D35;
+  --pe-yellow: #febc00;
 }
 
 /* TYPOGRAPHY */
@@ -33,7 +34,7 @@ html {
 }
 
 body, * {
-	font-family: 'HK Grotesk', 'hk_groteskmedium', sans-serif;
+	font-family: 'hk_groteskmedium', sans-serif;
 	line-height: var(--baseline);
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;

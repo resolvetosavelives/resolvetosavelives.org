@@ -1,41 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <rect id="Health-Centre" serif:id="Health Centre" x="0" y="0.811" width="64" height="64" style="fill:none;"/>
-    <rect x="1.746" y="27.801" width="60.509" height="1.808" style="fill:#f3775b;"/>
-    <rect x="2.531" y="30" width="58.938" height="25.337" style="fill:#cecfeb;"/>
-    <rect x="12.841" y="30" width="38.317" height="25.337" style="fill:#2b307e;fill-opacity:0.258824;"/>
-    <rect x="2.531" y="30" width="58.938" height="1.497" style="fill:#63679d;fill-opacity:0.376471;"/>
-    <rect x="17.895" y="17.116" width="28.209" height="40.798" style="fill:#dfdff2;"/>
-    <circle cx="32.233" cy="24.434" r="5.434" style="fill:#fff;"/>
+<svg width="100%" height="100%" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Health-Centre" x="0.738" y="0" width="64" height="64" style="fill:none;"/>
+    <path d="M52.43,49.05L12.895,49.05L23.404,51.084L42.428,51.084L52.43,49.05Z" style="fill:#cccde0;fill-opacity:0.49;"/>
+    <rect x="2.484" y="21.597" width="60.509" height="1.808" style="fill:#f3775b;"/>
+    <rect x="3.269" y="23.796" width="58.938" height="25.337" style="fill:#cecfeb;"/>
+    <rect x="13.58" y="23.796" width="38.317" height="25.337" style="fill:#2b307e;fill-opacity:0.26;"/>
+    <rect x="3.269" y="23.796" width="58.938" height="1.497" style="fill:#63679d;fill-opacity:0.38;"/>
+    <rect x="18.634" y="10.912" width="28.209" height="40.798" style="fill:#dfdff2;"/>
+    <circle cx="32.972" cy="18.231" r="5.434" style="fill:#fff;"/>
     <clipPath id="_clip1">
-        <circle cx="32.233" cy="24.434" r="5.434"/>
+        <circle cx="32.972" cy="18.231" r="5.434"/>
     </clipPath>
     <g clip-path="url(#_clip1)">
-        <rect x="31.07" y="20.599" width="2.327" height="7.67" style="fill:#f3775b;"/>
-        <path d="M36.069,25.598L36.069,23.271L28.398,23.271L28.398,25.598L36.069,25.598Z" style="fill:#f3775b;"/>
+        <rect x="31.808" y="14.396" width="2.327" height="7.67" style="fill:#f3775b;"/>
+        <path d="M36.807,19.394L36.807,17.067L29.137,17.067L29.137,19.394L36.807,19.394Z" style="fill:#f3775b;"/>
     </g>
     <g>
-        <rect x="49.159" y="33" width="4.158" height="7.25" style="fill:#2b307e;"/>
+        <rect x="49.897" y="26.796" width="4.158" height="7.25" style="fill:#2b307e;"/>
     </g>
     <g>
-        <rect x="4.85" y="33" width="4.158" height="7.25" style="fill:#2b307e;"/>
+        <rect x="5.588" y="26.796" width="4.158" height="7.25" style="fill:#2b307e;"/>
     </g>
-    <path d="M31.384,45.466L31.384,57.99L24.052,57.99L24.052,45.466L31.384,45.466ZM39.948,45.466L39.948,57.99L32.616,57.99L32.616,45.466L39.948,45.466ZM26.579,32L26.579,39.25L22.421,39.25L22.421,32L26.579,32ZM36.579,32L36.579,39.25L32.421,39.25L32.421,32L36.579,32ZM31.579,32L31.579,39.25L27.421,39.25L27.421,32L31.579,32ZM41.579,32L41.579,39.25L37.421,39.25L37.421,32L41.579,32Z" style="fill:#63679d;"/>
+    <path d="M32.122,39.262L32.122,51.786L24.79,51.786L24.79,39.262L32.122,39.262ZM40.686,39.262L40.686,51.786L33.355,51.786L33.355,39.262L40.686,39.262ZM27.318,25.796L27.318,33.047L23.159,33.047L23.159,25.796L27.318,25.796ZM37.318,25.796L37.318,33.047L33.159,33.047L33.159,25.796L37.318,25.796ZM32.318,25.796L32.318,33.047L28.159,33.047L28.159,25.796L32.318,25.796ZM42.318,25.796L42.318,33.047L38.159,33.047L38.159,25.796L42.318,25.796Z" style="fill:#63679d;"/>
     <clipPath id="_clip2">
-        <path d="M31.384,45.466L31.384,57.99L24.052,57.99L24.052,45.466L31.384,45.466ZM39.948,45.466L39.948,57.99L32.616,57.99L32.616,45.466L39.948,45.466ZM26.579,32L26.579,39.25L22.421,39.25L22.421,32L26.579,32ZM36.579,32L36.579,39.25L32.421,39.25L32.421,32L36.579,32ZM31.579,32L31.579,39.25L27.421,39.25L27.421,32L31.579,32ZM41.579,32L41.579,39.25L37.421,39.25L37.421,32L41.579,32Z"/>
+        <path d="M32.122,39.262L32.122,51.786L24.79,51.786L24.79,39.262L32.122,39.262ZM40.686,39.262L40.686,51.786L33.355,51.786L33.355,39.262L40.686,39.262ZM27.318,25.796L27.318,33.047L23.159,33.047L23.159,25.796L27.318,25.796ZM37.318,25.796L37.318,33.047L33.159,33.047L33.159,25.796L37.318,25.796ZM32.318,25.796L32.318,33.047L28.159,33.047L28.159,25.796L32.318,25.796ZM42.318,25.796L42.318,33.047L38.159,33.047L38.159,25.796L42.318,25.796Z"/>
     </clipPath>
     <g clip-path="url(#_clip2)">
-        <path d="M43.079,29.609L20.158,57.914L20.158,60.237L43.079,60.237L43.079,29.609Z" style="fill:#2b307e;"/>
+        <path d="M43.817,23.405L20.896,51.711L20.896,54.033L43.817,54.033L43.817,23.405Z" style="fill:#2b307e;"/>
     </g>
     <g>
-        <rect x="54.815" y="33" width="4.158" height="7.25" style="fill:#2b307e;"/>
+        <rect x="55.553" y="26.796" width="4.158" height="7.25" style="fill:#2b307e;"/>
     </g>
     <g>
-        <rect x="10.159" y="33" width="4.158" height="7.25" style="fill:#2b307e;"/>
+        <rect x="10.897" y="26.796" width="4.158" height="7.25" style="fill:#2b307e;"/>
     </g>
-    <rect x="17.035" y="58.429" width="29.931" height="1.808" style="fill:#f3775b;"/>
-    <rect x="17.035" y="15" width="29.931" height="1.808" style="fill:#f3775b;"/>
-    <rect x="15.219" y="60.952" width="33.563" height="1.808" style="fill:#f3775b;"/>
-    <rect x="17.895" y="17.116" width="28.201" height="1.497" style="fill:#63679d;fill-opacity:0.376471;"/>
+    <rect x="17.773" y="52.226" width="29.931" height="1.808" style="fill:#f3775b;"/>
+    <rect x="17.773" y="8.796" width="29.931" height="1.808" style="fill:#f3775b;"/>
+    <rect x="15.957" y="54.749" width="33.563" height="1.808" style="fill:#f3775b;"/>
+    <rect x="18.634" y="10.912" width="28.201" height="1.497" style="fill:#63679d;fill-opacity:0.38;"/>
 </svg>

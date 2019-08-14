@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Sub-centre-2" x="0.738" y="0" width="64" height="64" style="fill:none;"/>
+    <rect x="2.484" y="9.867" width="60.509" height="3.43" style="fill:#f3775b;"/>
+    <rect x="3.269" y="14.308" width="58.938" height="36.787" style="fill:#cecfeb;"/>
+    <rect x="3.269" y="14.373" width="58.938" height="3.43" style="fill:#a6a8ce;"/>
+    <g>
+        <g>
+            <rect x="7.376" y="29.554" width="7.808" height="13.614" style="fill:#2b307e;"/>
+        </g>
+    </g>
+    <rect x="20.716" y="29.554" width="12.026" height="21.477" style="fill:#2b307e;"/>
+    <rect x="43.457" y="29.554" width="12.026" height="21.477" style="fill:#2b307e;"/>
+    <rect x="19.03" y="51.922" width="15.397" height="3.43" style="fill:#f3775b;"/>
+    <rect x="41.771" y="51.922" width="15.397" height="3.43" style="fill:#f3775b;"/>
+</svg>
