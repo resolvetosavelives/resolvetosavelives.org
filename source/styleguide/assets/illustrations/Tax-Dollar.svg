@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <rect id="Tax-Dollar" x="0" y="0" width="64" height="64" style="fill:none;"/>
-    <circle cx="32" cy="32" r="28" style="fill:#2b307e;"/>
-    <clipPath id="_clip1">
-        <circle cx="32" cy="32" r="28"/>
-    </clipPath>
-    <g clip-path="url(#_clip1)">
-        <path d="M32.313,32L76.288,9.452L76.337,54.452L32.313,32Z" style="fill:#f3775b;"/>
-    </g>
-    <path d="M34.019,14.819L30.878,14.819L30.878,18.426C26.534,18.969 24.052,22.149 24.052,26.143C24.052,30.603 26.844,32.62 31.614,34.288C35.376,35.568 36.928,36.692 36.928,38.786C36.928,41.036 35.415,42.665 32.623,42.665C29.559,42.665 27.853,40.958 27.736,37.856L23.354,37.856C23.431,42.471 25.991,45.806 30.878,46.388L30.878,50.033L34.019,50.033L34.019,46.388C38.285,45.884 41.31,43.053 41.31,38.476C41.31,34.443 39.177,32.271 33.554,30.293C30.063,28.975 28.434,28.199 28.434,25.794C28.434,23.545 29.869,22.226 32.119,22.226C34.407,22.226 35.997,23.661 36.036,26.221L40.457,26.221C40.263,21.683 37.858,19.085 34.019,18.465L34.019,14.819Z" style="fill:#fff;fill-rule:nonzero;"/>
+<svg width="100%" height="100%" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Tax-Dollar" x="0.137" y="0" width="64" height="64" style="fill:none;"/>
+    <circle cx="32.137" cy="32" r="28" style="fill:#f1765a;"/>
+    <path d="M34.156,14.819L31.015,14.819L31.015,18.426C26.671,18.969 24.189,22.149 24.189,26.143C24.189,30.603 26.982,32.62 31.752,34.288C35.514,35.568 37.065,36.692 37.065,38.786C37.065,41.036 35.553,42.665 32.76,42.665C29.696,42.665 27.99,40.958 27.874,37.856L23.491,37.856C23.569,42.471 26.128,45.806 31.015,46.388L31.015,50.033L34.156,50.033L34.156,46.388C38.422,45.884 41.447,43.053 41.447,38.476C41.447,34.443 39.314,32.271 33.691,30.293C30.201,28.975 28.572,28.199 28.572,25.794C28.572,23.545 30.007,22.226 32.256,22.226C34.544,22.226 36.134,23.661 36.173,26.221L40.594,26.221C40.4,21.683 37.996,19.085 34.156,18.465L34.156,14.819Z" style="fill:#fff;fill-rule:nonzero;"/>
 </svg>

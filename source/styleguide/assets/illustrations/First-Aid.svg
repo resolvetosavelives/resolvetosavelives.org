@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <rect id="First-Aid" x="0" y="0" width="64" height="64" style="fill:none;"/>
-    <path d="M38,27.12C41.314,27.12 44,24.434 44,21.12C44,19.169 44,17.001 44,15.038C44,13.405 43.351,11.839 42.196,10.684C41.041,9.529 39.475,8.88 37.842,8.88C34.213,8.88 29.642,8.88 26.036,8.88C24.435,8.88 22.9,9.516 21.768,10.648C20.636,11.78 20,13.315 20,14.916C20,16.901 20,19.107 20,21.092C20,24.421 22.699,27.12 26.028,27.12C29.688,27.12 34.344,27.12 38,27.12Z" style="fill:none;stroke:#2b307e;stroke-width:3px;"/>
-    <path d="M54,56C55.657,56 57,54.657 57,53C57,45.895 57,28.105 57,21C57,19.343 55.657,18 54,18C45.098,18 18.902,18 10,18C8.343,18 7,19.343 7,21C7,28.105 7,45.895 7,53C7,54.657 8.343,56 10,56C18.902,56 45.098,56 54,56Z" style="fill:#f3775b;"/>
+<svg width="100%" height="100%" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="First-Aid" x="0.738" y="0" width="64" height="64" style="fill:none;"/>
+    <path d="M38.738,27.12C42.052,27.12 44.738,24.434 44.738,21.12C44.738,19.169 44.738,17.001 44.738,15.038C44.738,13.405 44.089,11.839 42.935,10.684C41.78,9.529 40.213,8.88 38.58,8.88C34.951,8.88 30.381,8.88 26.774,8.88C25.173,8.88 23.638,9.516 22.506,10.648C21.374,11.78 20.738,13.315 20.738,14.916C20.738,16.901 20.738,19.107 20.738,21.092C20.738,24.421 23.437,27.12 26.766,27.12C30.427,27.12 35.083,27.12 38.738,27.12Z" style="fill:none;stroke:#2b307e;stroke-width:3px;"/>
+    <path d="M54.738,56C56.395,56 57.738,54.657 57.738,53C57.738,45.895 57.738,28.105 57.738,21C57.738,19.343 56.395,18 54.738,18C45.837,18 19.64,18 10.738,18C9.081,18 7.738,19.343 7.738,21C7.738,28.105 7.738,45.895 7.738,53C7.738,54.657 9.081,56 10.738,56C19.64,56 45.837,56 54.738,56Z" style="fill:#f3775b;"/>
     <clipPath id="_clip1">
-        <path d="M54,56C55.657,56 57,54.657 57,53C57,45.895 57,28.105 57,21C57,19.343 55.657,18 54,18C45.098,18 18.902,18 10,18C8.343,18 7,19.343 7,21C7,28.105 7,45.895 7,53C7,54.657 8.343,56 10,56C18.902,56 45.098,56 54,56Z"/>
+        <path d="M54.738,56C56.395,56 57.738,54.657 57.738,53C57.738,45.895 57.738,28.105 57.738,21C57.738,19.343 56.395,18 54.738,18C45.837,18 19.64,18 10.738,18C9.081,18 7.738,19.343 7.738,21C7.738,28.105 7.738,45.895 7.738,53C7.738,54.657 9.081,56 10.738,56C19.64,56 45.837,56 54.738,56Z"/>
     </clipPath>
     <g clip-path="url(#_clip1)">
-        <path d="M60,20L4,56L4,64L60,64L60,20Z" style="fill:#2b307e;fill-opacity:0.101961;"/>
+        <path d="M60.738,20L4.738,56L4.738,64L60.738,64L60.738,20Z" style="fill:#2b307e;fill-opacity:0.1;"/>
     </g>
-    <circle cx="32" cy="37" r="14" style="fill:#fff;"/>
+    <circle cx="32.738" cy="37" r="14" style="fill:#fff;"/>
     <clipPath id="_clip2">
-        <circle cx="32" cy="37" r="14"/>
+        <circle cx="32.738" cy="37" r="14"/>
     </clipPath>
     <g clip-path="url(#_clip2)">
-        <rect x="29.003" y="27.12" width="5.995" height="19.76" style="fill:#f3775b;"/>
-        <path d="M41.88,39.997L41.88,34.003L22.12,34.003L22.12,39.997L41.88,39.997Z" style="fill:#f3775b;"/>
-        <path d="M60,20L4,56L4,64L60,64L60,20Z" style="fill:#2b307e;fill-opacity:0.101961;"/>
+        <rect x="29.741" y="27.12" width="5.995" height="19.76" style="fill:#f3775b;"/>
+        <path d="M42.618,39.997L42.618,34.003L22.858,34.003L22.858,39.997L42.618,39.997Z" style="fill:#f3775b;"/>
+        <path d="M60.738,20L4.738,56L4.738,64L60.738,64L60.738,20Z" style="fill:#2b307e;fill-opacity:0.1;"/>
     </g>
 </svg>

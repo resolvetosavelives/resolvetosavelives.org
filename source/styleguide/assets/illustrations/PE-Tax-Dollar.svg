@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="PE-Tax-Dollar" x="0.738" y="0" width="64" height="64" style="fill:none;"/>
+    <circle cx="32.738" cy="32" r="28" style="fill:#4ac661;"/>
+    <path d="M34.757,14.819L31.616,14.819L31.616,18.426C27.272,18.969 24.79,22.149 24.79,26.143C24.79,30.603 27.582,32.62 32.353,34.288C36.115,35.568 37.666,36.692 37.666,38.786C37.666,41.036 36.153,42.665 33.361,42.665C30.297,42.665 28.591,40.958 28.474,37.856L24.092,37.856C24.17,42.471 26.729,45.806 31.616,46.388L31.616,50.033L34.757,50.033L34.757,46.388C39.023,45.884 42.048,43.053 42.048,38.476C42.048,34.443 39.915,32.271 34.292,30.293C30.801,28.975 29.173,28.199 29.173,25.794C29.173,23.545 30.608,22.226 32.857,22.226C35.145,22.226 36.735,23.661 36.774,26.221L41.195,26.221C41.001,21.683 38.597,19.085 34.757,18.465L34.757,14.819Z" style="fill:#fff;fill-rule:nonzero;"/>
+</svg>

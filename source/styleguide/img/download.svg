@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
-    <title>download</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="download" stroke-width="2" stroke="#FFFFFF">
-            <polyline id="Path-3" points="2.94299316 7.07214355 8 10.819458 13.1060791 7.07214355"></polyline>
-            <path d="M1.04491197,14.1210891 L15.0226783,14.1210891" id="Path"></path>
-            <path d="M8,1 L8,10.7938232" id="Path-2"></path>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 34 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;"><rect id="download" x="0" y="0" width="33.96" height="32.312" style="fill:none;"/><clipPath id="_clip1"><rect x="0" y="0" width="33.96" height="32.312"/></clipPath><g clip-path="url(#_clip1)"><rect x="4.524" y="0.093" width="29.436" height="35.086" style="fill:#fff;"/><rect x="-2.176" y="0.093" width="33.214" height="35.086" style="fill:#f3775c;"/><g id="download1" serif:id="download"><path id="Path-3" d="M10.435,15.228l5.057,3.747l5.106,-3.747" style="fill:none;stroke:#fff;stroke-width:2px;"/><path id="Path" d="M8.537,22.277l13.978,0" style="fill:none;stroke:#fff;stroke-width:2px;"/><path id="Path-2" d="M15.492,9.156l0,9.794" style="fill:none;stroke:#fff;stroke-width:2px;"/></g></g></svg>
