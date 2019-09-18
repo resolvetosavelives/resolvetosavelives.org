@@ -231,7 +231,7 @@ figure .assets a {
 }
 
 .illus.large img {
-	width: 256px;
+	width: 400px;
 	height: auto;
 	margin: calc(var(--baseline) /2);
 }
