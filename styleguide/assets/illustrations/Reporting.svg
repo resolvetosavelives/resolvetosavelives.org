@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1;">
+    <rect id="Reporting" x="0.53" y="0.685" width="64" height="64" style="fill:none;"/>
+    <path d="M44.569,2.989L12.911,11.004L12.911,62.381L44.569,54.365L44.569,2.989Z" style="fill:#7f83b6;"/>
+    <path d="M48.026,6.997L12.911,11.004L12.911,62.381L48.026,58.373L48.026,6.997Z" style="fill:#b0b2d2;"/>
+    <rect x="12.911" y="11.004" width="39.239" height="51.377" style="fill:#dfdff2;"/>
+    <clipPath id="_clip1">
+        <rect x="12.911" y="11.004" width="39.239" height="51.377"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <path d="M10.076,9.203L56.464,36.199L57.929,5.955L10.076,9.203Z" style="fill:#fff;fill-opacity:0.27;"/>
+    </g>
+    <path d="M21.267,36.8L44.978,36.8" style="fill:none;stroke:#b0b2d2;stroke-opacity:0.25;stroke-width:1px;"/>
+    <path d="M21.267,30.782L44.978,30.782" style="fill:none;stroke:#b0b2d2;stroke-opacity:0.25;stroke-width:1px;"/>
+    <path d="M21.267,24.764L44.978,24.764" style="fill:none;stroke:#b0b2d2;stroke-opacity:0.25;stroke-width:1px;"/>
+    <path d="M21.336,21.366L21.336,44.004L45.422,44.004" style="fill:none;stroke:#9193b6;stroke-width:1px;"/>
+    <rect x="39.019" y="23.159" width="4.533" height="19.871" style="fill:#8589bd;"/>
+    <rect x="31.569" y="31.247" width="4.533" height="11.783" style="fill:#53ce6a;"/>
+    <rect x="24.12" y="38.158" width="4.533" height="4.872" style="fill:#53ce6a;"/>
+    <rect x="24.159" y="50.022" width="17.927" height="2.022" style="fill:#63679d;fill-opacity:0.38;"/>
+    <rect x="19.341" y="53.8" width="27.562" height="2.022" style="fill:#63679d;fill-opacity:0.38;"/>
+</svg>
