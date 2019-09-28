@@ -456,7 +456,8 @@ label {
 ul.spaced {
   margin-bottom: 2em; }
 
-ul.spaced li {
+ul.spaced li,
+ol.spaced li {
   margin-top: 1em; }
 
 .square-empty,
@@ -719,11 +720,6 @@ blockquote {
   nav li a:hover {
     text-decoration: none; }
 
-  nav li.selected a {
-    border-right: 2px solid #ff8565;
-    color: #ff8565; }
-
-  /* TEMP */
   nav li.selected li a {
     background: none;
     border: none;
