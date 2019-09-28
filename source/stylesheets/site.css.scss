@@ -558,7 +558,8 @@ ul.spaced {
     margin-bottom: 2em;
 }
 
-ul.spaced li {
+ul.spaced li,
+ol.spaced li {
     margin-top: 1em;
 }
 
@@ -877,13 +878,7 @@ blockquote {
         text-decoration: none;
     }
 
-    nav li.selected a {
-        //background: $orange-light;
-        border-right: 2px solid $orange;
-        color: $orange;
-    }
-
-    /* TEMP */ nav li.selected li a {
+    nav li.selected li a {
         background: none;
         border: none;
         color: $link-color;
