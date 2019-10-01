@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 6580 521" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-5133)">
+        <g id="timeline" transform="matrix(1,0,0,1,-299.211,-262.721)">
+            <rect x="299.211" y="5396.42" width="6579.24" height="519.823" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="299.211" y="5396.42" width="6579.24" height="519.823"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1,0,0,1,0.211201,0.416407)">
+                    <g transform="matrix(0.769019,0,0,1,69.1122,3146.42)">
+                        <rect x="299.211" y="2250" width="1584.05" height="519.823" style="fill:rgb(194,196,232);"/>
+                    </g>
+                    <g transform="matrix(0.769019,0,0,1,1358.02,3146.42)">
+                        <rect x="299.211" y="2250" width="1584.05" height="519.823" style="fill:rgb(194,196,232);"/>
+                    </g>
+                    <g transform="matrix(0.769019,0,0,1,2646.93,3146.42)">
+                        <rect x="299.211" y="2250" width="1584.05" height="519.823" style="fill:rgb(194,196,232);"/>
+                    </g>
+                    <g transform="matrix(0.769019,0,0,1,3935.85,3146.42)">
+                        <rect x="299.211" y="2250" width="1584.05" height="519.823" style="fill:rgb(194,196,232);"/>
+                    </g>
+                    <g transform="matrix(0.769019,0,0,1,5224.76,3146.42)">
+                        <path d="M1883.26,2250L299.211,2250L299.211,2769.82L1883.26,2769.82L2150.4,2509.91L1883.26,2250Z" style="fill:rgb(194,196,232);"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,-2265.7,170.158)">
+                    <text x="2770.52px" y="5602.45px" style="font-family:'FlamaCondensed-Bold', 'Flama Condensed';font-weight:750;font-size:325px;fill:white;">Y<tspan x="2926.85px 3072.45px 3249.89px 3414.35px 3472.2px " y="5602.45px 5602.45px 5602.45px 5602.45px 5602.45px ">EAR 1</tspan></text>
+                </g>
+                <g transform="matrix(1,0,0,1,-976.502,170.158)">
+                    <text x="2752.97px" y="5602.45px" style="font-family:'FlamaCondensed-Bold', 'Flama Condensed';font-weight:750;font-size:325px;fill:white;">Y<tspan x="2909.3px 3054.89px 3232.35px 3396.8px 3454.64px " y="5602.45px 5602.45px 5602.45px 5602.45px 5602.45px ">EAR 2</tspan></text>
+                </g>
+                <g transform="matrix(1,0,0,1,315.932,170.158)">
+                    <text x="2751.02px" y="5602.45px" style="font-family:'FlamaCondensed-Bold', 'Flama Condensed';font-weight:750;font-size:325px;fill:white;">Y<tspan x="2907.35px 3052.95px 3230.39px 3394.85px 3452.7px " y="5602.45px 5602.45px 5602.45px 5602.45px 5602.45px ">EAR 3</tspan></text>
+                </g>
+                <g transform="matrix(1,0,0,1,1608.37,170.158)">
+                    <text x="2749.07px" y="5602.45px" style="font-family:'FlamaCondensed-Bold', 'Flama Condensed';font-weight:750;font-size:325px;fill:white;">Y<tspan x="2905.39px 3050.99px 3228.45px 3392.89px 3450.74px " y="5602.45px 5602.45px 5602.45px 5602.45px 5602.45px ">EAR 4</tspan></text>
+                </g>
+                <g transform="matrix(1,0,0,1,2900.8,170.158)">
+                    <text x="2749.72px" y="5602.45px" style="font-family:'FlamaCondensed-Bold', 'Flama Condensed';font-weight:750;font-size:325px;fill:white;">Y<tspan x="2906.05px 3051.64px 3229.1px 3393.55px 3451.39px " y="5602.45px 5602.45px 5602.45px 5602.45px 5602.45px ">EAR 5</tspan></text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
