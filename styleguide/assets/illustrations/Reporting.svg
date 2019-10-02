@@ -15,9 +15,9 @@
     <path d="M21.267,30.782L44.978,30.782" style="fill:none;stroke:#b0b2d2;stroke-opacity:0.25;stroke-width:1px;"/>
     <path d="M21.267,24.764L44.978,24.764" style="fill:none;stroke:#b0b2d2;stroke-opacity:0.25;stroke-width:1px;"/>
     <path d="M21.336,21.366L21.336,44.004L45.422,44.004" style="fill:none;stroke:#9193b6;stroke-width:1px;"/>
-    <rect x="39.019" y="23.159" width="4.533" height="19.871" style="fill:#8589bd;"/>
-    <rect x="31.569" y="31.247" width="4.533" height="11.783" style="fill:#53ce6a;"/>
-    <rect x="24.12" y="38.158" width="4.533" height="4.872" style="fill:#53ce6a;"/>
+    <rect x="39.019" y="23.159" width="4.533" height="19.871" style="fill:#2b307f;"/>
+    <rect x="31.569" y="31.247" width="4.533" height="11.783" style="fill:#676fcb;fill-opacity:0.75;"/>
+    <rect x="24.12" y="38.158" width="4.533" height="4.872" style="fill:#f1765a;"/>
     <rect x="24.159" y="50.022" width="17.927" height="2.022" style="fill:#63679d;fill-opacity:0.38;"/>
     <rect x="19.341" y="53.8" width="27.562" height="2.022" style="fill:#63679d;fill-opacity:0.38;"/>
 </svg>
