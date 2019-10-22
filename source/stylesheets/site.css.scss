@@ -238,6 +238,17 @@ p, .main li {
 	box-shadow: $shadow;
 }
 
+figure {
+    margin: 0;
+}
+
+figure img {
+    max-width: 100%;
+    border: 4px solid #fff;
+	box-shadow: $shadow;
+}
+
+figcaption,
 .caption {
     display: block;
     clear: both;
