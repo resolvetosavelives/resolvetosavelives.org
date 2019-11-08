@@ -148,6 +148,11 @@
     position: relative;
     margin-top: 60px; }
 
+  .time-item:before {
+    content: "";
+    clear: both;
+    display: table; }
+
   .time-right {
     margin-top: 100px;
     /* offsets the right so they're never equal to left */ }
